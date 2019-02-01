@@ -1,6 +1,5 @@
-"""Guess the natural language of a text
-"""
 # coding: utf8
+"""Guess the natural language of a text """
 #
 #   © 2012 spirit <hiddenspirit@gmail.com>
 #   https://bitbucket.org/spirit/guess_language
