@@ -1,13 +1,5 @@
-#join all lines with consecutive text
-%s/\n\(\w\)/ \1/g
-
-#delete all lines that contain only numerics or whitespace
-g/^[0-9\w]*$/d
-
-
-#delete all non breaking spaces
-%s/&nbsp;//g
-
-#delete all double spaces (not real spaces) that were hyphenations
-%s/­ //g
-
+:%s/\n\(\w\)/ \1/g "join all lines with consecutive text
+g/^[0-9\w]*$/d "delete all lines that contain only numerics or whitespace
+:%s/&nbsp;//g "delete all non breaking spaces
+:%s/­ //g "delete all double spaces (not real spaces) that were hyphenations
+:wq
