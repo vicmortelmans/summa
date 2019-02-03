@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." default="all" name="Summa">
+ <property name="saxon-pe.location.ant" value="/home/vic/Programs/jars/saxon9pe.jar"/>
+ <property name="project.home.ant" value="/home/vic/Dropbox/Development/summa/"/>
+  
+
+ <target name="all" depends="summa"/>
+ 
+ <target name="clean">
+  <delete>
+   <fileset dir="flow" includes="*.*"/>
+   <fileset dir="target" includes="*.*"/>
+  </delete>
+ </target>
+ 
+ <target name="dutch">
+  <apply executable="python3" addsourcefile="false">
+   <arg line="split_languages/split_languages.py"/>
+   <fileset dir="source" includes="*.txt"/>
+   <redirector>
+        <!-- redirect STDIN; fileset collects relative to its dir, but we need -->
+        <!-- relative to basedir -->
+        <inputmapper type="glob" from="*.txt" to="source/*.txt"/>
+        <!-- redirect STDOUT to file in dest-dir -->
+        <outputmapper id="out" type="glob" from="*.txt" to="flow/100_dutch*.txt"/>
+   </redirector>
+  </apply>
+ </target>
+
+ <target name="summa" depends="dutch">
+ </target>
+
+</project>
