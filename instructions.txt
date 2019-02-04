@@ -1,5 +1,40 @@
 :%s/\n\(\w\)/ \1/g "join all lines with consecutive text
-g/^[0-9\w]*$/d "delete all lines that contain only numerics or whitespace
-:%s/&nbsp;//g "delete all non breaking spaces
+:g/^[0-9\w]*$/d "delete all lines that contain only numerics or whitespace
 :%s/­ //g "delete all double spaces (not real spaces) that were hyphenations
+:%s/((/«/g "replace faulty left quotes
+:%s/{{/«/g "replace faulty left quotes
+:%s/))/»/g "replace faulty left quotes
+:%s/)>/»/g "replace faulty left quotes
+:%s/<(/«/g "replace faulty left quotes
+:%s/Ic/Ie/g "numbers
+:%s/4C/4e/g "numbers
+:%s/8C/8e/g "numbers
+:%s/1C/1e/g "numbers
+:%s/2C/2e/g "numbers
+:%s/2L/2e/g "numbers
+:%s/VC/Ve/g "numbers
+:%s/°/e/g "numbers
+:%s/''/e/g "numbers
+:%s/4'/4e/g "numbers
+:%s/3'/3e/g "numbers
+:%s/2'/2e/g "numbers
+:%s/lc/1e/g "numbers
+:%s/ le / 1e /g "numbers
+:%s/1 1/11/g "numbers
+:%s/ T /1e/g "numbers
+:%s/\~ //g "hyphenation
+:%s/,,/,/g "comma
+:%s/Cod/God/g "God
+:%s/^ //g "delete spaces as first character of a line
+:%s/Leerstelling. —/\rLeerstelling. —/g "start new line at Leerstelling
+:%s/LEERSTELLING. —/\rLEERSTELLING. —/g "start new line at Leerstelling
+:%s/Bedenkingen. —/\rBedenkingen. —/g "start new line at Bedenkingen
+:%s/BEDENKINGEN. —/\rBEDENKINGEN. —/g "start new line at Bedenkingen
+:%s/Daartegenover staat/\rDaartegenover staat/g "start new line at Daartegenover staat
+:%s/u)/w/g "letter w
+:%s/xv/uw/g "letter w
+:%s/ec ter/echter/g "echter
+:%s/wor t/wordt/g "wordt
+:%s/'h/h/g "'
+:%s/\(\w\)\@<='\(\w\)\@=//gc "remove ' inside words
 :wq

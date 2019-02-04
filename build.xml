@@ -22,12 +22,26 @@
         <!-- relative to basedir -->
         <inputmapper type="glob" from="*.txt" to="source/*.txt"/>
         <!-- redirect STDOUT to file in dest-dir -->
-        <outputmapper id="out" type="glob" from="*.txt" to="flow/100_dutch*.txt"/>
+        <outputmapper id="out" type="glob" from="*.txt" to="flow/*.txt"/>
    </redirector>
   </apply>
  </target>
 
- <target name="summa" depends="dutch">
+ <target name="vim" depends="dutch">
+  <apply executable="vim">
+    <!-- commands line parameters from https://stackoverflow.com/a/23237529/591336 -->
+    <arg line="-T"/>
+    <arg line="dumb"/>
+    <arg line="-n"/>
+    <arg line="-es"/>
+    <arg line="-S"/>
+    <arg line="instructions.txt"/>
+    <srcfile/>
+    <fileset dir="flow"/>
+  </apply>
+ </target>
+
+ <target name="summa" depends="vim">
  </target>
 
 </project>
