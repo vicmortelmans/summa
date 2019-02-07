@@ -1,0 +1,293 @@
+a:link  {
+font : medium/150% Times, 'Times new Roman';
+color : #000000;
+}
+
+a:visited  {
+font : medium/150% Times, 'Times new Roman';
+color : #000000;
+}
+
+.atext  {
+text-decoration : none;
+font : medium Times, 'Times new Roman';
+color : #000000;
+}
+
+.a1:link  {
+font : x-small Times, 'Times new Roman';
+color : #669933;
+}
+
+.a1:visited  {
+font : x-small Times, 'Times new Roman';
+color : #669933;
+}
+
+.a1text  {
+font : bolder x-small Times, 'Times new Roman';
+color : #669933;
+}
+
+.a2textg  {
+font : bolder large Times, 'Times New Roman';
+color : red;
+}
+
+
+.a2:link  {
+font : x-small Times, 'Times new Roman';
+color : red;
+}
+
+.a2o:link  {
+font : small Times, 'Times new Roman';
+color : red;
+text-decoration : none;
+}
+
+.a2o:visited  {
+font : small Times, 'Times new Roman';
+color : red;
+text-decoration : none;
+}
+
+
+.a2:visited  {
+font : x-small Times, 'Times new Roman';
+color : red;
+}
+
+.a2text  {
+font : x-small Times, 'Times new Roman';
+color : red;
+}
+
+.a2textf:link  {
+text-decoration : none;
+font : x-small Times, 'Times new Roman';
+font-weight : bolder;
+color : red;
+vertical-align: baseline;
+position: relative;
+bottom: 0.6em;
+}
+
+.a2textf  {
+text-decoration : none;
+font : x-small Times, 'Times new Roman';
+font-weight : bolder;
+color : blue;
+vertical-align: baseline;
+position: relative;
+bottom: 0.6em;
+}
+
+
+.a3:link  {
+font : x-small Times, 'Times new Roman';
+color : #2E78A7;
+}
+
+.a3o:link  {
+font : small Times, 'Times new Roman';
+color : #2E78A7;
+text-decoration : none;
+}
+
+.a3o:visited  {
+font : small Times, 'Times new Roman';
+color : #2E78A7;
+text-decoration : none;
+}
+
+.a3:visited  {
+font : x-small Times, 'Times new Roman';
+color : #2E78A7;
+}
+
+.a3text  {
+text-decoration : none;
+font : x-small Times, 'Times new Roman';
+color : #2E78A7;
+}
+
+.a3textg  {
+text-decoration : none;
+font : bolder large Times, 'Times new Roman';
+color : #2E78A7;
+font-weight : bolder;
+}
+
+
+.a4:link  {
+text-decoration : none;
+font : x-small Times, 'Times new Roman';
+color : #000000;
+}
+
+.a4o:link  {
+text-decoration : none;
+font : small Times, 'Times new Roman';
+color : #000000;
+}
+
+.a4o:visited  {
+text-decoration : none;
+font : small Times, 'Times new Roman';
+color : #000000;
+}
+
+
+.a4:visited  {
+text-decoration : none;
+font : x-small Times, 'Times new Roman';
+color : #000000;
+}
+
+.a4text  {
+text-decoration : none;
+font : x-small Times, 'Times new Roman';
+color : #000000;
+}
+
+.a4texts  {
+text-decoration : none;
+font : small Times, 'Times new Roman';
+color : #000000;
+font-weight : bold;
+}
+
+.a4textg  {
+text-decoration : none;
+font : large Times, 'Times new Roman';
+color : #000000;
+}
+
+.a4textgb {
+text-decoration : none;
+font : x-large Times, 'Times new Roman';
+color : #000000;
+font-weight : bolder;
+}
+
+
+.a4u:link  {
+font : x-small Times, 'Times new Roman';
+color : #000000;
+text-decoration : underline;
+}
+
+.a4u:visited  {
+font : x-small Times, 'Times new Roman';
+color : #000000;
+text-decoration : underline;
+}
+
+
+
+.a5:link  {
+font : normal medium/120% Times, 'Times new Roman';
+color : #669933;
+}
+
+.a5:visited  {
+font : normal medium/120% Times, 'Times new Roman';
+color : #669933;
+}
+
+.a5text  {
+text-decoration : none;
+font : normal medium/120% Times, 'Times new Roman';
+color : #669933;
+}
+
+.a6text  {
+text-decoration : none;
+font : normal medium/120% Times, 'Times new Roman';
+color : red;
+}
+
+.a6text:link  {
+text-decoration : none;
+font : normal medium/120% Times, 'Times new Roman';
+color : red;
+}
+
+
+.a7:link  {
+font : x-small Times, 'Times new Roman';
+color : #000000;
+}
+
+.a8text  {
+font : x-small Times, 'Times new Roman';
+color : blue;
+text-decoration : none;
+}
+
+.a8text:link  {
+font : x-small Times, 'Times new Roman';
+color : blue;
+text-decoration : none;
+}
+
+.a8text:visited  {
+font : x-small Times, 'Times new Roman';
+color : blue;
+text-decoration : none;
+}
+
+.a15:link  {
+font : normal medium/120% Times, 'Times new Roman';
+color : #669933;
+text-decoration : none;
+font-weight : bold;
+}
+
+.a15:visited  {
+font : normal medium/120% Times, 'Times new Roman';
+color : #669933;
+text-decoration : none;
+font-weight : bold;
+}
+
+
+
+
+p  {
+font : normal medium/120% Times, 'Times new Roman';
+}
+
+h1  {
+font : bolder large Times, 'Times New Roman';
+color : #669933;
+}
+
+h2  {
+font-family : bolder large Times, 'Times new Roman';
+font-weight : bolder;
+}
+
+blockquote  {
+font : normal medium/120% Times, 'Times new Roman';
+}
+
+.a40:link  {
+text-decoration : none;
+font : x-small Times, 'Times new Roman';
+color :  green;
+}
+
+.a40:visited  {
+text-decoration : none;
+font : x-small Times, 'Times new Roman';
+color : green;
+}
+
+.a40  {
+text-decoration : none;
+font : x-small Times, 'Times new Roman';
+color :  green;
+}
+
