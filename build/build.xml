@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." default="all" name="Summa">
+ <property name="saxon-pe.location.ant" value="/home/vic/Programs/jars/saxon9pe.jar"/>
+ <property name="project.home.ant" value="/home/vic/Drive/GelovenLeren/Summa/build/"/>
+  
+
+ <!--
+   kapitel: [BRON] kopie van het boek van de website kirchevaeter.de
+   kapitel_tidy: kapitel na html tidying
+   xml_latin: alle files uit kapitel_tidy gebundeld en gestructureerd als xml (platte lijst van lemma's)
+   xml_latin_tree: xml_latin met hierarchische structuur en gesorteerd
+   geloofsverdediging: [BRON] opgekuiste tekstfiles van de Nederlandse vertaling
+      elk lemma is voorafgegaan door een label, bv. 1.2.3.co (boek I, quaestio 2, artikel 3, leerstelling)
+   geloofsverdediging_xml: de files uit geloofsverdediging gestructureerd als xml (platte lijst)
+   geloofsverdedigin_titels: [BRON] opgekuiste tekstfiles van de inhoudstafel van de Nederlandse vertaling
+      elke reeks titel is voorafgegaan door een label, bv. 1.2 (boek I, quaestio 2)
+      eerst volgt dan de titel van de quaestio en vervolgens de titels van de artikels
+   geloofsverdediging_titels_xml: de files uit geloofsverdediging_titels gestructureerd als xml
+   xml_latin_nl: xml_latin_tree with dutch texts and titles sucked in
+   summa: xml_latin_nl transformed into the website pages (exc. the welcome page)
+   -->
+
+ <target name="all" depends="summa"/>
+ 
+ <target name="clean">
+  <delete>
+   <fileset dir="kapitel_tidy" includes="*.*"/>
+   <fileset dir="xml_latin" includes="*.*"/>
+   <fileset dir="summa" includes="liber*.*"/><!-- don't delete the index.html and other html resources -->
+  </delete>
+ </target>
+ 
+ <target name="kapitel_tidy">
+  <apply executable="tidy" dest="kapitel_tidy">
+   <arg line="-asxhtml"/>
+   <arg line="-quiet"/>
+   <arg line="-output"/>
+   <targetfile/>
+   <srcfile/>
+   <fileset dir="kapitel" includes="*.htm"/>
+   <identitymapper/>
+  </apply>
+ </target>
+
+ <target name="geloofsverdediging_xml">
+  <apply executable="python" addsourcefile="false">
+    <arg line="geloofsverdediging2xml.py"/>
+    <fileset dir="geloofsverdediging" includes="*.txt"/>
+    <redirector>
+        <!-- redirect STDIN; fileset collects relative to its dir, but we need -->
+        <!-- relative to basedir -->
+        <inputmapper type="glob" from="*" to="geloofsverdediging/*"/>
+        <!-- redirect STDOUT to file in dest-dir -->
+        <outputmapper id="out" type="glob" from="*.txt" to="geloofsverdediging_xml/*.xml"/>
+    </redirector>
+  </apply>
+ </target>
+
+ <target name="xml_latin" depends="kapitel_tidy">
+  <!-- this task will only run if the target directory is emptied !! -->
+  <!-- transform the set of kapitel*.html files into a single xml file -->
+  <!-- the stylesheet is only run once, using the dummy.html as fake input -->
+  <xslt style="xml_latin.xslt" in="dummy.htm" out="xml_latin/xml_latin.xml">
+   <classpath location="${saxon-pe.location.ant}" />
+  </xslt>
+ </target>
+
+ <target name="xml_latin_tree" depends="xml_latin">
+  <xslt style="xml_latin_tree.xslt" in="xml_latin/xml_latin.xml" out="xml_latin_tree/xml_latin_tree.xml">
+   <classpath location="${saxon-pe.location.ant}" />
+  </xslt>
+ </target>
+ 
+ <target name="geloofsverdediging_titels_xml">
+  <apply executable="python" addsourcefile="false">
+    <arg line="geloofsverdediging_titels2xml.py"/>
+    <fileset dir="geloofsverdediging_titels" includes="*.txt"/>
+    <redirector>
+        <!-- redirect STDIN; fileset collects relative to its dir, but we need -->
+        <!-- relative to basedir -->
+        <inputmapper type="glob" from="*" to="geloofsverdediging_titels/*"/>
+        <!-- redirect STDOUT to file in dest-dir -->
+        <outputmapper id="out" type="glob" from="*.txt" to="geloofsverdediging_titels_xml/*.xml"/>
+    </redirector>
+  </apply>
+ </target>
+
+ <target name="xml_latin_nl" depends="xml_latin_tree, geloofsverdediging_xml,geloofsverdediging_titels_xml">
+  <!-- touch the xml_latin_tree.xml if you want this target to run -->
+  <xslt style="xml_latin_nl.xslt" in="xml_latin_tree/xml_latin_tree.xml" out="xml_latin_nl/xml_latin_nl.xml">
+   <classpath location="${saxon-pe.location.ant}" />
+  </xslt>
+ </target>
+ 
+ <target name="summa" depends="xml_latin_nl">
+  <xslt style="summa.xslt" in="xml_latin_nl/xml_latin_nl.xml" out="dummy-output.html">
+   <classpath location="${saxon-pe.location.ant}" />
+  </xslt>
+ </target>
+
+</project>
