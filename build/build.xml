@@ -18,6 +18,7 @@
    geloofsverdediging_titels_xml: de files uit geloofsverdediging_titels gestructureerd als xml
    xml_latin_nl: xml_latin_tree with dutch texts and titles sucked in
    summa: xml_latin_nl transformed into the website pages (exc. the welcome page)
+   deploy: copy summa/**.* to ../docs/**.* (which is published on GitHub)
    -->
 
  <target name="all" depends="summa"/>
@@ -96,6 +97,12 @@
   <xslt style="summa.xslt" in="xml_latin_nl/xml_latin_nl.xml" out="dummy-output.html">
    <classpath location="${saxon-pe.location.ant}" />
   </xslt>
+ </target>
+
+ <target name="deploy" depends="summa">
+  <copy todir="../docs">
+    <fileset dir="summa" includes="**"/>
+  </copy>
  </target>
 
 </project>
