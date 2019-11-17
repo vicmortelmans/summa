@@ -28,3 +28,6 @@ How to publish a new chapter:
 6. in the root folder:
   a. git commit -am "Added Quaestiones xx to yy"
   b. git push origin master
+7. synchronize the cached index at Alledaags:
+  https://sync-dot-catecheserooster.appspot.com/init?key=summa
+
