@@ -17,7 +17,7 @@
       eerst volgt dan de titel van de quaestio en vervolgens de titels van de artikels
    geloofsverdediging_titels_xml: de files uit geloofsverdediging_titels gestructureerd als xml
    xml_latin_nl: xml_latin_tree with dutch texts and titles sucked in
-   summa: xml_latin_nl transformed into the website pages (exc. the welcome page)
+   summa: xml_latin_nl transformed into the website pages (exc. the welcome page) + the index xml (for Alledaags)
    deploy: copy summa/**.* to ../docs/**.* (which is published on GitHub)
    -->
 
@@ -99,7 +99,13 @@
   </xslt>
  </target>
 
- <target name="deploy" depends="summa">
+ <target name="summa-index" depends="xml_latin_nl">
+  <xslt style="index.xslt" in="xml_latin_nl/xml_latin_nl.xml" out="summa/index.xml">
+   <classpath location="${saxon-pe.location.ant}" />
+  </xslt>
+ </target>
+
+ <target name="deploy" depends="summa,summa-index">
   <copy todir="../docs">
     <fileset dir="summa" includes="**"/>
   </copy>
