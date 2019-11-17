@@ -25,7 +25,7 @@
     <articulus>
       <title><xsl:value-of select="@title"/></title>
       <url>https://summa.gelovenleren.net/<xsl:value-of select="f:file(..)"/>#articulus<xsl:value-of select="@index"/></url>
-      <image>https://summa.gelovenleren.net/images/eclid/book<xsl:value-of select="lemma[1]/liber"/>.png</image>
+      <image>https://summa.gelovenleren.net/images/euclid/book<xsl:value-of select="lemma[1]/liber"/>.png</image>
     </articulus>
   </xsl:template>
 
