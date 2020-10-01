@@ -25,6 +25,7 @@ How to publish a new chapter:
   a. ant clean
   b. ant
   c. ant deploy
+  Note: the xml_latin.xslt stylesheet seems to freeze when using Saxon PE from 2015
 6. in the root folder:
   a. git commit -am "Added Quaestiones xx to yy"
   b. git push origin master

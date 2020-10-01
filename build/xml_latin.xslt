@@ -4,11 +4,13 @@
   xpath-default-namespace="http://www.w3.org/1999/xhtml">
   <xsl:output method="xml" indent="yes"/>
   <xsl:template match="/">
+    <xsl:message>xml-latin.xslt template /</xsl:message>
     <summa>
       <xsl:apply-templates select="collection('./kapitel_tidy?select=kapitel*.htm')/html"/>
     </summa>
   </xsl:template>
   <xsl:template match="p[span[@class='a2textf']]">
+    <xsl:message>xml-latin.xslt template p[span[@class='a2textf']]</xsl:message>
     <lemma>
       <xsl:variable name="html" select="ancestor::html"/>
       <xsl:variable name="liber" select="($html//span[@class='a3text'])[1]/text()"/>
