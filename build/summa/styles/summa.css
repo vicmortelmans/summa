@@ -137,31 +137,6 @@ section { border-bottom: 1px solid rgba(0, 0, 0, 0.2); padding: 6vw 0 calc(6vw -
 .callout { border: 1px solid #000; display: inline-block; letter-spacing: 0.15em; margin-bottom: 2em; padding: 20px 20px 15px; }
 .callout-r { float: right; margin: 0 0 2em 1em; }
 
-    /* Custom */
-        /* Book 5, Proposition G */
-        .callout.b5pg { display: inline-flex; justify-content: space-evenly; max-width: 700px; }
-        .callout.b5pg .callout-content { flex: 1 1 auto; padding: 10px 40px; }
-        .callout.b5pg p { margin: 0; }
-        .callout.b5pg var { display: inline-block; text-align: center; width: 1em; }
-        
-        /* Book 5, Proposition K */
-        .callout.b5pk { align-items: center; display: inline-flex; justify-content: space-evenly; letter-spacing: 0.06em; }
-        .callout.b5pk .callout-content { flex: 1 1 auto; padding: 10px 40px; }
-        .callout.b5pk p { margin: 0; }
-        .callout.b5pk .paired { display: inline-block; position: relative; }
-        
-        .callout.b5pk .paired:after {
-            color: #000;
-            content: attr(data-pair);
-            left: 50%;
-            position: absolute;
-            white-space: nowrap;
-        }
-        
-        .callout.b5pk .paired-above:after { top: 0; transform: translate(-50%, -100%); }
-        .callout.b5pk .paired-below:after { bottom: 0; transform: translate(-50%, 100%); }
-        .callout.b5pk .varset-custom { color: transparent; }
-
 /* Columns */
 .col2 { flex: 0 0 auto; padding: 40px; width: 50%; }
 .col3 { flex: 0 0 auto; padding: 40px; width: calc(100% / 3); }
@@ -507,7 +482,7 @@ p.message {
     figure { position: static; }
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1550px) {
     /* Basics */
     html { font-size: 20px; }
     
@@ -556,13 +531,13 @@ p.message {
     #nav-secondary { padding: 10px; }
     #nav-secondary { height: calc(100% - 51px); padding: 15px; top: 51px; }
     #nav-secondary .nav-secondary-cols { column-count: 3; font-size: 1rem; }
-    #nav-secondary-toggle { border: 0; flex: 0 0 auto; width: 3rem; }
+    #nav-secondary-toggle { border: 0; flex: 0 0 auto; /* width: 3rem; */}
     #nav-secondary-toggle .fal { font-size: 1em; }
-    #nav-secondary-toggle-label { display: none; }
+    /* #nav-secondary-toggle-label { display: none; } */
     #nav-toggle { flex: 0 0 auto; display: block; width: 3rem; }
 }
 
-@media screen and (max-height: 900px) {
+@media screen and (max-height: 850px) {
     figure { top: 150px; margin-right: -51.39%; width: 250px; }
 }
 
