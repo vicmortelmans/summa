@@ -478,11 +478,11 @@ p.message {
 
 /* Widths
 =====================================================================*/
-@media screen and (max-width: 1250px) {
+@media screen and (max-width: 1400px) {
     figure { position: static; }
 }
 
-@media screen and (max-width: 1550px) {
+@media screen and (max-width: 1400px) {
     /* Basics */
     html { font-size: 20px; }
     
@@ -537,11 +537,11 @@ p.message {
     #nav-toggle { flex: 0 0 auto; display: block; width: 3rem; }
 }
 
-@media screen and (max-height: 850px) {
-    figure { top: 150px; margin-right: -51.39%; width: 250px; }
+@media screen and (max-height: 900px) {
+    figure { top: 150px; /*margin-right: -51.39%;*/ width: 250px; }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 900px) {
     /* Basics */
     dd { margin-bottom: 2em; width: auto; }
     dl { display: block; }
