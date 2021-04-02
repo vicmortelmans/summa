@@ -18,6 +18,7 @@ target
 How to publish a new chapter:
 
 1. clean up the txt file in build/summa/bronbestanden
+  - set list to show line ends
 2. copy it to build/geloofsverdediging
 3. add it to git
 4. edit build/summa/about.html to mark the chapter as published
