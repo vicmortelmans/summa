@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <summa>
   <quaestio index="1" liber="1" title="Over de gewijde leer : wat zij is en wat bij bevat ">
-    <articulus index="1" title="Is er buiten de wijsbegeerte nog een andere leer noodig? " />
+    <articulus index="1" title="Is er buiten de wijsbegeerte nog een andere leer nodig? " />
   <articulus index="2" title="Is de gewijde leer een wetenschap? " />
   <articulus index="3" title="Is de gewijde leer een enkelvoudige wetenschap? " />
-  <articulus index="4" title="Is de gewijde leer eenpraktische wetenschap? " />
+  <articulus index="4" title="Is de gewijde leer een praktische wetenschap? " />
   <articulus index="5" title="Is de gewijde leer verhevener dan de andere wetenschappen? " />
-  <articulus index="6" title="Is de gewijde leer de hoogste wetenschap of &#171; wijsheid? " />
+  <articulus index="6" title="Is de gewijde leer de hoogste wetenschap of wijsheid? " />
   <articulus index="7" title="Is God het onderwerp van deze wetenschap? " />
   <articulus index="8" title="Wendt men bij deze leer bewijsvoeringen aan? " />
   <articulus index="9" title="Moet de H. Schrift in beeldspraak spreken? " />
@@ -42,7 +42,7 @@
   </quaestio>
 <quaestio index="6" liber="1" title="Over Gods goed-zijn ">
     <articulus index="1" title="Komt het aan God toe goed te zijn? " />
-  <articulus index="2" title="Is God h&#233;t opperste goed? " />
+  <articulus index="2" title="Is God het opperste goed? " />
   <articulus index="3" title="Is God alleen naar zijn wezenheid goed? " />
   <articulus index="4" title="Zijn alle dingen goed door het goddelijk goed-zijn? " />
   </quaestio>
@@ -77,11 +77,11 @@
   </quaestio>
 <quaestio index="12" liber="1" title="Hoe wij God kennen ">
     <articulus index="1" title="Kan een geschapen verstand God in zijn wezenheid aanschouwen? " />
-  <articulus index="2" title="Kan het geschapen verstand Gods wezenheid zien door eenige gelijkenis? " />
-  <articulus index="3" title="Kan Gods wezen door lichamelijke oogen aanschouwd worden? " />
-  <articulus index="4" title="Kan een geschapen verstand 'het wezen van God aanschouwen door zijn natuurlijke kracht? " />
-  <articulus index="5" title="Heeft het geschapj&#235;n verstand een geschapen licht noodig om Gods wezen te aanschouwen? " />
-  <articulus index="6" title="Is de aanschouwing van Gods wezen bij den eenen volmaakter dan bij den ander? " />
+  <articulus index="2" title="Kan het geschapen verstand Gods wezenheid zien door enige gelijkenis? " />
+  <articulus index="3" title="Kan Gods wezen door lichamelijke ogen aanschouwd worden? " />
+  <articulus index="4" title="Kan een geschapen verstand het wezen van God aanschouwen door zijn natuurlijke kracht? " />
+  <articulus index="5" title="Heeft het geschapen verstand een geschapen licht nodig om Gods wezen te aanschouwen? " />
+  <articulus index="6" title="Is de aanschouwing van Gods wezen bij den ene volmaakter dan bij de ander? " />
   <articulus index="7" title="Zullen zij die God in zijn wezen aanschouwen, Hem ten volle begrijpen? " />
   <articulus index="8" title="Ziet men de dingen in Gods wezen door middel van een of ander kenbeeld? " />
   <articulus index="9" title="Zien zij die God in zijn wezen aanschouwen alles wat zij in Hem zien tegelijk? " />
@@ -92,16 +92,16 @@
 <quaestio index="13" liber="1" title="Over de goddelijke Namen ">
     <articulus index="1" title="Is er een geschikte naam om God te benoemen? " />
   <articulus index="2" title="Duiden sommige namen Gods zelfstandigheid aan? " />
-  <articulus index="3" title="Worden sommige namen op God toegepastiin eigenlijken zin? " />
-  <articulus index="4" title="Zijn de namen van God gelijkbeteekenend? " />
+  <articulus index="3" title="Worden sommige namen op God toegepast in eigenlijke zin? " />
+  <articulus index="4" title="Zijn de namen van God gelijkbetekenend? " />
   <articulus index="5" title="Zijn de gemeenschappelijke namen van God en van de schepselen &#233;&#233;nzinnig? " />
-  <articulus index="6" title="Zijn die namen eerder van de schepselen zeg&#173; baar dan van God? " />
+  <articulus index="6" title="Zijn die namen eerder van de schepselen zegbaar dan van God? " />
   <articulus index="7" title="Worden de namen die een betrekking tot de schepselen meebrengen, op God toegepast met een begin in den tijd? " />
   <articulus index="8" title="Duidt de naam God de goddelijke natuur aan? " />
   <articulus index="9" title="Is de naam God ommedeelbaar? " />
-  <articulus index="10" title="Is de naam God in eenzinnige of dubbel&#173; zinnige wijze zegbaar van Hem, die van nature God is, van de wezens, die door deelhebben God zijn, en van hen, die God zijn naar de meening der menschen? " />
+  <articulus index="10" title="Is de naam God in eenzinnige of dubbelzinnige wijze zegbaar van Hem, die van nature God is, van de wezens, die door deelhebben God zijn, en van hen, die God zijn naar de mening der mensen? " />
   <articulus index="11" title="Is de naam Hij die is de meest geeigende naam voor God? " />
-  <articulus index="12" title="Kunnen wij bevestigende zinnen vormen om&#173; trent God? " />
+  <articulus index="12" title="Kunnen wij bevestigende zinnen vormen omtrent God? " />
   </quaestio>
 <quaestio index="14" liber="1" title="Over de kennis van God ">
     <articulus index="1" title="Is er wetenschap in God? " />
@@ -111,7 +111,7 @@
   <articulus index="5" title="Kent God wat buiten Hem ligt? " />
   <articulus index="6" title="Kent God, door een eigen kennis, wat buiten Hem ligt? " />
   <articulus index="7" title="Gaat de kennis van God over van het een . naar het ander? " />
-  <articulus index="8" title="Kent God 'het niet-zijnde? " />
+  <articulus index="8" title="Kent God het niet-zijnde? " />
   <articulus index="9" title="Kent God het kwaad? " />
   <articulus index="10" title="Kent God de dingen in het bizonder? " />
   <articulus index="11" title="Kan God het oneindige kennen? " />
@@ -127,19 +127,19 @@
   </quaestio>
 <quaestio index="16" liber="1" title="Over de waarheid ">
     <articulus index="1" title="Is de waarheid alleen in het verstand? " />
-  <articulus index="2" title="Is de waarheid alleen inliet samenstellend en scheidendverstand? " />
+  <articulus index="2" title="Is de waarheid alleen in het samenstellend en scheidend verstand? " />
   <articulus index="3" title="Zijn het ware en het zijnde omkeerbaar? " />
-  <articulus index="4" title="Gaat het goede, naar heti begrip, het ware vooraf? " />
+  <articulus index="4" title="Gaat het goede, naar het begrip, het ware vooraf? " />
   <articulus index="5" title="Is God de waarheid? " />
-  <articulus index="6" title="Is de waarheid, waardoor alle dingen waar zijn, eenig? " />
+  <articulus index="6" title="Is de waarheid, waardoor alle dingen waar zijn, enig? " />
   <articulus index="7" title="Is de geschapen waarheid eeuwig? " />
   <articulus index="8" title="Is de waarheid onveranderlijk? " />
   </quaestio>
-<quaestio index="17" liber="1" title="Over de valschheid ">
-    <articulus index="1" title="Is er valschheid in de dingen? " />
-  <articulus index="2" title="Is er valschheid in de zinnen? " />
-  <articulus index="3" title="Is er valschheid in het verstand? " />
-  <articulus index="4" title="Is er tusschen het ware en het valsche een verhouding van tegenstelling? " />
+<quaestio index="17" liber="1" title="Over de valsheid ">
+    <articulus index="1" title="Is er valsheid in de dingen? " />
+  <articulus index="2" title="Is er valsheid in de zinnen? " />
+  <articulus index="3" title="Is er valsheid in het verstand? " />
+  <articulus index="4" title="Is er tussen het ware en het valse een verhouding van tegenstelling? " />
   </quaestio>
 <quaestio index="18" liber="1" title="Over het leven van God ">
     <articulus index="1" title="Leven alle natuurdingen? " />
@@ -147,19 +147,19 @@
   <articulus index="3" title="Komt het leven toe aan God? " />
   <articulus index="4" title="Zijn alle dingen leven in God? " />
   </quaestio>
-<quaestio index="19" liber="1" title="Over den wil van God ">
+<quaestio index="19" liber="1" title="Over de wil van God ">
     <articulus index="1" title="Heeft God een wil? " />
   <articulus index="2" title="Wil God de dingen, die buiten Hem liggen? " />
   <articulus index="3" title="Wil God alles wat Hij wil, noodzakelijk? " />
   <articulus index="4" title="Is Gods wil de oorzaak van de dingen? " />
-  <articulus index="5" title="Is Gods wil afhankelijk van eenoorzaak? " />
+  <articulus index="5" title="Is Gods wil afhankelijk van een oorzaak? " />
   <articulus index="6" title="Wordt Gods wil altijd vervuld? " />
   <articulus index="7" title="Is Gods wil veranderlijk? " />
   <articulus index="8" title="Is alles noodzakelijk omdat het door God gewild is? " />
   <articulus index="9" title="Wil God het kwaad? " />
   <articulus index="10" title="Is God vrij? " />
-  <articulus index="11" title="Moet men in God een &#171; willen van het teeken &#187; aannemen? " />
-  <articulus index="12" title="Moet men in God vijf verschillende &#171; willen van het teeken &#187; aannemen? " />
+  <articulus index="11" title="Moet men in God een &#171; willen van het teken &#187; aannemen? " />
+  <articulus index="12" title="Moet men in God vijf verschillende &#171; willen van het teken &#187; aannemen? " />
   </quaestio>
 <quaestio index="20" liber="1" title="Over de liefde van God ">
     <articulus index="1" title="Is er Liefde in God? " />
@@ -180,10 +180,10 @@
   <articulus index="4" title="Oefent Gods Voorzienigheid dwang uit op de dingen, waartoe ze zich uitstrekt? " />
   </quaestio>
 <quaestio index="23" liber="1" title="Over de voorbestemming ">
-    <articulus index="1" title="Worden de menschen door God voorbestemd? " />
+    <articulus index="1" title="Worden de mensen door God voorbestemd? " />
   <articulus index="2" title="Beantwoordt er in de voorbestemden iets aan de voorbestemming? " />
   <articulus index="3" title="Worden sommigen door God verworpen? " />
-  <articulus index="4" title="Worden de voorbestemden door God uit&#173; verkoren? " />
+  <articulus index="4" title="Worden de voorbestemden door God uitverkoren? " />
   <articulus index="5" title="Is de voorkennis der verdiensten de oorzaak van de voorbestemming? " />
   <articulus index="6" title="Is de Voorbestemming zeker? " />
   <articulus index="7" title="Staat het getal der voorbestemden vast? " />

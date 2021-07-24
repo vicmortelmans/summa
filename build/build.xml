@@ -26,13 +26,13 @@
  <target name="clean">
   <delete>
    <fileset dir="kapitel_tidy" includes="*.*"/>
-   <fileset dir="xml_latin" includes="*.*"/>
+   <!--fileset dir="xml_latin" includes="xml_latin.xml"/-->
    <fileset dir="summa" includes="liber*.*"/><!-- don't delete the index.html and other html resources -->
   </delete>
  </target>
  
  <target name="kapitel_tidy">
-  <apply executable="tidy" dest="kapitel_tidy">
+  <!--apply executable="tidy" dest="kapitel_tidy">
    <arg line="-asxhtml"/>
    <arg line="-quiet"/>
    <arg line="-output"/>
@@ -40,7 +40,7 @@
    <srcfile/>
    <fileset dir="kapitel" includes="*.htm"/>
    <identitymapper/>
-  </apply>
+  </apply-->
  </target>
 
  <target name="geloofsverdediging_xml">
