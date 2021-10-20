@@ -88,6 +88,7 @@
 
  <target name="xml_latin_nl" depends="xml_latin_tree, geloofsverdediging_xml,geloofsverdediging_titels_xml">
   <!-- touch the xml_latin_tree.xml if you want this target to run -->
+  <touch file="xml_latin_tree/xml_latin_tree.xml"/>
   <xslt style="xml_latin_nl.xslt" in="xml_latin_tree/xml_latin_tree.xml" out="xml_latin_nl/xml_latin_nl.xml">
    <classpath location="${saxon-pe.location.ant}" />
   </xslt>
