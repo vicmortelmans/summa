@@ -104,6 +104,9 @@
   <xslt style="index.xslt" in="xml_latin_nl/xml_latin_nl.xml" out="summa/index.xml">
    <classpath location="${saxon-pe.location.ant}" />
   </xslt>
+  <xslt style="sitemap.xslt" in="xml_latin_nl/xml_latin_nl.xml" out="summa/sitemap.txt">
+   <classpath location="${saxon-pe.location.ant}" />
+  </xslt>
  </target>
 
  <target name="deploy" depends="summa,summa-index">
