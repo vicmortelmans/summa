@@ -28,6 +28,7 @@ How to publish a new chapter:
   c. ant deploy
   Note: the xml_latin.xslt stylesheet seems to freeze when using Saxon PE from 2015
 6. in the root folder:
+  a. git status (check if any new files in docs/ need adding)
   a. git commit -am "Added Quaestiones xx to yy"
   b. git push origin master
 7. synchronize the cached index at Alledaags:

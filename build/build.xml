@@ -109,7 +109,12 @@
   </xslt>
  </target>
 
- <target name="deploy" depends="summa,summa-index">
+ <target name="robots">
+   <echo file="summa/robots.txt">User-agent: *
+Disallow: /bronbestanden/</echo>
+ </target>
+
+ <target name="deploy" depends="summa,summa-index,robots">
   <copy todir="../docs">
     <fileset dir="summa" includes="**"/>
   </copy>
