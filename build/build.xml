@@ -19,6 +19,7 @@
    xml_latin_nl: xml_latin_tree with dutch texts and titles sucked in
    summa: xml_latin_nl transformed into the website pages (exc. the welcome page) + the index xml (for Alledaags)
    deploy: copy summa/**.* to ../docs/**.* (which is published on GitHub)
+   markdown: xml_latin_nl transformed into markdown files
    -->
 
  <target name="all" depends="summa"/>
@@ -95,9 +96,10 @@
  </target>
  
  <target name="summa" depends="xml_latin_nl">
-  <xslt style="summa.xslt" in="xml_latin_nl/xml_latin_nl.xml" out="dummy-output.html">
+  <xslt style="summa.xslt" in="xml_latin_nl/xml_latin_nl.xml" out="dummy-output.summa">
    <classpath location="${saxon-pe.location.ant}" />
   </xslt>
+  <delete file="dummy-output.summa"/>
  </target>
 
  <target name="summa-index" depends="xml_latin_nl">
@@ -120,4 +122,10 @@ Disallow: /bronbestanden/</echo>
   </copy>
  </target>
 
+ <target name="markdown" depends="xml_latin_nl">
+  <xslt style="markdown.xslt" in="xml_latin_nl/xml_latin_nl.xml" out="dummy-output.markdown">
+   <classpath location="${saxon-pe.location.ant}" />
+  </xslt>
+  <delete file="dummy-output.markdown"/>
+ </target>
 </project>
