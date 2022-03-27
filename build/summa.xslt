@@ -74,7 +74,19 @@
     <ul class="nav-secondary-list">
         <xsl:for-each select="../quaestio">
           <xsl:variable name="file" select="f:file(.)"/>
-          <li><a href="{$file}">Quaestio <xsl:value-of select="@index"/><br/><xsl:value-of select="@title"/></a></li>
+          <xsl:variable name="contents">Quaestio <xsl:value-of select="@index"/><br/><xsl:value-of select="@title"/></xsl:variable>
+          <li>
+              <a href="{$file}">
+                  <xsl:choose>
+                      <xsl:when test=".//nl[not(abest)]">
+                          <b><xsl:value-of select="$contents"/></b>
+                      </xsl:when>
+                      <xsl:otherwise test=".//nl[not(abest)]">
+                          <xsl:value-of select="$contents"/>
+                      </xsl:otherwise>
+                  </xsl:choose>
+              </a>
+          </li>
         </xsl:for-each>
     </ul>
 </nav>

@@ -41,5 +41,4 @@ Corrections:
 5. '/ezen '
 6. '/[Dd]ien '
 7. '/[Zz]óó
-
-02 11 23 need spellchecking!
+8. '/welken '

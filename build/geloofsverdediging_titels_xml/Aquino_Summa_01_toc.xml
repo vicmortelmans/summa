@@ -22,7 +22,7 @@
   <articulus index="2" title="Is God samengesteld uit vorm en stof? " />
   <articulus index="3" title="Is God hetzelfde als zijn wezenheid of zijn natuur? " />
   <articulus index="4" title="Is in God de wezenheid hetzelfde als het bestaan? " />
-  <articulus index="5" title="Behoort God t&#243;t een geslacht? " />
+  <articulus index="5" title="Behoort God tot een geslacht? " />
   <articulus index="6" title="Zijn er bijkomstigheden in God? " />
   <articulus index="7" title="Is God geheel enkelvoudig? " />
   <articulus index="8" title="Maakt God deel uit van de dingen buiten Hem? " />
@@ -33,7 +33,7 @@
   <articulus index="3" title="Zijn de schepselen aan God gelijk? " />
   </quaestio>
 <quaestio index="5" liber="1" title="Over het goede in het algemeen ">
-    <articulus index="1" title="Is er een wezenlijk onderscheid tusschen het goede en het zijnde? " />
+    <articulus index="1" title="Is er een wezenlijk onderscheid tussen het goede en het zijnde? " />
   <articulus index="2" title="Gaat, naar het begrip, het goede vooraf aan het zijnde? " />
   <articulus index="3" title="Is elk zijnde goed? " />
   <articulus index="4" title="Is bet goede doeloorzaak? " />
@@ -63,10 +63,10 @@
   <articulus index="2" title="Is onveranderlijk te zijn eigen aan God alleen? " />
   </quaestio>
 <quaestio index="10" liber="1" title="Over de eeuwigheid van God ">
-    <articulus index="1" title="Is deze begripsbepaling van de eeuwgheid goed: &#171; Het geheel en onverdeeld volkomen bezit van een nooit eindigend leven &#187;? " />
+    <articulus index="1" title="Is deze begripsbepaling van de eeuwigheid goed: &#171; Het geheel en onverdeeld volkomen bezit van een nooit eindigend leven &#187;? " />
   <articulus index="2" title="Is God eeuwig? " />
   <articulus index="3" title="Is eeuwig te zijn eigen aan God alleen? " />
-  <articulus index="4" title="Is er verschil tusschen de eeuwigheid en den tijd? " />
+  <articulus index="4" title="Is er verschil tussen de eeuwigheid en den tijd? " />
   <articulus index="5" title="Is er maar &#233;&#233;n enkel &#171; aevum &#187;? " />
   </quaestio>
 <quaestio index="11" liber="1" title="Over de eenheid van God ">
@@ -98,9 +98,9 @@
   <articulus index="6" title="Zijn die namen eerder van de schepselen zegbaar dan van God? " />
   <articulus index="7" title="Worden de namen die een betrekking tot de schepselen meebrengen, op God toegepast met een begin in den tijd? " />
   <articulus index="8" title="Duidt de naam God de goddelijke natuur aan? " />
-  <articulus index="9" title="Is de naam God ommedeelbaar? " />
-  <articulus index="10" title="Is de naam God in eenzinnige of dubbelzinnige wijze zegbaar van Hem, die van nature God is, van de wezens, die door deelhebben God zijn, en van hen, die God zijn naar de mening der mensen? " />
-  <articulus index="11" title="Is de naam Hij die is de meest geeigende naam voor God? " />
+  <articulus index="9" title="Is de naam God onmededeelbaar? " />
+  <articulus index="10" title="Is de naam God in &#233;&#233;nzinnige of dubbelzinnige wijze zegbaar van Hem, die van nature God is, van de wezens, die door deelhebben God zijn, en van hen, die God zijn naar de mening der mensen? " />
+  <articulus index="11" title="Is de naam Hij die is de meest ge&#235;igende naam voor God? " />
   <articulus index="12" title="Kunnen wij bevestigende zinnen vormen omtrent God? " />
   </quaestio>
 <quaestio index="14" liber="1" title="Over de kennis van God ">
@@ -113,7 +113,7 @@
   <articulus index="7" title="Gaat de kennis van God over van het een . naar het ander? " />
   <articulus index="8" title="Kent God het niet-zijnde? " />
   <articulus index="9" title="Kent God het kwaad? " />
-  <articulus index="10" title="Kent God de dingen in het bizonder? " />
+  <articulus index="10" title="Kent God de dingen in het bijzonder? " />
   <articulus index="11" title="Kan God het oneindige kennen? " />
   <articulus index="12" title="Kent God het wisselvallige in de toekomst? " />
   <articulus index="13" title="Kent God de uitdrukking van het oordeel? " />
@@ -198,14 +198,14 @@
     <articulus index="1" title="Moeten wij aan God de macht toeschrijven, of aanleg en vermogen? " />
   <articulus index="2" title="Is de macht van God oneindig? " />
   <articulus index="3" title="Is God almachtig? " />
-  <articulus index="4" title="Kan God het verleden ongedaanmaken? " />
+  <articulus index="4" title="Kan God het verleden ongedaan maken? " />
   <articulus index="5" title="Kan God doen, wat Hij niet doet? " />
   <articulus index="6" title="Kan God de dingen, die Hij gemaakt heeft, beter maken? " />
   </quaestio>
 <quaestio index="26" liber="1" title="Over het geluk van God ">
     <articulus index="1" title="Komt het geluk aan God toe? " />
   <articulus index="2" title="Is God gelukkig door het verstand? " />
-  <articulus index="3" title="Is God het geluk van iederen gelukzalige? " />
+  <articulus index="3" title="Is God het geluk van iedere gelukzalige? " />
   <articulus index="4" title="Sluit het geluk van God alle geluk in? " />
   </quaestio>
 </summa>

@@ -13,11 +13,11 @@
           <xsl:when test="type='pr'">
             <xsl:choose>
               <xsl:when test="not(liber)"><!-- prologue to the summa -->
-                <xsl:message><xsl:value-of select="reference"/></xsl:message>
+                <!--xsl:message><xsl:value-of select="reference"/></xsl:message-->
                 <xsl:value-of select="$all-nl[not(liber)][not(quaestio)]/nl"/>
               </xsl:when>
               <xsl:when test="$q[type='pr']"><!-- prologue to the quaestio -->
-                <xsl:message><xsl:value-of select="reference"/></xsl:message>
+                <!--xsl:message><xsl:value-of select="reference"/></xsl:message-->
                 <xsl:value-of select="$q[type='pr']/nl"/>
               </xsl:when>
               <xsl:otherwise>
@@ -32,7 +32,7 @@
                 <xsl:variable name="nl" select="$q[articulus=current()/articulus][type=current()/type][index=current()/index]"/>
                 <xsl:choose>
                   <xsl:when test="$nl">
-                    <xsl:message><xsl:value-of select="reference"/></xsl:message>
+                    <!--xsl:message><xsl:value-of select="reference"/></xsl:message-->
                     <xsl:value-of select="$nl/nl"/>
                   </xsl:when>
                   <xsl:otherwise>
@@ -45,7 +45,7 @@
                 <xsl:variable name="nl" select="$q[type=current()/type][index=current()/index]/nl"/>
                 <xsl:choose>
                   <xsl:when test="$nl">
-                    <xsl:message><xsl:value-of select="reference"/></xsl:message>
+                    <!--xsl:message><xsl:value-of select="reference"/></xsl:message-->
                     <xsl:value-of select="$nl/nl"/>
                   </xsl:when>
                   <xsl:otherwise>
@@ -63,19 +63,19 @@
     <xsl:copy>
       <xsl:choose>
         <xsl:when test="@index='1'">
-          <xsl:attribute name="title" select="'Prima pars'"/>
+          <xsl:attribute name="title" select="'Prima Pars'"/>
         </xsl:when>
         <xsl:when test="@index='2'">
-          <xsl:attribute name="title" select="'Prima secundae'"/>
+          <xsl:attribute name="title" select="'Prima Secundae'"/>
         </xsl:when>
         <xsl:when test="@index='3'">
-          <xsl:attribute name="title" select="'Secunda secundae'"/>
+          <xsl:attribute name="title" select="'Secunda Secundae'"/>
         </xsl:when>
         <xsl:when test="@index='4'">
-          <xsl:attribute name="title" select="'Tertia pars'"/>
+          <xsl:attribute name="title" select="'Tertia Pars'"/>
         </xsl:when>
         <xsl:otherwise>
-          <xsl:attribute name="title" select="'Prooemium'"/>
+          <xsl:attribute name="title" select="'Proœmium'"/>
         </xsl:otherwise>
       </xsl:choose>
       <xsl:apply-templates select="@*|node()"/>

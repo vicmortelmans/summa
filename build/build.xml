@@ -62,9 +62,9 @@
   <!-- this task will only run if the target directory is emptied !! -->
   <!-- transform the set of kapitel*.html files into a single xml file -->
   <!-- the stylesheet is only run once, using the dummy.html as fake input -->
-  <xslt style="xml_latin.xslt" in="dummy.htm" out="xml_latin/xml_latin.xml">
+  <!--xslt style="xml_latin.xslt" in="dummy.htm" out="xml_latin/xml_latin.xml">
    <classpath location="${saxon-pe.location.ant}" />
-  </xslt>
+  </xslt--><!-- commented out because kapitel is missing stuff, which is manually added in xml_latin.xml -->
  </target>
 
  <target name="xml_latin_tree" depends="xml_latin">
@@ -89,7 +89,7 @@
 
  <target name="xml_latin_nl" depends="xml_latin_tree, geloofsverdediging_xml,geloofsverdediging_titels_xml">
   <!-- touch the xml_latin_tree.xml if you want this target to run -->
-  <touch file="xml_latin_tree/xml_latin_tree.xml"/>
+  <!--touch file="xml_latin_tree/xml_latin_tree.xml"/-->
   <xslt style="xml_latin_nl.xslt" in="xml_latin_tree/xml_latin_tree.xml" out="xml_latin_nl/xml_latin_nl.xml">
    <classpath location="${saxon-pe.location.ant}" />
   </xslt>
@@ -128,4 +128,17 @@ Disallow: /bronbestanden/</echo>
   </xslt>
   <delete file="dummy-output.markdown"/>
  </target>
+
+ <target name="pdf" depends="markdown">
+  <apply executable="pandoc" dest="pdf">
+   <srcfile/>
+   <arg line="-f"/>
+   <arg line="markdown"/>
+   <arg line="-o"/>
+   <targetfile/>
+   <fileset dir="markdown" includes="*.md"/>
+   <globmapper from="*.md" to="*.pdf"/>
+  </apply>
+ </target>
+  
 </project>
