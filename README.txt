@@ -42,3 +42,4 @@ Corrections:
 6. '/[Dd]ien '
 7. '/[Zz]óó
 8. '/welken '
+9. '/zoo,'
