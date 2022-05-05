@@ -19,6 +19,7 @@ How to publish a new chapter:
 
 1. clean up the txt file in build/summa/bronbestanden
   - set list to show line ends
+  - aspell -l nl -c Aquino_Summa_12.txt
 2. copy it to build/geloofsverdediging
 3. add it to git
 4. edit build/summa/about.html to mark the chapter as published
@@ -43,3 +44,23 @@ Corrections:
 7. '/[Zz]óó
 8. '/welken '
 9. '/zoo,'
+
+
+hrief
+des vleesches
+on  derscheiden
+be  krachtigd
+te gemoet
+KW
+Pharise
+tegen  overgestelde
+lageren
+vereisten vorm
+gunnen zien
+Pharize
+duidelijke leerstellingen
+Pharisa
+Timotheus
+mensch
+gezagvoerder
+
