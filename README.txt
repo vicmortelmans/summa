@@ -46,21 +46,4 @@ Corrections:
 9. '/zoo,'
 
 
-hrief
-des vleesches
-on  derscheiden
-be  krachtigd
-te gemoet
-KW
-Pharise
-tegen  overgestelde
-lageren
-vereisten vorm
-gunnen zien
-Pharize
-duidelijke leerstellingen
-Pharisa
-Timotheus
-mensch
-gezagvoerder
 
