@@ -25,8 +25,9 @@ How to publish a new chapter:
 4. edit build/summa/about.html to mark the chapter as published
 5. in the build folder: 
   a. ant clean
-  b. ant
-  c. ant deploy
+  b. touch xml_latin_tree/xml_latin_tree.xml
+  b. ant [builds website in build/summa]
+  c. ant deploy [copies website to docs]
   Note: the xml_latin.xslt stylesheet seems to freeze when using Saxon PE from 2015
 6. in the root folder:
   a. git status (check if any new files in docs/ need adding)
