@@ -1,15 +1,15 @@
-﻿3.17.pr
+3.17.pr
 Na de behandeling van de deugd van geloof, volgt die van de deugd van hoop. Er dient allereerst gesproken te worden over de deugd van hoop op zichzelf beschouwd; ten tweede, over de gave van vrees, die met de hoop verwant is; ten derde, over de ondeugden, die er tegenover staan; ten vierde, over de geboden omtrent deze deugd gegeven.
 Omtrent de deugd op zichzelf beschouwd, spreken we eerst over de deugd zelf; daarna, over de zetel van de hoop.
 Omtrent de deugd, worden acht vragen gesteld :
-1. Is de hoop een deugd?
-2. Is de eeuwige zaligheid het voorwerp van de hoop?
-3. Kan men door de deugd van hoop, de zaligheid voor een ander hopen?
-4. Is het gegrond op een mens te hopen?
-5. Is de hoop een goddelijke deugd?
-6. Hoe is de hoop onderscheiden van de andere goddelijke deugden ?
-7. Welke is de verhouding van de hoop tot het geloof?
-8. En haar verhouding tot de liefde?
+1) Is de hoop een deugd?
+2) Is de eeuwige zaligheid het voorwerp van de hoop?
+3) Kan men door de deugd van hoop, de zaligheid voor een ander hopen?
+4) Is het gegrond op een mens te hopen?
+5) Is de hoop een goddelijke deugd?
+6) Hoe is de hoop onderscheiden van de andere goddelijke deugden ?
+7) Welke is de verhouding van de hoop tot het geloof?
+8) En haar verhouding tot de liefde?
 3.17.1.arg
 Men beweert, dat de hoop geen deugd is. Volgens Augustinus kan men geen misbruik maken van een deugd. Welnu men kan de hoop misbruiken; immers de drift van hoop kent, zoals andere hartstochten, een midden en uitersten. Bijgevolg is de hoop geen deugd.
 3.17.1.arg
@@ -134,10 +134,10 @@ De Magister Sententiarum spreekt van de gevormde hoop,die naar haar natuur wordt
 
 ﻿3.18.pr
 Nu moeten wij de zetel der hoop bestuderen. Hieromtrent worden vier vragen gesteld :
-1. Is de wil de zetel van de hoop?
-2. Bezitten de gelukzaligen de hoop?
-3. En de verdoemden?
-4. Is de hoop bij hen die op aarde leven, zekerheid?
+1) Is de wil de zetel van de hoop?
+2) Bezitten de gelukzaligen de hoop?
+3) En de verdoemden?
+4) Is de hoop bij hen die op aarde leven, zekerheid?
 3.18.1.arg
 Men beweert, dat de zetel van de hoop niet de wil is. Zoals gezegd is (vorige Kw. 1e Art.; I-II 40e Kw. 1e Art.), is het voorwerp van de hoop een moeilijk te bereiken goed. Welnu wat we moeilijk bereiken, is niet het voorwerp van de wil, doch van het weerstandsvermogen. Bijgevolg is de zetel van de hoop niet de wil doch het weerstandsvermogen.
 3.18.1.arg
@@ -209,18 +209,18 @@ De hoop steunt niet in de eerste plaats op de genade die men bezit, doch op de g
 Indien sommigen die de hoop bezitten, de zaligheid niet bereiken, dan komt dit alleen op rekening van de zwakheid van de wil, die door de zonde, de zaligheid verhindert. Gods Macht en Barmhartigheid, waarop de hoop steunt, kunnen daarvoor niet aansprakelijk gesteld worden. De zekerheid van de hoop wordt bijgevolg niet verminderd, doordat sommigen niet zalig worden.
 ﻿3.19.pr
 Daarna beschouwen wij de gave van vrees. Hieromtrent stellen wij twaalf vragen :
-1. Moet men God vrezen ?
-2. Over de indeling van de vrees, in kinderlijke vrees, aanvangsvrees, slaafse en wereldse vrees.
-3. Is de wereldse vrees altijd slecht?
-4. Is de slaafse vrees goed?
-5. Zijn de slaafse en de kinderlijke vrees wezenlijk één?
-6. Wordt de slaafse vrees door de liefde uitgesloten?
-7. Is de vrees het begin van de wijsheid?
-8. Is de aanvangsvrees hetzelfde als de kinderlijke vrees?
-9. Is de vrees een gave van de H. Geest?
-10. Groeit de vrees wanneer de liefde groeit?
-11. Blijft de vrees voortbestaan in de hemel?
-12. Wat beantwoordt er in de zaligheden en de vruchten van de H. Geest, aan de vrees?
+1) Moet men God vrezen ?
+2) Over de indeling van de vrees, in kinderlijke vrees, aanvangsvrees, slaafse en wereldse vrees.
+3) Is de wereldse vrees altijd slecht?
+4) Is de slaafse vrees goed?
+5) Zijn de slaafse en de kinderlijke vrees wezenlijk één?
+6) Wordt de slaafse vrees door de liefde uitgesloten?
+7) Is de vrees het begin van de wijsheid?
+8) Is de aanvangsvrees hetzelfde als de kinderlijke vrees?
+9) Is de vrees een gave van de H. Geest?
+10) Groeit de vrees wanneer de liefde groeit?
+11) Blijft de vrees voortbestaan in de hemel?
+12) Wat beantwoordt er in de zaligheden en de vruchten van de H. Geest, aan de vrees?
 3.19.1.arg
 Men beweert, dat men God niet moet vrezen. Het voorwerp van de vrees, zoals vroeger werd aangetoond (I-II 41 Kw. 2e Art.; 42e Kw. 1e Art.), is een kwaad dat in de toekomst dreigt. Welnu in God is geen kwaad, daar Hij de goedheid zelf is. Bijgevolg moet men God niet vrezen.
 3.19.1.arg

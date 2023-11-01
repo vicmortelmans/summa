@@ -45,7 +45,7 @@
  </target>
 
  <target name="geloofsverdediging_xml">
-  <apply executable="python" addsourcefile="false">
+  <apply executable="python2" addsourcefile="false">
     <arg line="geloofsverdediging2xml.py"/>
     <fileset dir="geloofsverdediging" includes="*.txt"/>
     <redirector>
@@ -74,7 +74,7 @@
  </target>
  
  <target name="geloofsverdediging_titels_xml">
-  <apply executable="python" addsourcefile="false">
+  <apply executable="python2" addsourcefile="false">
     <arg line="geloofsverdediging_titels2xml.py"/>
     <fileset dir="geloofsverdediging_titels" includes="*.txt"/>
     <redirector>

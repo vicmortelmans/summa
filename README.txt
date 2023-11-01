@@ -29,6 +29,7 @@ How to publish a new chapter:
   b. ant [builds website in build/summa]
   c. ant deploy [copies website to docs]
   Note: the xml_latin.xslt stylesheet seems to freeze when using Saxon PE from 2015
+  Note: a build error was caused by a txt file containing a BOM (check with file command), which can be removed by running dos2unix command
 6. in the root folder:
   a. git status (check if any new files in docs/ need adding)
   a. git commit -am "Added Quaestiones xx to yy"
