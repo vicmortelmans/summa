@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project basedir="." default="all" name="Summa">
- <property name="saxon-pe.location.ant" value="/home/vic/Programs/jar/saxon9pe.jar"/>
+ <property name="saxon-pe.location.ant" value="/home/vic/Programs/jar/saxon9he.jar"/>
  <property name="project.home.ant" value="/home/vic/Drive/GelovenLeren/Summa/build/"/>
   
 
