@@ -31,6 +31,7 @@ How to publish a new chapter:
   Note: the xml_latin.xslt stylesheet seems to freeze when using Saxon PE from 2015
   Note: a build error was caused by a txt file containing a BOM (check with file command), which can be removed by running dos2unix command
   Note: build/build.xml was using Saxon9PE (/home/vic/Programs/jar/saxon9pe.jar -> saxon9pe_2020.jar), but suddenly a license expiration error shows up, and it looks like SaxonHE is working as well (/home/vic/Programs/jar/saxon9he.jar)
+  d. (to update the PDF's, they don't go on the website) ant pdf
 6. in the root folder:
   a. git status (check if any new files in docs/ need adding)
   a. git commit -am "Added Quaestiones xx to yy"
