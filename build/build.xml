@@ -129,6 +129,13 @@ Disallow: /bronbestanden/</echo>
   <delete file="dummy-output.markdown"/>
  </target>
 
+ <target name="markdown-2-3-4" depends="xml_latin_nl">
+  <xslt style="markdown-2-3-4.xslt" in="xml_latin_nl/xml_latin_nl.xml" out="dummy-output.markdown">
+   <classpath location="${saxon-pe.location.ant}" />
+  </xslt>
+  <delete file="dummy-output.markdown"/>
+ </target>
+
  <target name="pdf" depends="markdown">
   <apply executable="pandoc" dest="pdf">
    <srcfile/>
@@ -137,6 +144,18 @@ Disallow: /bronbestanden/</echo>
    <arg line="-o"/>
    <targetfile/>
    <fileset dir="markdown" includes="*.md"/>
+   <globmapper from="*.md" to="*.pdf"/>
+  </apply>
+ </target>
+  
+ <target name="pdf-2-3-4" depends="markdown-2-3-4">
+  <apply executable="pandoc" dest="pdf">
+   <srcfile/>
+   <arg line="-f"/>
+   <arg line="markdown"/>
+   <arg line="-o"/>
+   <targetfile/>
+   <fileset dir="markdown" includes="*-2-3-4.md"/>
    <globmapper from="*.md" to="*.pdf"/>
   </apply>
  </target>
