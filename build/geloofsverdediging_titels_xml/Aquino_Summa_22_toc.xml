@@ -1,129 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <summa>
-  <quaestio index="60" liber="4" title="Over de Sacramenten ">
-    <articulus index="1" title="Zijn alle heilige tekens Sacramenten? " />
-  <articulus index="2" title="Betekent een Sacrament maar &#233;&#233;n enkele zaak? " />
-  <articulus index="3" title="Is een Sacrament altijd iets stoffelijks? " />
-  <articulus index="4" title="Worden er bepaalde stoffelijke dingen vereist tot de Sacramenten? " />
-  <articulus index="5" title="Worden er woorden vereist om het teken der Sacramenten te verklaren? " />
-  <articulus index="6" title="Worden in de Sacramenten bepaalde woorden vereist? " />
-  <articulus index="7" title="Mag men aan die woorden, die de vorm zijn der Sacramenten, iets toevoegen? " />
-  <articulus index="8" title="Is het Sacrament een teken? " />
+  <quaestio liber="4" index="60" title="Over de Sacramenten ">
+    <articulus title="Zijn alle heilige tekens Sacramenten? " index="1" />
+  <articulus title="Betekent een Sacrament maar &#233;&#233;n enkele zaak? " index="2" />
+  <articulus title="Is een Sacrament altijd iets stoffelijks? " index="3" />
+  <articulus title="Worden er bepaalde stoffelijke dingen vereist tot de Sacramenten? " index="4" />
+  <articulus title="Worden er woorden vereist om het teken der Sacramenten te verklaren? " index="5" />
+  <articulus title="Worden in de Sacramenten bepaalde woorden vereist? " index="6" />
+  <articulus title="Mag men aan die woorden, die de vorm zijn der Sacramenten, iets toevoegen? " index="7" />
+  <articulus title="Is het Sacrament een teken? " index="8" />
   </quaestio>
-<quaestio index="61" liber="4" title="Over de noodzakelijkheid der Sacramenten ">
-    <articulus index="1" title="Zijn de Sacramenten nodig tot de zaligheid der mensen? " />
-  <articulus index="2" title="Waren v&#243;&#243;r de zonde de Sacramenten nodig voor de mens? " />
-  <articulus index="3" title="Waren de Sacramenten nodig na de zonde en v&#243;&#243;r Christus? " />
-  <articulus index="4" title="Moesten er na de komst van Christus nog Sacramenten zijn? " />
+<quaestio liber="4" index="61" title="Over de noodzakelijkheid der Sacramenten ">
+    <articulus title="Zijn de Sacramenten nodig tot de zaligheid der mensen? " index="1" />
+  <articulus title="Waren v&#243;&#243;r de zonde de Sacramenten nodig voor de mens? " index="2" />
+  <articulus title="Waren de Sacramenten nodig na de zonde en v&#243;&#243;r Christus? " index="3" />
+  <articulus title="Moesten er na de komst van Christus nog Sacramenten zijn? " index="4" />
   </quaestio>
-<quaestio index="62" liber="4" title="Over het voornaamste uitwerksel der Sacramenten, nl. de genade ">
-    <articulus index="1" title="Zijn de Sacramenten oorzaak der genade? " />
-  <articulus index="2" title="Voegt de sacramentele genade iets toe aan de genade der deugden en der gaven? " />
-  <articulus index="3" title="Bevatten de Sacramenten der Nieuwe Wet de genade? " />
-  <articulus index="4" title="Schuilt erin de Sacramenten een kracht die van aard is om de genade te verwekken? " />
-  <articulus index="5" title="Betrekken de Sacramenten der Nieuwe Wet hun kracht van het lijden van Christus? " />
-  <articulus index="6" title="Gaven de Sacramenten der Oude Wet aan de genade het aanzijn? " />
+<quaestio liber="4" index="62" title="Over het voornaamste uitwerksel der Sacramenten, nl. de genade ">
+    <articulus title="Zijn de Sacramenten oorzaak der genade? " index="1" />
+  <articulus title="Voegt de sacramentele genade iets toe aan de genade der deugden en der gaven? " index="2" />
+  <articulus title="Bevatten de Sacramenten der Nieuwe Wet de genade? " index="3" />
+  <articulus title="Schuilt erin de Sacramenten een kracht die van aard is om de genade te verwekken? " index="4" />
+  <articulus title="Betrekken de Sacramenten der Nieuwe Wet hun kracht van het lijden van Christus? " index="5" />
+  <articulus title="Gaven de Sacramenten der Oude Wet aan de genade het aanzijn? " index="6" />
   </quaestio>
-<quaestio index="63" liber="4" title="Over het merkteken der Sacramenten dat ook een van hun uitwerkselen is ">
-    <articulus index="1" title="Wordt door de Sacramenten een merkteken in de ziel geprent? " />
-  <articulus index="2" title="Is het merkteken een geestelijk vermogen? " />
-  <articulus index="3" title="Komt het sacramentele merkteken van Christus? " />
-  <articulus index="4" title="Doet het merkteken de vermogens der ziel als subject aan? " />
-  <articulus index="5" title="Is het merkteken onuitwisbaar in de ziel aanwezig? " />
-  <articulus index="6" title="Prenten alle Sacramenten der Nieuwe Wet een merkteken in de ziel? " />
+<quaestio liber="4" index="63" title="Over het merkteken der Sacramenten dat ook een van hun uitwerkselen is ">
+    <articulus title="Wordt door de Sacramenten een merkteken in de ziel geprent? " index="1" />
+  <articulus title="Is het merkteken een geestelijk vermogen? " index="2" />
+  <articulus title="Komt het sacramentele merkteken van Christus? " index="3" />
+  <articulus title="Doet het merkteken de vermogens der ziel als subject aan? " index="4" />
+  <articulus title="Is het merkteken onuitwisbaar in de ziel aanwezig? " index="5" />
+  <articulus title="Prenten alle Sacramenten der Nieuwe Wet een merkteken in de ziel? " index="6" />
   </quaestio>
-<quaestio index="64" liber="4" title="Over de oorzaak der Sacramenten ">
-    <articulus index="1" title="Is het God alleen die innerlijk werkt in de Sacramenten? " />
-  <articulus index="2" title="Is de instelling der Sacramenten aan God alleen voorbehouden? " />
-  <articulus index="3" title="Had Christus als mens macht om het innerlijke uitwerksel der Sacramenten te bewerken? " />
-  <articulus index="4" title="Kon Christus de macht die Hij wat de Sacramenten betreft had aan bedienaars meedelen? " />
-  <articulus index="5" title="Kunnen de Sacramenten door boze bedienaars worden toegediend? " />
-  <articulus index="6" title="Zondigen boze bedienaars bij het toedienen van de Sacramenten? " />
-  <articulus index="7" title="Kunnen Engelen Sacramenten toedienen? " />
-  <articulus index="8" title="Wordt voor de geldigheid van het Sacrament het opzet van de bedienaar vereist? " />
-  <articulus index="9" title="Wordt voor de geldigheid der Sacramenten bij de bedienaar het geloof vereist? " />
-  <articulus index="10" title="Moet de bedienaar der Sacramenten bij het toedienen van de Sacramenten het rechte opzet hebben? " />
+<quaestio liber="4" index="64" title="Over de oorzaak der Sacramenten ">
+    <articulus title="Is het God alleen die innerlijk werkt in de Sacramenten? " index="1" />
+  <articulus title="Is de instelling der Sacramenten aan God alleen voorbehouden? " index="2" />
+  <articulus title="Had Christus als mens macht om het innerlijke uitwerksel der Sacramenten te bewerken? " index="3" />
+  <articulus title="Kon Christus de macht die Hij wat de Sacramenten betreft had aan bedienaars meedelen? " index="4" />
+  <articulus title="Kunnen de Sacramenten door boze bedienaars worden toegediend? " index="5" />
+  <articulus title="Zondigen boze bedienaars bij het toedienen van de Sacramenten? " index="6" />
+  <articulus title="Kunnen Engelen Sacramenten toedienen? " index="7" />
+  <articulus title="Wordt voor de geldigheid van het Sacrament het opzet van de bedienaar vereist? " index="8" />
+  <articulus title="Wordt voor de geldigheid der Sacramenten bij de bedienaar het geloof vereist? " index="9" />
+  <articulus title="Moet de bedienaar der Sacramenten bij het toedienen van de Sacramenten het rechte opzet hebben? " index="10" />
   </quaestio>
-<quaestio index="65" liber="4" title="Over het aantal Sacramenten ">
-    <articulus index="1" title="Zijn er zeven Sacramenten? " />
-  <articulus index="2" title="Volgen de Sacramenten mekaar naar de aangegeven volgorde naar behoren op? " />
-  <articulus index="3" title="Is de Eucharistie het voornaamste Sacrament? " />
-  <articulus index="4" title="Zijn alle Sacramenten voor onze zaligheid onontbeerlijk? " />
+<quaestio liber="4" index="65" title="Over het aantal Sacramenten ">
+    <articulus title="Zijn er zeven Sacramenten? " index="1" />
+  <articulus title="Volgen de Sacramenten mekaar naar de aangegeven volgorde naar behoren op? " index="2" />
+  <articulus title="Is de Eucharistie het voornaamste Sacrament? " index="3" />
+  <articulus title="Zijn alle Sacramenten voor onze zaligheid onontbeerlijk? " index="4" />
   </quaestio>
-<quaestio index="66" liber="4" title="Over het Doopsel ">
-    <articulus index="1" title="Is het doopsel een wassing? " />
-  <articulus index="2" title="Werd het doopsel na het lijden van Christus ingesteld? " />
-  <articulus index="3" title="Is het water de eigenlijke stof van het doopsel? " />
-  <articulus index="4" title="Wordt voor de geldigheid van het doopsel zuiver water vereist? " />
-  <articulus index="5" title="Zijn de woorden &#171; Ik doop u in de naam des Vaders en des Zoons en des Heiligen Geestes &#187; voor het doopsel een passende vorm? " />
-  <articulus index="6" title="Mag het doopsel in de naam van Christus worden toegediend? " />
-  <articulus index="7" title="Wordt de dompeling in het water voor de geldigheid van het doopsel vereist? " />
-  <articulus index="8" title="Wordt er voor de geldigheid van het doopsel een driedubbele indompeling vereist? " />
-  <articulus index="9" title="Mag het doopsel hernieuwd worden? " />
-  <articulus index="10" title="Is de ritus die de heilige Kerk bij het doopsel gebruikt goed gekozen? " />
-  <articulus index="11" title="Worden er terecht drie verschillende doopsels onderscheiden? " />
-  <articulus index="12" title="Is het doopsel van Bloed het voortreffelijkste doopsel? " />
+<quaestio liber="4" index="66" title="Over het Doopsel ">
+    <articulus title="Is het doopsel een wassing? " index="1" />
+  <articulus title="Werd het doopsel na het lijden van Christus ingesteld? " index="2" />
+  <articulus title="Is het water de eigenlijke stof van het doopsel? " index="3" />
+  <articulus title="Wordt voor de geldigheid van het doopsel zuiver water vereist? " index="4" />
+  <articulus title="Zijn de woorden &#171; Ik doop u in de naam des Vaders en des Zoons en des Heiligen Geestes &#187; voor het doopsel een passende vorm? " index="5" />
+  <articulus title="Mag het doopsel in de naam van Christus worden toegediend? " index="6" />
+  <articulus title="Wordt de dompeling in het water voor de geldigheid van het doopsel vereist? " index="7" />
+  <articulus title="Wordt er voor de geldigheid van het doopsel een driedubbele indompeling vereist? " index="8" />
+  <articulus title="Mag het doopsel hernieuwd worden? " index="9" />
+  <articulus title="Is de ritus die de heilige Kerk bij het doopsel gebruikt goed gekozen? " index="10" />
+  <articulus title="Worden er terecht drie verschillende doopsels onderscheiden? " index="11" />
+  <articulus title="Is het doopsel van Bloed het voortreffelijkste doopsel? " index="12" />
   </quaestio>
-<quaestio index="67" liber="4" title="Over de bedienaars door wie het doopsel wordt toegediend ">
-    <articulus index="1" title="Komt het aan de diakens toe het doopsel toe te dienen? " />
-  <articulus index="2" title="Komt het de priesters toe het doopsel toe te dienen? " />
-  <articulus index="3" title="Mag een leek het doopsel toedienen? " />
-  <articulus index="4" title="Mag een vrouw het doopsel toedienen? " />
-  <articulus index="5" title="Mag een ongedoopte het doopsel toedienen? " />
-  <articulus index="6" title="Kunnen verschillende mensen samen een en dezelfde mens dopen? " />
-  <articulus index="7" title="Wordt er vereist dat iemand de gedoopte zou uit de gewijde vont opnemen? " />
-  <articulus index="8" title="Zijn peter en meter verplicht degene die zij uit de gewijde vont opgenomen hebben te onderwijzen? " />
+<quaestio liber="4" index="67" title="Over de bedienaars door wie het doopsel wordt toegediend ">
+    <articulus title="Komt het aan de diakens toe het doopsel toe te dienen? " index="1" />
+  <articulus title="Komt het de priesters toe het doopsel toe te dienen? " index="2" />
+  <articulus title="Mag een leek het doopsel toedienen? " index="3" />
+  <articulus title="Mag een vrouw het doopsel toedienen? " index="4" />
+  <articulus title="Mag een ongedoopte het doopsel toedienen? " index="5" />
+  <articulus title="Kunnen verschillende mensen samen een en dezelfde mens dopen? " index="6" />
+  <articulus title="Wordt er vereist dat iemand de gedoopte zou uit de gewijde vont opnemen? " index="7" />
+  <articulus title="Zijn peter en meter verplicht degene die zij uit de gewijde vont opgenomen hebben te onderwijzen? " index="8" />
   </quaestio>
-<quaestio index="68" liber="4" title="Over degenen die het doopsel ontvangen ">
-    <articulus index="1" title="Zijn alle mensen verplicht het doopsel te ontvangen? " />
-  <articulus index="2" title="Kan iemand zonder doopsel zalig worden? " />
-  <articulus index="3" title="Behoort het doopsel soms te worden uitgesteld? " />
-  <articulus index="4" title="Behoren zondaars gedoopt te worden? " />
-  <articulus index="5" title="Moet men aan de zondaars die het doopsel ontvingen werken van genoegdoening opleggen? " />
-  <articulus index="6" title="Zijn de zondaars verplicht wanneer ze willen het doopsel ontvangen hun zonden te belijden? " />
-  <articulus index="7" title="Moet de dopeling het opzet hebben het doopsel te ontvangen? " />
-  <articulus index="8" title="Wordt tot de geldigheid van het doopsel vereist dat de dopeling zou geloven? " />
-  <articulus index="9" title="Behoren kinderen gedoopt te worden? " />
-  <articulus index="10" title="Behoren joodse kinderen en kinderen van andere ongelovigen tegen de wil van hun ouders in gedoopt te worden? " />
-  <articulus index="11" title="Behoren sommige kinderen niet wanneer ze nog in de baarmoeder zijn gedoopt te worden? " />
-  <articulus index="12" title="Dienen razende en krankzinnige mensen gedoopt te worden? " />
+<quaestio liber="4" index="68" title="Over degenen die het doopsel ontvangen ">
+    <articulus title="Zijn alle mensen verplicht het doopsel te ontvangen? " index="1" />
+  <articulus title="Kan iemand zonder doopsel zalig worden? " index="2" />
+  <articulus title="Behoort het doopsel soms te worden uitgesteld? " index="3" />
+  <articulus title="Behoren zondaars gedoopt te worden? " index="4" />
+  <articulus title="Moet men aan de zondaars die het doopsel ontvingen werken van genoegdoening opleggen? " index="5" />
+  <articulus title="Zijn de zondaars verplicht wanneer ze willen het doopsel ontvangen hun zonden te belijden? " index="6" />
+  <articulus title="Moet de dopeling het opzet hebben het doopsel te ontvangen? " index="7" />
+  <articulus title="Wordt tot de geldigheid van het doopsel vereist dat de dopeling zou geloven? " index="8" />
+  <articulus title="Behoren kinderen gedoopt te worden? " index="9" />
+  <articulus title="Behoren joodse kinderen en kinderen van andere ongelovigen tegen de wil van hun ouders in gedoopt te worden? " index="10" />
+  <articulus title="Behoren sommige kinderen niet wanneer ze nog in de baarmoeder zijn gedoopt te worden? " index="11" />
+  <articulus title="Dienen razende en krankzinnige mensen gedoopt te worden? " index="12" />
   </quaestio>
-<quaestio index="69" liber="4" title="Over de uitwerkselen van het doopsel ">
-    <articulus index="1" title="Worden alle zonden door het doopsel weggenomen? " />
-  <articulus index="2" title="Wordt de mens door het doopsel van alle straf ontslagen? " />
-  <articulus index="3" title="Neemt het doopsel de kwellingen die we om de erfzonde in het huidige leven moeten dragen weg? " />
-  <articulus index="4" title="Worden de mensen bij het doopsel met genade en deugden toegerust? " />
-  <articulus index="5" title="Worden aan het doopsel sommige daden toegeschreven? " />
-  <articulus index="6" title="Ontvangen ook kleine kinderen bij het doopsel genade en deugden? " />
-  <articulus index="7" title="Wordt door het doopsel de deur van het hemelrijk voor de gedoopten opengesteld? " />
-  <articulus index="8" title="Heeft het doopsel bij alle mensen hetzelfde uitwerksel? " />
-  <articulus index="9" title="Staat geveinsdheid de uitwerkselen van het doopsel in de weg? " />
-  <articulus index="10" title="Ontvangt het doopsel, wanneer de geveinsdheid voor oprechtheid opbreekt, zijn uitwerksel? " />
+<quaestio liber="4" index="69" title="Over de uitwerkselen van het doopsel ">
+    <articulus title="Worden alle zonden door het doopsel weggenomen? " index="1" />
+  <articulus title="Wordt de mens door het doopsel van alle straf ontslagen? " index="2" />
+  <articulus title="Neemt het doopsel de kwellingen die we om de erfzonde in het huidige leven moeten dragen weg? " index="3" />
+  <articulus title="Worden de mensen bij het doopsel met genade en deugden toegerust? " index="4" />
+  <articulus title="Worden aan het doopsel sommige daden toegeschreven? " index="5" />
+  <articulus title="Ontvangen ook kleine kinderen bij het doopsel genade en deugden? " index="6" />
+  <articulus title="Wordt door het doopsel de deur van het hemelrijk voor de gedoopten opengesteld? " index="7" />
+  <articulus title="Heeft het doopsel bij alle mensen hetzelfde uitwerksel? " index="8" />
+  <articulus title="Staat geveinsdheid de uitwerkselen van het doopsel in de weg? " index="9" />
+  <articulus title="Ontvangt het doopsel, wanneer de geveinsdheid voor oprechtheid opbreekt, zijn uitwerksel? " index="10" />
   </quaestio>
-<quaestio index="70" liber="4" title="De Besnijdenis die in het Oude Testament het doopsel voorafging ">
-    <articulus index="1" title="Was de besnijdenis een voorbereiding tot en een voorafbeelding van het doopsel? " />
-  <articulus index="2" title="Werd de besnijdenis naar behoren ingesteld? " />
-  <articulus index="3" title="Werd de ritus der besnijdenis naar behoren bepaald? " />
-  <articulus index="4" title="Gaf de besnijdenis de heiligmakende genade? " />
+<quaestio liber="4" index="70" title="De Besnijdenis die in het Oude Testament het doopsel voorafging ">
+    <articulus title="Was de besnijdenis een voorbereiding tot en een voorafbeelding van het doopsel? " index="1" />
+  <articulus title="Werd de besnijdenis naar behoren ingesteld? " index="2" />
+  <articulus title="Werd de ritus der besnijdenis naar behoren bepaald? " index="3" />
+  <articulus title="Gaf de besnijdenis de heiligmakende genade? " index="4" />
   </quaestio>
-<quaestio index="71" liber="4" title="Over de voorbereidselen die tot het doopsel vereist worden ">
-    <articulus index="1" title="Dient de catechisering het doopsel vooraf te gaan? " />
-  <articulus index="2" title="Dient de duivelbezwering het doopsel vooraf te gaan? " />
-  <articulus index="3" title="Werkt de duivelbezwering iets bepaalds uit? " />
-  <articulus index="4" title="Behoren de catechisering en duivelbezwering door priesters gedaan te worden? " />
+<quaestio liber="4" index="71" title="Over de voorbereidselen die tot het doopsel vereist worden ">
+    <articulus title="Dient de catechisering het doopsel vooraf te gaan? " index="1" />
+  <articulus title="Dient de duivelbezwering het doopsel vooraf te gaan? " index="2" />
+  <articulus title="Werkt de duivelbezwering iets bepaalds uit? " index="3" />
+  <articulus title="Behoren de catechisering en duivelbezwering door priesters gedaan te worden? " index="4" />
   </quaestio>
-<quaestio index="72" liber="4" title="Over het Vormsel ">
-    <articulus index="1" title="Is het vormsel een Sacrament? " />
-  <articulus index="2" title="Is chrisma voor het vormsel de geschikte stof? " />
-  <articulus index="3" title="Is het voor de geldigheid van dit Sacrament nodig dat het chrisma eerst door de bisschop zou gewijd worden? " />
-  <articulus index="4" title="Zijn de woorden : &#171; Ik teken u met het teken van het kruis enz &#187; voor het vormsel wel een geschikte vorm? " />
-  <articulus index="5" title="Prent het Sacrament van het vormsel de ziel een merkteken in? " />
-  <articulus index="6" title="Veronderstelt het merkteken van het vormsel ook het merkteken van het doopsel? " />
-  <articulus index="7" title="Wordt door het vormsel de heiligmakende genade geschonken? " />
-  <articulus index="8" title="Dient dit Sacrament aan alle mensen te worden gegeven? " />
-  <articulus index="9" title="Moet dit Sacrament op het voorhoofd van de mens worden toegediend? " />
-  <articulus index="10" title="Moet degene die gevormd wordt door iemand worden vastgehouden? " />
-  <articulus index="11" title="Mag alleen een bisschop het Sacrament van het vormsel toedienen? " />
-  <articulus index="12" title="Werd de ritus van dit Sacrament naar behoren ingesteld? " />
+<quaestio liber="4" index="72" title="Over het Vormsel ">
+    <articulus title="Is het vormsel een Sacrament? " index="1" />
+  <articulus title="Is chrisma voor het vormsel de geschikte stof? " index="2" />
+  <articulus title="Is het voor de geldigheid van dit Sacrament nodig dat het chrisma eerst door de bisschop zou gewijd worden? " index="3" />
+  <articulus title="Zijn de woorden : &#171; Ik teken u met het teken van het kruis enz &#187; voor het vormsel wel een geschikte vorm? " index="4" />
+  <articulus title="Prent het Sacrament van het vormsel de ziel een merkteken in? " index="5" />
+  <articulus title="Veronderstelt het merkteken van het vormsel ook het merkteken van het doopsel? " index="6" />
+  <articulus title="Wordt door het vormsel de heiligmakende genade geschonken? " index="7" />
+  <articulus title="Dient dit Sacrament aan alle mensen te worden gegeven? " index="8" />
+  <articulus title="Moet dit Sacrament op het voorhoofd van de mens worden toegediend? " index="9" />
+  <articulus title="Moet degene die gevormd wordt door iemand worden vastgehouden? " index="10" />
+  <articulus title="Mag alleen een bisschop het Sacrament van het vormsel toedienen? " index="11" />
+  <articulus title="Werd de ritus van dit Sacrament naar behoren ingesteld? " index="12" />
   </quaestio>
 </summa>

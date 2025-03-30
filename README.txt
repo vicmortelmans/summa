@@ -52,4 +52,3 @@ Corrections:
 How to fix PDF that doesn't work in mupdf:
 gs -o Aquino_Summa_21a_gs.pdf -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress Aquino_Summa_21a.pdf 
 
-

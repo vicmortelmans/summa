@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <summa>
-  <quaestio index="47" liber="3" title="Over de verstandigheid op zichzelf beschouwd ">
-    <articulus index="1" title="Is de verstandigheid iets van het ken- of van het streefvermogen? " />
-  <articulus index="2" title="Behoort de verstandigheid alleen tot het praktische verstand, of ook tot het bespiegelende? " />
-  <articulus index="3" title="Sluit de verstandigheid de kennis in der afzonderlijke dingen? " />
-  <articulus index="4" title="Is de verstandigheid een deugd? " />
-  <articulus index="5" title="Is de verstandigheid een afzonderlijke deugd? " />
-  <articulus index="6" title="Stelt de verstandigheid het doel vast voor de zedelijke deugden? " />
-  <articulus index="7" title="Behoort het tot de taak van de verstandigheid, de juiste middenweg voor de deugden vast te stellen? " />
-  <articulus index="8" title="Is het de eigenlijke taak der verstandigheid te bevelen over de handelingen? " />
-  <articulus index="9" title="Behoort de bezorgdheid tot de verstandigheid? " />
-  <articulus index="10" title="Strekt de verstandigheid zich ook uit tot het bestuur ener gemeenschap? " />
-  <articulus index="11" title="Is de verstandigheid, die zich richt op het eigen particulier goed, van dezelfde soort als de verstandigheid, die zich uitstrekt tot het algemeen welzijn? " />
-  <articulus index="12" title="Is de verstandigheid alleen te vinden bij de bestuurders, of ook bij de onderdanen? " />
-  <articulus index="13" title="Kan de verstandigheid aanwezig zijn in zedelijk slechte mensen? " />
-  <articulus index="14" title="Is de verstandigheid het bezit van allen, die in staat van genade zijn? " />
-  <articulus index="15" title="Bezitten wij de verstandigheid van nature? " />
-  <articulus index="16" title="Kan men door vergeten de verstandigheid verliezen? " />
+  <quaestio liber="3" index="47" title="Over de verstandigheid op zichzelf beschouwd ">
+    <articulus title="Is de verstandigheid iets van het ken- of van het streefvermogen? " index="1" />
+  <articulus title="Behoort de verstandigheid alleen tot het praktische verstand, of ook tot het bespiegelende? " index="2" />
+  <articulus title="Sluit de verstandigheid de kennis in der afzonderlijke dingen? " index="3" />
+  <articulus title="Is de verstandigheid een deugd? " index="4" />
+  <articulus title="Is de verstandigheid een afzonderlijke deugd? " index="5" />
+  <articulus title="Stelt de verstandigheid het doel vast voor de zedelijke deugden? " index="6" />
+  <articulus title="Behoort het tot de taak van de verstandigheid, de juiste middenweg voor de deugden vast te stellen? " index="7" />
+  <articulus title="Is het de eigenlijke taak der verstandigheid te bevelen over de handelingen? " index="8" />
+  <articulus title="Behoort de bezorgdheid tot de verstandigheid? " index="9" />
+  <articulus title="Strekt de verstandigheid zich ook uit tot het bestuur ener gemeenschap? " index="10" />
+  <articulus title="Is de verstandigheid, die zich richt op het eigen particulier goed, van dezelfde soort als de verstandigheid, die zich uitstrekt tot het algemeen welzijn? " index="11" />
+  <articulus title="Is de verstandigheid alleen te vinden bij de bestuurders, of ook bij de onderdanen? " index="12" />
+  <articulus title="Kan de verstandigheid aanwezig zijn in zedelijk slechte mensen? " index="13" />
+  <articulus title="Is de verstandigheid het bezit van allen, die in staat van genade zijn? " index="14" />
+  <articulus title="Bezitten wij de verstandigheid van nature? " index="15" />
+  <articulus title="Kan men door vergeten de verstandigheid verliezen? " index="16" />
   </quaestio>
-<quaestio index="48" liber="3" title="Over de onderdelen der verstandigheid ">
-    <articulus index="1" title="Kan er bij verstandigheid sprake zijn van drie soorten van onderdelen? " />
+<quaestio liber="3" index="48" title="Over de onderdelen der verstandigheid ">
+    <articulus title="Kan er bij verstandigheid sprake zijn van drie soorten van onderdelen? " index="1" />
   </quaestio>
-<quaestio index="49" liber="3" title="Over de integrerende of onontbeerlijke delen der verstandigheid afzonderlijk ">
-    <articulus index="1" title="Is de ervaring een onderdeel der verstandigheid? " />
-  <articulus index="2" title="Is het inzicht een deel der verstandigheid? " />
-  <articulus index="3" title="Mag men de ontvankelijkheid rekenen als onderdeel der verstandigheid? " />
-  <articulus index="4" title="Is de vindingrijkheid een onderdeel van de verstandigheid? " />
-  <articulus index="5" title="Is de redeneerkracht een deel der verstandigheid? " />
-  <articulus index="6" title="Is de vooruitziendheid een onderdeel van de verstandigheid? " />
-  <articulus index="7" title="Is de omzichtigheid een onderdeel der verstandigheid? " />
-  <articulus index="8" title="Is de behoedzaamheid een onderdeel der verstandigheid? " />
+<quaestio liber="3" index="49" title="Over de integrerende of onontbeerlijke delen der verstandigheid afzonderlijk ">
+    <articulus title="Is de ervaring een onderdeel der verstandigheid? " index="1" />
+  <articulus title="Is het inzicht een deel der verstandigheid? " index="2" />
+  <articulus title="Mag men de ontvankelijkheid rekenen als onderdeel der verstandigheid? " index="3" />
+  <articulus title="Is de vindingrijkheid een onderdeel van de verstandigheid? " index="4" />
+  <articulus title="Is de redeneerkracht een deel der verstandigheid? " index="5" />
+  <articulus title="Is de vooruitziendheid een onderdeel van de verstandigheid? " index="6" />
+  <articulus title="Is de omzichtigheid een onderdeel der verstandigheid? " index="7" />
+  <articulus title="Is de behoedzaamheid een onderdeel der verstandigheid? " index="8" />
   </quaestio>
-<quaestio index="50" liber="3" title="Over de subjectieve delen, of soorten van de verstandigheid ">
-    <articulus index="1" title="Kan men spreken van een verstandigheid van de staatsman of regeerder? " />
-  <articulus index="2" title="Is de verstandigheid van de staatsburger een afzonderlijke soort van de verstandigheid? " />
-  <articulus index="3" title="Is er ook een afzonderlijke verstandigheid in familiezaken? " />
-  <articulus index="4" title="Is het krijgsbeleid een soort van de verstandigheid? " />
+<quaestio liber="3" index="50" title="Over de subjectieve delen, of soorten van de verstandigheid ">
+    <articulus title="Kan men spreken van een verstandigheid van de staatsman of regeerder? " index="1" />
+  <articulus title="Is de verstandigheid van de staatsburger een afzonderlijke soort van de verstandigheid? " index="2" />
+  <articulus title="Is er ook een afzonderlijke verstandigheid in familiezaken? " index="3" />
+  <articulus title="Is het krijgsbeleid een soort van de verstandigheid? " index="4" />
   </quaestio>
-<quaestio index="51" liber="3" title="Over de potenti&#235;le of bijkomstige onderdelen van de verstandigheid ">
-    <articulus index="1" title="Is de welberadenheid een deugd? " />
-  <articulus index="2" title="Is de welberadenheid een afzonderlijke deugd, onderscheiden van de verstandigheid? " />
-  <articulus index="3" title="Is de &#171; synesis &#187; een deugd? " />
-  <articulus index="4" title="Is de &#171; gnom&#232; &#187; een afzonderlijke deugd? " />
+<quaestio liber="3" index="51" title="Over de potenti&#235;le of bijkomstige onderdelen van de verstandigheid ">
+    <articulus title="Is de welberadenheid een deugd? " index="1" />
+  <articulus title="Is de welberadenheid een afzonderlijke deugd, onderscheiden van de verstandigheid? " index="2" />
+  <articulus title="Is de &#171; synesis &#187; een deugd? " index="3" />
+  <articulus title="Is de &#171; gnom&#232; &#187; een afzonderlijke deugd? " index="4" />
   </quaestio>
-<quaestio index="52" liber="3" title="Over de gave van raad ">
-    <articulus index="1" title="Behoort de gave van raad tot de zeven gaven van de H. Geest? " />
-  <articulus index="2" title="Houdt de gave van raad verband met de verstandigheid? " />
-  <articulus index="3" title="Blijft de gave van raad bestaan bij de uitverkorenen in het hemelse vaderland? " />
-  <articulus index="4" title="Houdt de vijfde zaligspreking: &#171; Zalig de barmhartigen &#187;, verband met de gave van raad? " />
+<quaestio liber="3" index="52" title="Over de gave van raad ">
+    <articulus title="Behoort de gave van raad tot de zeven gaven van de H. Geest? " index="1" />
+  <articulus title="Houdt de gave van raad verband met de verstandigheid? " index="2" />
+  <articulus title="Blijft de gave van raad bestaan bij de uitverkorenen in het hemelse vaderland? " index="3" />
+  <articulus title="Houdt de vijfde zaligspreking: &#171; Zalig de barmhartigen &#187;, verband met de gave van raad? " index="4" />
   </quaestio>
-<quaestio index="53" liber="3" title="Over de onverstandigheid ">
-    <articulus index="1" title="Is de onverstandigheid zonde? " />
-  <articulus index="2" title="Is de onverstandigheid een afzonderlijke zonde? " />
-  <articulus index="3" title="Is de overhaasting een zonde, behorende onder de onverstandigheid? " />
-  <articulus index="4" title="Is de onnadenkendheid een afzonderlijke zonde, behorende onder de onverstandigheid? " />
-  <articulus index="5" title="Is de onstandvastigheid een ondeugd, behorende onder de onverstandigheid? " />
-  <articulus index="6" title="Ontstaan voornoemde ondeugden uit de onkuisheid? " />
+<quaestio liber="3" index="53" title="Over de onverstandigheid ">
+    <articulus title="Is de onverstandigheid zonde? " index="1" />
+  <articulus title="Is de onverstandigheid een afzonderlijke zonde? " index="2" />
+  <articulus title="Is de overhaasting een zonde, behorende onder de onverstandigheid? " index="3" />
+  <articulus title="Is de onnadenkendheid een afzonderlijke zonde, behorende onder de onverstandigheid? " index="4" />
+  <articulus title="Is de onstandvastigheid een ondeugd, behorende onder de onverstandigheid? " index="5" />
+  <articulus title="Ontstaan voornoemde ondeugden uit de onkuisheid? " index="6" />
   </quaestio>
-<quaestio index="54" liber="3" title="Over de nalatigheid ">
-    <articulus index="1" title="Is de nalatigheid een afzonderlijke zonde? " />
-  <articulus index="2" title="Is de nalatigheid tegengesteld aan de verstandigheid? " />
-  <articulus index="3" title="Kan de nalatigheid doodzonde zijn? " />
+<quaestio liber="3" index="54" title="Over de nalatigheid ">
+    <articulus title="Is de nalatigheid een afzonderlijke zonde? " index="1" />
+  <articulus title="Is de nalatigheid tegengesteld aan de verstandigheid? " index="2" />
+  <articulus title="Kan de nalatigheid doodzonde zijn? " index="3" />
   </quaestio>
-<quaestio index="55" liber="3" title="Over de ondeugden tegen de verstandigheid, die een zekere gelijkenis met haar vertonen ">
-    <articulus index="1" title="Is de verstandigheid des vlees zonde? " />
-  <articulus index="2" title="Is de verstandigheid des vlees doodzonde? " />
-  <articulus index="3" title="Is de sluwheid een afzonderlijke zonde? " />
-  <articulus index="4" title="Is de listigheid een zonde, behorende onder de sluwheid? " />
-  <articulus index="5" title="Behoort de bedrieglijkheid tot de sluwheid? " />
-  <articulus index="6" title="Is het geoorloofd bezorgd te zijn over tijdelijke zaken? " />
-  <articulus index="7" title="Moet men bezorgd zijn voor de toekomst? " />
-  <articulus index="8" title="Vinden dergelijke ondeugden hun oorsprong in de gierigheid? " />
+<quaestio liber="3" index="55" title="Over de ondeugden tegen de verstandigheid, die een zekere gelijkenis met haar vertonen ">
+    <articulus title="Is de verstandigheid des vlees zonde? " index="1" />
+  <articulus title="Is de verstandigheid des vlees doodzonde? " index="2" />
+  <articulus title="Is de sluwheid een afzonderlijke zonde? " index="3" />
+  <articulus title="Is de listigheid een zonde, behorende onder de sluwheid? " index="4" />
+  <articulus title="Behoort de bedrieglijkheid tot de sluwheid? " index="5" />
+  <articulus title="Is het geoorloofd bezorgd te zijn over tijdelijke zaken? " index="6" />
+  <articulus title="Moet men bezorgd zijn voor de toekomst? " index="7" />
+  <articulus title="Vinden dergelijke ondeugden hun oorsprong in de gierigheid? " index="8" />
   </quaestio>
-<quaestio index="56" liber="3" title="Over de geboden, betreffende de verstandigheid ">
-    <articulus index="1" title="Moest een van de tien geboden Gods de verstandigheid opleggen? " />
-  <articulus index="2" title="Werden de ondeugden, tegengesteld aan de verstandigheid, op passende wijze verboden in het Oude Verbond? " />
+<quaestio liber="3" index="56" title="Over de geboden, betreffende de verstandigheid ">
+    <articulus title="Moest een van de tien geboden Gods de verstandigheid opleggen? " index="1" />
+  <articulus title="Werden de ondeugden, tegengesteld aan de verstandigheid, op passende wijze verboden in het Oude Verbond? " index="2" />
   </quaestio>
 </summa>

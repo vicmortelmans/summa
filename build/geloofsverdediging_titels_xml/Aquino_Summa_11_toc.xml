@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <summa>
-  <quaestio index="109" liber="2" title="Over het uiterlijke beginsel der menselijke daden, nl. de Genade van God ">
-    <articulus index="1" title="Kan de mens zonder de Genade iets waars kennen? " />
-  <articulus index="2" title="Kan de mens zonder de Genade het goede willen en doen? " />
-  <articulus index="3" title="Kan de mens God boven alles beminnen, alleen met zijn natuurlijke krachten, zonder de Genade? " />
-  <articulus index="4" title="Kan de mens de voorschriften der Wet vervullen, zonder de Genade, en uit zijn natuurlijke krachten?  - " />
-  <articulus index="5" title="Kan de mens zonder de Genade het eeuwige leven verdienen? " />
-  <articulus index="6" title="Kan de mens zichzelf door eigen kracht tot de Genade voorbereiden zonder de hulp der Genade? " />
-  <articulus index="7" title="Kan de mens van de zonde opstaan zonder de hulp der Genade? " />
-  <articulus index="8" title="Kan de mens, zonder de Genade, niet-zondigen? " />
-  <articulus index="9" title="Kan hij, die de Genade reeds verkregen heeft, uit zich zelf het goede doen en de zonde vermijden, zonder een nieuwe hulp der Genade? " />
-  <articulus index="10" title="Heeft de mens, die in de Genade is, de hulp der Genade nodig om te volharden? " />
+  <quaestio liber="2" index="109" title="Over het uiterlijke beginsel der menselijke daden, nl. de Genade van God ">
+    <articulus title="Kan de mens zonder de Genade iets waars kennen? " index="1" />
+  <articulus title="Kan de mens zonder de Genade het goede willen en doen? " index="2" />
+  <articulus title="Kan de mens God boven alles beminnen, alleen met zijn natuurlijke krachten, zonder de Genade? " index="3" />
+  <articulus title="Kan de mens de voorschriften der Wet vervullen, zonder de Genade, en uit zijn natuurlijke krachten?  - " index="4" />
+  <articulus title="Kan de mens zonder de Genade het eeuwige leven verdienen? " index="5" />
+  <articulus title="Kan de mens zichzelf door eigen kracht tot de Genade voorbereiden zonder de hulp der Genade? " index="6" />
+  <articulus title="Kan de mens van de zonde opstaan zonder de hulp der Genade? " index="7" />
+  <articulus title="Kan de mens, zonder de Genade, niet-zondigen? " index="8" />
+  <articulus title="Kan hij, die de Genade reeds verkregen heeft, uit zich zelf het goede doen en de zonde vermijden, zonder een nieuwe hulp der Genade? " index="9" />
+  <articulus title="Heeft de mens, die in de Genade is, de hulp der Genade nodig om te volharden? " index="10" />
   </quaestio>
-<quaestio index="110" liber="2" title="Over het wezen der Genade Gods ">
-    <articulus index="1" title="Werkt de Genade iets in de ziel uit? " />
-  <articulus index="2" title="Is de Genade een hoedanigheid der ziel? " />
-  <articulus index="3" title="Is de Genade hetzelfde als de deugd? " />
-  <articulus index="4" title="Is de Genade in het wezen der ziel als in haar drager, of in een van de vermogens? " />
+<quaestio liber="2" index="110" title="Over het wezen der Genade Gods ">
+    <articulus title="Werkt de Genade iets in de ziel uit? " index="1" />
+  <articulus title="Is de Genade een hoedanigheid der ziel? " index="2" />
+  <articulus title="Is de Genade hetzelfde als de deugd? " index="3" />
+  <articulus title="Is de Genade in het wezen der ziel als in haar drager, of in een van de vermogens? " index="4" />
   </quaestio>
-<quaestio index="111" liber="2" title="Over de verdeling der Genade ">
-    <articulus index="1" title="Is de verdeling in heiligmakende Genade en om niet gegeven Genade een goede verdeling? " />
-  <articulus index="2" title="Wordt de Genade met recht verdeeld in werkende Genade en medewerkende Genade? " />
-  <articulus index="3" title="Wordt de Genade gevoegelijk verdeeld in voorafgaande en volgende Genade? " />
-  <articulus index="4" title="Geeft de Apostel een juiste verdeling der Genade om niet? " />
-  <articulus index="5" title="Staat de om niet gegeven Genade hoger dan de heiligmakende Genade? " />
+<quaestio liber="2" index="111" title="Over de verdeling der Genade ">
+    <articulus title="Is de verdeling in heiligmakende Genade en om niet gegeven Genade een goede verdeling? " index="1" />
+  <articulus title="Wordt de Genade met recht verdeeld in werkende Genade en medewerkende Genade? " index="2" />
+  <articulus title="Wordt de Genade gevoegelijk verdeeld in voorafgaande en volgende Genade? " index="3" />
+  <articulus title="Geeft de Apostel een juiste verdeling der Genade om niet? " index="4" />
+  <articulus title="Staat de om niet gegeven Genade hoger dan de heiligmakende Genade? " index="5" />
   </quaestio>
-<quaestio index="112" liber="2" title="Over de oorzaak der Genade ">
-    <articulus index="1" title="Is God alleen oorzaak der Genade? " />
-  <articulus index="2" title="Wordt er van den kant van den mens een zekere voorbereiding en gesteltenis tot de Genade vereist? " />
-  <articulus index="3" title="Wordt aan hem, die zich tot de Genade voorbereidt, of doet wat in zijn macht is, de Genade noodzakelijk gegeven? " />
-  <articulus index="4" title="Is de Genade groter in de een dan in de ander? " />
-  <articulus index="5" title="Kan de mens weten, dat hij de Genade heeft? " />
+<quaestio liber="2" index="112" title="Over de oorzaak der Genade ">
+    <articulus title="Is God alleen oorzaak der Genade? " index="1" />
+  <articulus title="Wordt er van den kant van den mens een zekere voorbereiding en gesteltenis tot de Genade vereist? " index="2" />
+  <articulus title="Wordt aan hem, die zich tot de Genade voorbereidt, of doet wat in zijn macht is, de Genade noodzakelijk gegeven? " index="3" />
+  <articulus title="Is de Genade groter in de een dan in de ander? " index="4" />
+  <articulus title="Kan de mens weten, dat hij de Genade heeft? " index="5" />
   </quaestio>
-<quaestio index="113" liber="2" title="Over de gevolgen der Genade ">
-    <articulus index="1" title="Is de rechtvaardigmaking van den zondaar hetzelfde als de vergiffenis der zonden? " />
-  <articulus index="2" title="Wordt voor de vergeving der zondeschuld &#8212; waarin de rechtvaardiging van de zondaar bestaat &#8212; de instorting der Genade vereist? " />
-  <articulus index="3" title="Wordt voor de rechtvaardigmaking van den zondaar een daad van den vrije wil vereist? " />
-  <articulus index="4" title="Wordt er voor de rechtvaardigmaking van van de zondaar een geloofsdaad vereist? " />
-  <articulus index="5" title="Wordt tot de rechtvaardigmaking van de zondaar een daad van de vrije wil vereist met betrekking tot de zonde? " />
-  <articulus index="6" title="Moet de vergiffenis der zonden gerekend worden onder die dingen, die tot de rechtvaardigmaking van de zondaar worden vereist? " />
-  <articulus index="7" title="Gebeurt de rechtvaardigmaking van den in &#233;&#233;n ogenblik, of geleidelijk? " />
-  <articulus index="8" title="Is de instorting der Genade van nature het eerste onder die dingen, die tot de rechtvaardigmaking vereist worden? " />
-  <articulus index="9" title="Is de rechtvaardigmaking van de zondaar het grootste werk van God? " />
-  <articulus index="10" title="Is de rechtvaardigmaking van de zondaar een wonderwerk? " />
+<quaestio liber="2" index="113" title="Over de gevolgen der Genade ">
+    <articulus title="Is de rechtvaardigmaking van den zondaar hetzelfde als de vergiffenis der zonden? " index="1" />
+  <articulus title="Wordt voor de vergeving der zondeschuld &#8212; waarin de rechtvaardiging van de zondaar bestaat &#8212; de instorting der Genade vereist? " index="2" />
+  <articulus title="Wordt voor de rechtvaardigmaking van den zondaar een daad van den vrije wil vereist? " index="3" />
+  <articulus title="Wordt er voor de rechtvaardigmaking van van de zondaar een geloofsdaad vereist? " index="4" />
+  <articulus title="Wordt tot de rechtvaardigmaking van de zondaar een daad van de vrije wil vereist met betrekking tot de zonde? " index="5" />
+  <articulus title="Moet de vergiffenis der zonden gerekend worden onder die dingen, die tot de rechtvaardigmaking van de zondaar worden vereist? " index="6" />
+  <articulus title="Gebeurt de rechtvaardigmaking van den in &#233;&#233;n ogenblik, of geleidelijk? " index="7" />
+  <articulus title="Is de instorting der Genade van nature het eerste onder die dingen, die tot de rechtvaardigmaking vereist worden? " index="8" />
+  <articulus title="Is de rechtvaardigmaking van de zondaar het grootste werk van God? " index="9" />
+  <articulus title="Is de rechtvaardigmaking van de zondaar een wonderwerk? " index="10" />
   </quaestio>
-<quaestio index="114" liber="2" title="Over de verdienste, het gevolg van de Genade van bijstand ">
-    <articulus index="1" title="Kan de mens iets van God verdienen? " />
-  <articulus index="2" title="Kan iemand zonder de Genade het eeuwige leven verdienen? " />
-  <articulus index="3" title="Kan iemand, die de Genade heeft, rechtens het eeuwige leven verdienen? " />
-  <articulus index="4" title="Is de Genade beginsel van het verdienen, voornamelijk door de liefde, meer dan door de andere deugden? " />
-  <articulus index="5" title="Kan de mens voor zichzelf de eerste Genade verdienen? " />
-  <articulus index="6" title="Kan de mens voor een ander de eerste Genade verdienen? " />
-  <articulus index="7" title="Kan iemand voor zichzelf het herstel na de val verdienen? " />
-  <articulus index="8" title="Kan iemand de vermeerdering der Genade of der liefde verdienen? " />
-  <articulus index="9" title="Kan de mens de eindvolharding verdienen? " />
-  <articulus index="10" title="Vallen de tijdelijke goederen onder de verdienste? " />
+<quaestio liber="2" index="114" title="Over de verdienste, het gevolg van de Genade van bijstand ">
+    <articulus title="Kan de mens iets van God verdienen? " index="1" />
+  <articulus title="Kan iemand zonder de Genade het eeuwige leven verdienen? " index="2" />
+  <articulus title="Kan iemand, die de Genade heeft, rechtens het eeuwige leven verdienen? " index="3" />
+  <articulus title="Is de Genade beginsel van het verdienen, voornamelijk door de liefde, meer dan door de andere deugden? " index="4" />
+  <articulus title="Kan de mens voor zichzelf de eerste Genade verdienen? " index="5" />
+  <articulus title="Kan de mens voor een ander de eerste Genade verdienen? " index="6" />
+  <articulus title="Kan iemand voor zichzelf het herstel na de val verdienen? " index="7" />
+  <articulus title="Kan iemand de vermeerdering der Genade of der liefde verdienen? " index="8" />
+  <articulus title="Kan de mens de eindvolharding verdienen? " index="9" />
+  <articulus title="Vallen de tijdelijke goederen onder de verdienste? " index="10" />
   </quaestio>
 </summa>

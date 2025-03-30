@@ -1,153 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <summa>
-  <quaestio index="80" liber="3" title="Over wat deel heeft aan de kracht van de Rechtvaardigheid ">
-    <articulus index="1" title="Worden de met de rechtvaardigheid verwante deugden goed opgegeven " />
+  <quaestio liber="3" index="80" title="Over wat deel heeft aan de kracht van de Rechtvaardigheid ">
+    <articulus title="Worden de met de rechtvaardigheid verwante deugden goed opgegeven " index="1" />
   </quaestio>
-<quaestio index="81" liber="3" title="Over de Godsdienstigheid ">
-    <articulus index="1" title="Geeft de godsdienstigheid aan de mens alleen een verhouding tot God? " />
-  <articulus index="2" title="Is de godsdienstigheid een deugd? " />
-  <articulus index="3" title="Is de godsdienstigheid &#233;&#233;n enkele deugd? " />
-  <articulus index="4" title="Is de godsdienstigheid een afzonderlijke, van de anderen onderscheiden deugd? " />
-  <articulus index="5" title="Is de godsdienstigheid een goddelijke deugd? " />
-  <articulus index="6" title="Moet de godsdienstigheid boven de andere zedelijke deugden worden gesteld? " />
-  <articulus index="7" title="Heeft de godsverering ook een uitwendige daad? " />
-  <articulus index="8" title="Is de godsdienstigheid hetzelfde als de heiligheid? " />
+<quaestio liber="3" index="81" title="Over de Godsdienstigheid ">
+    <articulus title="Geeft de godsdienstigheid aan de mens alleen een verhouding tot God? " index="1" />
+  <articulus title="Is de godsdienstigheid een deugd? " index="2" />
+  <articulus title="Is de godsdienstigheid &#233;&#233;n enkele deugd? " index="3" />
+  <articulus title="Is de godsdienstigheid een afzonderlijke, van de anderen onderscheiden deugd? " index="4" />
+  <articulus title="Is de godsdienstigheid een goddelijke deugd? " index="5" />
+  <articulus title="Moet de godsdienstigheid boven de andere zedelijke deugden worden gesteld? " index="6" />
+  <articulus title="Heeft de godsverering ook een uitwendige daad? " index="7" />
+  <articulus title="Is de godsdienstigheid hetzelfde als de heiligheid? " index="8" />
   </quaestio>
-<quaestio index="82" liber="3" title="Over de Toewijding ">
-    <articulus index="1" title="Is toewijding een afzonderlijke daad? " />
-  <articulus index="2" title="Is de toewijding een daad van godsdienstigheid? " />
-  <articulus index="3" title="Is de beschouwing of overweging oorzaak van toewijding? " />
-  <articulus index="4" title="Is vreugde een gevolg van toewijding? " />
+<quaestio liber="3" index="82" title="Over de Toewijding ">
+    <articulus title="Is toewijding een afzonderlijke daad? " index="1" />
+  <articulus title="Is de toewijding een daad van godsdienstigheid? " index="2" />
+  <articulus title="Is de beschouwing of overweging oorzaak van toewijding? " index="3" />
+  <articulus title="Is vreugde een gevolg van toewijding? " index="4" />
   </quaestio>
-<quaestio index="83" liber="3" title="Over het Gebed ">
-    <articulus index="1" title="Is het gebed een daad van een streefdeugd? " />
-  <articulus index="2" title="Is het gepast te bidden? " />
-  <articulus index="3" title="Is bidden een daad van godsdienstigheid? " />
-  <articulus index="4" title="Moet men alleen tot God bidden? " />
-  <articulus index="5" title="Moeten wij in het gebed iets bepaalds vragen aan God? " />
-  <articulus index="6" title="Moet de mens in het gebed tijdelijke zaken aan God vragen? " />
-  <articulus index="7" title="Moeten wij voor anderen bidden? " />
-  <articulus index="8" title="Moeten wij voor onze vijanden bidden? " />
-  <articulus index="9" title="Worden de zeven vragen van het Gebed des Heren op gepaste manier opgegeven? " />
-  <articulus index="10" title="Is bidden aan het redelijk schepsel eigen? " />
-  <articulus index="11" title="Bidden de heiligen in het hemels vaderland voor ons? " />
-  <articulus index="12" title="Moet het gebed een mondgebed zijn? " />
-  <articulus index="13" title="Is het voor het gebed noodzakelijk, dat het aandachtig is? " />
-  <articulus index="14" title="Moet het gebed langdurig zijn? " />
-  <articulus index="15" title="Is bidden verdienstelijk? " />
-  <articulus index="16" title="Krijgen de zondaars als ze bidden iets van God? " />
-  <articulus index="17" title="Kan men goed zeggen, dat de onderdelen van het gebed zijn: bezweringen, gebeden, verzoeken en dankzeggingen? " />
+<quaestio liber="3" index="83" title="Over het Gebed ">
+    <articulus title="Is het gebed een daad van een streefdeugd? " index="1" />
+  <articulus title="Is het gepast te bidden? " index="2" />
+  <articulus title="Is bidden een daad van godsdienstigheid? " index="3" />
+  <articulus title="Moet men alleen tot God bidden? " index="4" />
+  <articulus title="Moeten wij in het gebed iets bepaalds vragen aan God? " index="5" />
+  <articulus title="Moet de mens in het gebed tijdelijke zaken aan God vragen? " index="6" />
+  <articulus title="Moeten wij voor anderen bidden? " index="7" />
+  <articulus title="Moeten wij voor onze vijanden bidden? " index="8" />
+  <articulus title="Worden de zeven vragen van het Gebed des Heren op gepaste manier opgegeven? " index="9" />
+  <articulus title="Is bidden aan het redelijk schepsel eigen? " index="10" />
+  <articulus title="Bidden de heiligen in het hemels vaderland voor ons? " index="11" />
+  <articulus title="Moet het gebed een mondgebed zijn? " index="12" />
+  <articulus title="Is het voor het gebed noodzakelijk, dat het aandachtig is? " index="13" />
+  <articulus title="Moet het gebed langdurig zijn? " index="14" />
+  <articulus title="Is bidden verdienstelijk? " index="15" />
+  <articulus title="Krijgen de zondaars als ze bidden iets van God? " index="16" />
+  <articulus title="Kan men goed zeggen, dat de onderdelen van het gebed zijn: bezweringen, gebeden, verzoeken en dankzeggingen? " index="17" />
   </quaestio>
-<quaestio index="84" liber="3" title="Over de Aanbidding ">
-    <articulus index="1" title="Is aanbidding een daad van godsverering of godsdienstigheid? " />
-  <articulus index="2" title="Sluit aanbidding een lichaamsdaad in? " />
-  <articulus index="3" title="Is er om te aanbidden een bepaalde plaats nodig? " />
+<quaestio liber="3" index="84" title="Over de Aanbidding ">
+    <articulus title="Is aanbidding een daad van godsverering of godsdienstigheid? " index="1" />
+  <articulus title="Sluit aanbidding een lichaamsdaad in? " index="2" />
+  <articulus title="Is er om te aanbidden een bepaalde plaats nodig? " index="3" />
   </quaestio>
-<quaestio index="85" liber="3" title="Over de Offers ">
-    <articulus index="1" title="Valt het onder de natuurwet God een offer te dragen? " />
-  <articulus index="2" title="Moet men alleen aan God offers opdragen? " />
-  <articulus index="3" title="Is het opdragen van een offer een daad van een afzonderlijke deugd? " />
-  <articulus index="4" title="Zijn allen verplicht offers op de dragen? " />
+<quaestio liber="3" index="85" title="Over de Offers ">
+    <articulus title="Valt het onder de natuurwet God een offer te dragen? " index="1" />
+  <articulus title="Moet men alleen aan God offers opdragen? " index="2" />
+  <articulus title="Is het opdragen van een offer een daad van een afzonderlijke deugd? " index="3" />
+  <articulus title="Zijn allen verplicht offers op de dragen? " index="4" />
   </quaestio>
-<quaestio index="86" liber="3" title="Over de Wijgeschenken en Eerstelingen Offers ">
-    <articulus index="1" title="Zijn de mensen krachtens een gebod noodzakelijk verplicht wijgeschenken te brengen? " />
-  <articulus index="2" title="Hebben alleen de priesters recht op wijgeschenken? " />
-  <articulus index="3" title="Kan een mens wijgeschenken geven van alles, wat hij rechtmatig bezit? " />
-  <articulus index="4" title="Zijn de mensen verplicht tot de eerstelingenoffers? " />
+<quaestio liber="3" index="86" title="Over de Wijgeschenken en Eerstelingen Offers ">
+    <articulus title="Zijn de mensen krachtens een gebod noodzakelijk verplicht wijgeschenken te brengen? " index="1" />
+  <articulus title="Hebben alleen de priesters recht op wijgeschenken? " index="2" />
+  <articulus title="Kan een mens wijgeschenken geven van alles, wat hij rechtmatig bezit? " index="3" />
+  <articulus title="Zijn de mensen verplicht tot de eerstelingenoffers? " index="4" />
   </quaestio>
-<quaestio index="87" liber="3" title="Over de Tienden ">
-    <articulus index="1" title="Zijn de mensen krachtens een gebod noodzakelijk verplicht tienden op te brengen? " />
-  <articulus index="2" title="Moeten de mensen van alles tienden geven? " />
-  <articulus index="3" title="Moeten de tienden aan de geestelijken worden gegeven? " />
-  <articulus index="4" title="Moeten ook de geestelijken tienden opbrengen? " />
+<quaestio liber="3" index="87" title="Over de Tienden ">
+    <articulus title="Zijn de mensen krachtens een gebod noodzakelijk verplicht tienden op te brengen? " index="1" />
+  <articulus title="Moeten de mensen van alles tienden geven? " index="2" />
+  <articulus title="Moeten de tienden aan de geestelijken worden gegeven? " index="3" />
+  <articulus title="Moeten ook de geestelijken tienden opbrengen? " index="4" />
   </quaestio>
-<quaestio index="88" liber="3" title="Over de Gelofte ">
-    <articulus index="1" title="Bestaat een gelofte alleen in een voornemen van den wil? " />
-  <articulus index="2" title="Moet een gelofte altijd over iets beters gaan? " />
-  <articulus index="3" title="Brengt ieder gelofte de verplichting mee haar te houden? " />
-  <articulus index="4" title="Is het goed een gelofte te doen? " />
-  <articulus index="5" title="Is het doen van een gelofte een daad van godsverering of godsdienstigheid? " />
-  <articulus index="6" title="Is het meer lofwaardig en verdienstelijk iets zonder dan met een gelofte te doen? " />
-  <articulus index="7" title="Wordt een gelofte tot een plechtige gemaakt door het ontvangen van een heilige wijding of het afleggen van de professie op een bepaalde regel? " />
-  <articulus index="8" title="Zijn wij, die onder de macht van een ander staan, verhinderd een gelofte af te leggen? " />
-  <articulus index="9" title="Kunnen kinderen zich door gelofte verplichten in het klooster te treden? " />
-  <articulus index="10" title="Kan men van een gelofte ontslagen worden? " />
-  <articulus index="11" title="Kan er in de plechtige gelofte van zuiverheid gedispenseerd worden? " />
-  <articulus index="12" title="Is het gezag van een overste nodig om een gelofte te veranderen of erin te dispenseren? " />
+<quaestio liber="3" index="88" title="Over de Gelofte ">
+    <articulus title="Bestaat een gelofte alleen in een voornemen van den wil? " index="1" />
+  <articulus title="Moet een gelofte altijd over iets beters gaan? " index="2" />
+  <articulus title="Brengt ieder gelofte de verplichting mee haar te houden? " index="3" />
+  <articulus title="Is het goed een gelofte te doen? " index="4" />
+  <articulus title="Is het doen van een gelofte een daad van godsverering of godsdienstigheid? " index="5" />
+  <articulus title="Is het meer lofwaardig en verdienstelijk iets zonder dan met een gelofte te doen? " index="6" />
+  <articulus title="Wordt een gelofte tot een plechtige gemaakt door het ontvangen van een heilige wijding of het afleggen van de professie op een bepaalde regel? " index="7" />
+  <articulus title="Zijn wij, die onder de macht van een ander staan, verhinderd een gelofte af te leggen? " index="8" />
+  <articulus title="Kunnen kinderen zich door gelofte verplichten in het klooster te treden? " index="9" />
+  <articulus title="Kan men van een gelofte ontslagen worden? " index="10" />
+  <articulus title="Kan er in de plechtige gelofte van zuiverheid gedispenseerd worden? " index="11" />
+  <articulus title="Is het gezag van een overste nodig om een gelofte te veranderen of erin te dispenseren? " index="12" />
   </quaestio>
-<quaestio index="89" liber="3" title="Over de Eed ">
-    <articulus index="1" title="Is zweren God aanroepen als Getuige? " />
-  <articulus index="2" title="Is het geoorloofd te zweren? " />
-  <articulus index="3" title="Is het goed, dat als de drie vereisten voor een eed worden opgegeven: gerechtigheid, oordeel en waarheid? " />
-  <articulus index="4" title="Is zweren een daad van godsdienstigheid of godsverering? " />
-  <articulus index="5" title="Moet men ernaar verlangen te zweren en het dikwijls doen als iets nuttigs en goeds? " />
-  <articulus index="6" title="Mag men bij schepselen zweren? " />
-  <articulus index="7" title="Heeft de eed kracht om tot iets te verplichten? " />
-  <articulus index="8" title="Ontstaat er door een eed een zwaardere verplichting dan door een gelofte? " />
-  <articulus index="9" title="Kan iemand van een eed ontslaan? " />
-  <articulus index="10" title="Is een omstandigheid van persoon of tijd een beletsel voor een eed? " />
+<quaestio liber="3" index="89" title="Over de Eed ">
+    <articulus title="Is zweren God aanroepen als Getuige? " index="1" />
+  <articulus title="Is het geoorloofd te zweren? " index="2" />
+  <articulus title="Is het goed, dat als de drie vereisten voor een eed worden opgegeven: gerechtigheid, oordeel en waarheid? " index="3" />
+  <articulus title="Is zweren een daad van godsdienstigheid of godsverering? " index="4" />
+  <articulus title="Moet men ernaar verlangen te zweren en het dikwijls doen als iets nuttigs en goeds? " index="5" />
+  <articulus title="Mag men bij schepselen zweren? " index="6" />
+  <articulus title="Heeft de eed kracht om tot iets te verplichten? " index="7" />
+  <articulus title="Ontstaat er door een eed een zwaardere verplichting dan door een gelofte? " index="8" />
+  <articulus title="Kan iemand van een eed ontslaan? " index="9" />
+  <articulus title="Is een omstandigheid van persoon of tijd een beletsel voor een eed? " index="10" />
   </quaestio>
-<quaestio index="90" liber="3" title="Over het gebruik van Gods naam bij een Bezwering ">
-    <articulus index="1" title="Mag men een mens bezweren? " />
-  <articulus index="2" title="Mag men de duivels bezweren? " />
-  <articulus index="3" title="Mag men een redeloos schepsel bezweren? " />
+<quaestio liber="3" index="90" title="Over het gebruik van Gods naam bij een Bezwering ">
+    <articulus title="Mag men een mens bezweren? " index="1" />
+  <articulus title="Mag men de duivels bezweren? " index="2" />
+  <articulus title="Mag men een redeloos schepsel bezweren? " index="3" />
   </quaestio>
-<quaestio index="91" liber="3" title="Over het gebruik van Gods Naam om Hem lovend aan te roepen ">
-    <articulus index="1" title="Moet men God met den mond loven? " />
-  <articulus index="2" title="Moet men gezang gebruiken bij het prijzen van God? " />
+<quaestio liber="3" index="91" title="Over het gebruik van Gods Naam om Hem lovend aan te roepen ">
+    <articulus title="Moet men God met den mond loven? " index="1" />
+  <articulus title="Moet men gezang gebruiken bij het prijzen van God? " index="2" />
   </quaestio>
-<quaestio index="92" liber="3" title="Over de Bijgelovigheid ">
-    <articulus index="1" title="Is de bijgelovigheid een aan de godsdienstigheid tegengesteld gebrek? " />
-  <articulus index="2" title="Zijn er verschillende soorten bijgelovigheid? " />
+<quaestio liber="3" index="92" title="Over de Bijgelovigheid ">
+    <articulus title="Is de bijgelovigheid een aan de godsdienstigheid tegengesteld gebrek? " index="1" />
+  <articulus title="Zijn er verschillende soorten bijgelovigheid? " index="2" />
   </quaestio>
-<quaestio index="93" liber="3" title="Over het bijgeloof in het op een verkeerde manier dienen van de ware God ">
-    <articulus index="1" title="Kan er iets verderfelijks zijn in het eren van de ware God? " />
-  <articulus index="2" title="Kan er in het eren van God iets overbodigs zijn? " />
+<quaestio liber="3" index="93" title="Over het bijgeloof in het op een verkeerde manier dienen van de ware God ">
+    <articulus title="Kan er iets verderfelijks zijn in het eren van de ware God? " index="1" />
+  <articulus title="Kan er in het eren van God iets overbodigs zijn? " index="2" />
   </quaestio>
-<quaestio index="94" liber="3" title="Over de Afgoderij ">
-    <articulus index="1" title="Is het juist de afgoderij als een soort bijgeloof voor te stellen? " />
-  <articulus index="2" title="Is afgoderij zonde? " />
-  <articulus index="3" title="Is afgoderij de zwaarste zonde? " />
-  <articulus index="4" title="Was er van de kant van de mens een oorzaak voor de afgoderij? " />
+<quaestio liber="3" index="94" title="Over de Afgoderij ">
+    <articulus title="Is het juist de afgoderij als een soort bijgeloof voor te stellen? " index="1" />
+  <articulus title="Is afgoderij zonde? " index="2" />
+  <articulus title="Is afgoderij de zwaarste zonde? " index="3" />
+  <articulus title="Was er van de kant van de mens een oorzaak voor de afgoderij? " index="4" />
   </quaestio>
-<quaestio index="95" liber="3" title="Over het bijgeloof in de Waarzeggerij ">
-    <articulus index="1" title="Is waarzeggerij zonde? " />
-  <articulus index="2" title="Is waarzeggerij een soort bijgeloof? " />
-  <articulus index="3" title="Kan men meerdere soorten waarzeggerij aangeven? " />
-  <articulus index="4" title="Is waarzeggerij door het aanroepen van duivels ongeoorloofd? " />
-  <articulus index="5" title="Is de waarzeggerij uit de sterren ongeoorloofd? " />
-  <articulus index="6" title="Is waarzeggerij uit dromen ongeoorloofd? " />
-  <articulus index="7" title="Is waarzeggen uit voortekens en omina en ander waarnemen van uiterlijke dingen ongeoorloofd? " />
-  <articulus index="8" title="Is waarzeggerij uit het lot ongeoorloofd? " />
+<quaestio liber="3" index="95" title="Over het bijgeloof in de Waarzeggerij ">
+    <articulus title="Is waarzeggerij zonde? " index="1" />
+  <articulus title="Is waarzeggerij een soort bijgeloof? " index="2" />
+  <articulus title="Kan men meerdere soorten waarzeggerij aangeven? " index="3" />
+  <articulus title="Is waarzeggerij door het aanroepen van duivels ongeoorloofd? " index="4" />
+  <articulus title="Is de waarzeggerij uit de sterren ongeoorloofd? " index="5" />
+  <articulus title="Is waarzeggerij uit dromen ongeoorloofd? " index="6" />
+  <articulus title="Is waarzeggen uit voortekens en omina en ander waarnemen van uiterlijke dingen ongeoorloofd? " index="7" />
+  <articulus title="Is waarzeggerij uit het lot ongeoorloofd? " index="8" />
   </quaestio>
-<quaestio index="96" liber="3" title="Over de bijgelovige gebruiken ">
-    <articulus index="1" title="Is het toepassen van de praktijken van de z.g. ars notoria ongeoorloofd? " />
-  <articulus index="2" title="Zijn de gebruiken, die dienen om lichamen te veranderen, b.v. om gezond te worden en dergelijke dingen, geoorloofd? " />
-  <articulus index="3" title="Zijn praktijken, die voorkennis van geluk of ongeluk tot doel hebben, ongeoorloofd? " />
-  <articulus index="4" title="Is het verboden heilige woorden om de hals te hangen? " />
+<quaestio liber="3" index="96" title="Over de bijgelovige gebruiken ">
+    <articulus title="Is het toepassen van de praktijken van de z.g. ars notoria ongeoorloofd? " index="1" />
+  <articulus title="Zijn de gebruiken, die dienen om lichamen te veranderen, b.v. om gezond te worden en dergelijke dingen, geoorloofd? " index="2" />
+  <articulus title="Zijn praktijken, die voorkennis van geluk of ongeluk tot doel hebben, ongeoorloofd? " index="3" />
+  <articulus title="Is het verboden heilige woorden om de hals te hangen? " index="4" />
   </quaestio>
-<quaestio index="97" liber="3" title="Over het op de proef stellen van God ">
-    <articulus index="1" title="Bestaat het op de proef stellen van God in het doen ontstaan van feitelijke toestanden, waarin men alleen van de goddelijke macht iets kan verwachten? " />
-  <articulus index="2" title="Is het zonde God op de proef te stellen? " />
-  <articulus index="3" title="Is het op de proef stellen van God met de godsdienstigheid in strijd? " />
-  <articulus index="4" title="Is het op de proef stellen van God een zwaardere zonde dan bijgeloof? " />
+<quaestio liber="3" index="97" title="Over het op de proef stellen van God ">
+    <articulus title="Bestaat het op de proef stellen van God in het doen ontstaan van feitelijke toestanden, waarin men alleen van de goddelijke macht iets kan verwachten? " index="1" />
+  <articulus title="Is het zonde God op de proef te stellen? " index="2" />
+  <articulus title="Is het op de proef stellen van God met de godsdienstigheid in strijd? " index="3" />
+  <articulus title="Is het op de proef stellen van God een zwaardere zonde dan bijgeloof? " index="4" />
   </quaestio>
-<quaestio index="98" liber="3" title="Over de Meineed ">
-    <articulus index="1" title="Is het voor een meineed nodig dat datgene, wat door een eed wordt bevestigd, onwaar is? " />
-  <articulus index="2" title="Is iedere meineed zonde? " />
-  <articulus index="3" title="Is iedere meineed doodzonde? " />
-  <articulus index="4" title="Doet hij, die aan iemand, die een meineed zweert, de eed oplegt, zonde? " />
+<quaestio liber="3" index="98" title="Over de Meineed ">
+    <articulus title="Is het voor een meineed nodig dat datgene, wat door een eed wordt bevestigd, onwaar is? " index="1" />
+  <articulus title="Is iedere meineed zonde? " index="2" />
+  <articulus title="Is iedere meineed doodzonde? " index="3" />
+  <articulus title="Doet hij, die aan iemand, die een meineed zweert, de eed oplegt, zonde? " index="4" />
   </quaestio>
-<quaestio index="99" liber="3" title="Over de Heiligschennis ">
-    <articulus index="1" title="Is heiligschennis het misbruiken van een heilige zaak? " />
-  <articulus index="2" title="Is heiligschennis een bijzonder soort zonde? " />
-  <articulus index="3" title="Onderscheidt men naar de heilige dingen meerdere soorten heiligschennis? " />
-  <articulus index="4" title="Moet de straf voor heiligschennis in een geldboete bestaan? " />
+<quaestio liber="3" index="99" title="Over de Heiligschennis ">
+    <articulus title="Is heiligschennis het misbruiken van een heilige zaak? " index="1" />
+  <articulus title="Is heiligschennis een bijzonder soort zonde? " index="2" />
+  <articulus title="Onderscheidt men naar de heilige dingen meerdere soorten heiligschennis? " index="3" />
+  <articulus title="Moet de straf voor heiligschennis in een geldboete bestaan? " index="4" />
   </quaestio>
-<quaestio index="100" liber="3" title="Over de Simonie ">
-    <articulus index="1" title="Is simonie het in ernst willen kopen en verkopen van geestelijke dingen en wat daarmee in verband staat? " />
-  <articulus index="2" title="Is het altijd ongeoorloofd geld voor de Sacramenten te geven? " />
-  <articulus index="3" title="Mag men geld geven en ontvangen voor geestelijke daden? " />
-  <articulus index="4" title="Mag men geld aannemen voor wat met het geestelijke in verband staat? " />
+<quaestio liber="3" index="100" title="Over de Simonie ">
+    <articulus title="Is simonie het in ernst willen kopen en verkopen van geestelijke dingen en wat daarmee in verband staat? " index="1" />
+  <articulus title="Is het altijd ongeoorloofd geld voor de Sacramenten te geven? " index="2" />
+  <articulus title="Mag men geld geven en ontvangen voor geestelijke daden? " index="3" />
+  <articulus title="Mag men geld aannemen voor wat met het geestelijke in verband staat? " index="4" />
   </quaestio>
 </summa>

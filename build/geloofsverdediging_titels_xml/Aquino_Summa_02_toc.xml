@@ -1,111 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <summa>
-  <quaestio index="27" liber="1" title="Over de voortkomst van de goddelijke Personen ">
-    <articulus index="1" title="Is er een voortkomst in God? " />
-  <articulus index="2" title="Is er in de Godheid een voortkomst die &#171; voortbrenging &#187; of &#171; geboorte &#187; kan genoemd worden? " />
-  <articulus index="3" title="Is er buiten de geboorte nog een andere voortkomst in de Godheid? " />
-  <articulus index="4" title="Is de voortkomst van de liefde in God een voortbrenging of geboorte? " />
-  <articulus index="5" title="Zijn er in God meer dan twee voortkomsten? " />
+  <quaestio liber="1" index="27" title="Over de voortkomst van de goddelijke Personen ">
+    <articulus title="Is er een voortkomst in God? " index="1" />
+  <articulus title="Is er in de Godheid een voortkomst die &#171; voortbrenging &#187; of &#171; geboorte &#187; kan genoemd worden? " index="2" />
+  <articulus title="Is er buiten de geboorte nog een andere voortkomst in de Godheid? " index="3" />
+  <articulus title="Is de voortkomst van de liefde in God een voortbrenging of geboorte? " index="4" />
+  <articulus title="Zijn er in God meer dan twee voortkomsten? " index="5" />
   </quaestio>
-<quaestio index="28" liber="1" title="Over de goddelijke betrekkingen ">
-    <articulus index="1" title="Zijn er enige werkelijke betrekkingen in God? " />
-  <articulus index="2" title="Is de betrekking in God hetzelfde als zijn wezenheid? " />
-  <articulus index="3" title="Zijn de betrekkingen, die in God zijn, werkelijk van elkaar onderscheiden? " />
-  <articulus index="4" title="Zijn er in God slechts vier werkelijke betrekkingen, te weten het vaderschap, het zoonschap, de aanademing en de voortkomst? " />
+<quaestio liber="1" index="28" title="Over de goddelijke betrekkingen ">
+    <articulus title="Zijn er enige werkelijke betrekkingen in God? " index="1" />
+  <articulus title="Is de betrekking in God hetzelfde als zijn wezenheid? " index="2" />
+  <articulus title="Zijn de betrekkingen, die in God zijn, werkelijk van elkaar onderscheiden? " index="3" />
+  <articulus title="Zijn er in God slechts vier werkelijke betrekkingen, te weten het vaderschap, het zoonschap, de aanademing en de voortkomst? " index="4" />
   </quaestio>
-<quaestio index="29" liber="1" title="Over de goddelijke Personen ">
-    <articulus index="1" title="Over de bepaling van den persoon " />
-  <articulus index="2" title="Is de persoon hetzelfde als de hypostase, als het zelfstandig-staande en als de wezenheid? " />
-  <articulus index="3" title="Mag men aan God den naam &#171; persoon &#187; toekennen? " />
-  <articulus index="4" title="Betekent de naam &#171; persoon &#187; de betrekking? " />
+<quaestio liber="1" index="29" title="Over de goddelijke Personen ">
+    <articulus title="Over de bepaling van den persoon " index="1" />
+  <articulus title="Is de persoon hetzelfde als de hypostase, als het zelfstandig-staande en als de wezenheid? " index="2" />
+  <articulus title="Mag men aan God den naam &#171; persoon &#187; toekennen? " index="3" />
+  <articulus title="Betekent de naam &#171; persoon &#187; de betrekking? " index="4" />
   </quaestio>
-<quaestio index="30" liber="1" title="Over de veelheid van de Personen in God ">
-    <articulus index="1" title="Moeten we aannemen dat er in God verscheidene personen zijn? " />
-  <articulus index="2" title="Zijn er in God meer dan drie personen? " />
-  <articulus index="3" title="Beduiden de telwoorden iets werkelijks in God? " />
-  <articulus index="4" title="Kan de naam &#171; persoon &#187; gemeen zijn aan de drie personen? " />
+<quaestio liber="1" index="30" title="Over de veelheid van de Personen in God ">
+    <articulus title="Moeten we aannemen dat er in God verscheidene personen zijn? " index="1" />
+  <articulus title="Zijn er in God meer dan drie personen? " index="2" />
+  <articulus title="Beduiden de telwoorden iets werkelijks in God? " index="3" />
+  <articulus title="Kan de naam &#171; persoon &#187; gemeen zijn aan de drie personen? " index="4" />
   </quaestio>
-<quaestio index="31" liber="1" title="Over hetgeen behoort tot de eenheid en de veelheid in het goddelijke ">
-    <articulus index="1" title="Bestaat er &#8217;n drievuldigheid in God? " />
-  <articulus index="2" title="Is de Zoon een andere dan de Vader? " />
-  <articulus index="3" title="Mag men het woord &#171; alleen &#187;, dat een exclusieve betekenis heeft, voegen bij een wezensterm in God? " />
-  <articulus index="4" title="Mag men dat woord met exclusieve betekenis voegen bij een persoonsterm? " />
+<quaestio liber="1" index="31" title="Over hetgeen behoort tot de eenheid en de veelheid in het goddelijke ">
+    <articulus title="Bestaat er &#8217;n drievuldigheid in God? " index="1" />
+  <articulus title="Is de Zoon een andere dan de Vader? " index="2" />
+  <articulus title="Mag men het woord &#171; alleen &#187;, dat een exclusieve betekenis heeft, voegen bij een wezensterm in God? " index="3" />
+  <articulus title="Mag men dat woord met exclusieve betekenis voegen bij een persoonsterm? " index="4" />
   </quaestio>
-<quaestio index="32" liber="1" title="Over onze kennis van de goddelijke Personen ">
-    <articulus index="1" title="Kan de Drievuldigheid van Personen in God door de natuurlijke rede gekend worden? " />
-  <articulus index="2" title="Mogen we houden dat er in de Godheid kenmerken zijn? " />
-  <articulus index="3" title="Zijn er vijf kenmerken? " />
-  <articulus index="4" title="Mogen er over de kenmerken tegengestelde meningen op na gehouden worden? " />
+<quaestio liber="1" index="32" title="Over onze kennis van de goddelijke Personen ">
+    <articulus title="Kan de Drievuldigheid van Personen in God door de natuurlijke rede gekend worden? " index="1" />
+  <articulus title="Mogen we houden dat er in de Godheid kenmerken zijn? " index="2" />
+  <articulus title="Zijn er vijf kenmerken? " index="3" />
+  <articulus title="Mogen er over de kenmerken tegengestelde meningen op na gehouden worden? " index="4" />
   </quaestio>
-<quaestio index="33" liber="1" title="Over den persoon van de Vader ">
-    <articulus index="1" title="Komt het de Vader toe &#171; beginsel &#187; te zijn? " />
-  <articulus index="2" title="Is de naam &#171; Vader &#187; een eigen naam van een goddelijke Persoon? " />
-  <articulus index="3" title="Wordt de naam &#171; Vader &#187; op de eerste plaats als een persoonsnaam aan God toegeschreven? " />
-  <articulus index="4" title="Is het &#171; ongeboren zijn &#187; eigen aan de Vader? " />
+<quaestio liber="1" index="33" title="Over den persoon van de Vader ">
+    <articulus title="Komt het de Vader toe &#171; beginsel &#187; te zijn? " index="1" />
+  <articulus title="Is de naam &#171; Vader &#187; een eigen naam van een goddelijke Persoon? " index="2" />
+  <articulus title="Wordt de naam &#171; Vader &#187; op de eerste plaats als een persoonsnaam aan God toegeschreven? " index="3" />
+  <articulus title="Is het &#171; ongeboren zijn &#187; eigen aan de Vader? " index="4" />
   </quaestio>
-<quaestio index="34" liber="1" title="Over den Persoon van den Zoon ">
-    <articulus index="1" title="Duidt de benaming &#171; Woord &#187; in de Godheid een Persoon aan? " />
-  <articulus index="2" title="Is &#171; het Woord &#187; een eigen naam van de Zoon? " />
-  <articulus index="3" title="Sluit de benaming &#171; Woord &#187; een gericht zijn op de schepselen in? " />
+<quaestio liber="1" index="34" title="Over den Persoon van den Zoon ">
+    <articulus title="Duidt de benaming &#171; Woord &#187; in de Godheid een Persoon aan? " index="1" />
+  <articulus title="Is &#171; het Woord &#187; een eigen naam van de Zoon? " index="2" />
+  <articulus title="Sluit de benaming &#171; Woord &#187; een gericht zijn op de schepselen in? " index="3" />
   </quaestio>
-<quaestio index="35" liber="1" title="Over de benaming &#171; Beeld van de Vader &#187; ">
-    <articulus index="1" title="Is de benaming &#171; Beeld &#187; op een goddelijke Persoon toepasselijk? " />
-  <articulus index="2" title="Is de benaming &#171; Beeld &#187; eigen aan den Zoon? " />
+<quaestio liber="1" index="35" title="Over de benaming &#171; Beeld van de Vader &#187; ">
+    <articulus title="Is de benaming &#171; Beeld &#187; op een goddelijke Persoon toepasselijk? " index="1" />
+  <articulus title="Is de benaming &#171; Beeld &#187; eigen aan den Zoon? " index="2" />
   </quaestio>
-<quaestio index="36" liber="1" title="Over de Heilige Geest ">
-    <articulus index="1" title="Is de benaming &#171; Heilige Geest &#187; eigen aan een goddelijke Persoon? " />
-  <articulus index="2" title="Komt de Heilige Geest voort van de Zoon? " />
-  <articulus index="3" title="Komt de Heilige Geest voort van de Vader door de Zoon? " />
-  <articulus index="4" title="Vormen de Vader en de Zoon &#233;&#233;n beginsel ten opzichte van de Heilige Geest? " />
+<quaestio liber="1" index="36" title="Over de Heilige Geest ">
+    <articulus title="Is de benaming &#171; Heilige Geest &#187; eigen aan een goddelijke Persoon? " index="1" />
+  <articulus title="Komt de Heilige Geest voort van de Zoon? " index="2" />
+  <articulus title="Komt de Heilige Geest voort van de Vader door de Zoon? " index="3" />
+  <articulus title="Vormen de Vader en de Zoon &#233;&#233;n beginsel ten opzichte van de Heilige Geest? " index="4" />
   </quaestio>
-<quaestio index="37" liber="1" title="Over de benaming &#171; Liefde &#187; waarmede de Heilige Geest genoemd wordt ">
-    <articulus index="1" title="Is &#171; Liefde &#187; een eigen benaming van de Heilige Geest? " />
-  <articulus index="2" title="Beminnen de Vader en de Zoon elkaar door de Heilige Geest? " />
+<quaestio liber="1" index="37" title="Over de benaming &#171; Liefde &#187; waarmede de Heilige Geest genoemd wordt ">
+    <articulus title="Is &#171; Liefde &#187; een eigen benaming van de Heilige Geest? " index="1" />
+  <articulus title="Beminnen de Vader en de Zoon elkaar door de Heilige Geest? " index="2" />
   </quaestio>
-<quaestio index="38" liber="1" title="Over de benaming &#171; Gave &#187; waarmede de Heilige Geest wordt aangeduid ">
-    <articulus index="1" title="Is &#171; Gave &#187; de benaming van een persoon? " />
-  <articulus index="2" title="Is &#171; Gave &#187; een eigen benaming van de Heilige Geest? " />
+<quaestio liber="1" index="38" title="Over de benaming &#171; Gave &#187; waarmede de Heilige Geest wordt aangeduid ">
+    <articulus title="Is &#171; Gave &#187; de benaming van een persoon? " index="1" />
+  <articulus title="Is &#171; Gave &#187; een eigen benaming van de Heilige Geest? " index="2" />
   </quaestio>
-<quaestio index="39" liber="1" title="Over de Personen in verband met de Wezenheid ">
-    <articulus index="1" title="Is in God de wezenheid hetzelfde als de persoon? " />
-  <articulus index="2" title="Mag men zeggen dat de drie Personen van &#233;&#233;n wezenheid zijn? " />
-  <articulus index="3" title="Worden de wezensnamen in het enkelvoud aan de drie Personen toegekend? " />
-  <articulus index="4" title="Kunnen de concrete wezensnamen staan voor de persoon? " />
-  <articulus index="5" title="Kunnen de wezensnamen in abstracte zin genomen staan voor de persoon? " />
-  <articulus index="6" title="Kunnen de personen als gezegde van de wezensnamen optreden? " />
-  <articulus index="7" title="Mag men de wezensnamen aan de personen toe&#235;igenen? " />
-  <articulus index="8" title="Hebben de heilige Leraren een geschikt gebruik gemaakt van de toeschrijving der wezenseigenschappen aan de Personen? " />
+<quaestio liber="1" index="39" title="Over de Personen in verband met de Wezenheid ">
+    <articulus title="Is in God de wezenheid hetzelfde als de persoon? " index="1" />
+  <articulus title="Mag men zeggen dat de drie Personen van &#233;&#233;n wezenheid zijn? " index="2" />
+  <articulus title="Worden de wezensnamen in het enkelvoud aan de drie Personen toegekend? " index="3" />
+  <articulus title="Kunnen de concrete wezensnamen staan voor de persoon? " index="4" />
+  <articulus title="Kunnen de wezensnamen in abstracte zin genomen staan voor de persoon? " index="5" />
+  <articulus title="Kunnen de personen als gezegde van de wezensnamen optreden? " index="6" />
+  <articulus title="Mag men de wezensnamen aan de personen toe&#235;igenen? " index="7" />
+  <articulus title="Hebben de heilige Leraren een geschikt gebruik gemaakt van de toeschrijving der wezenseigenschappen aan de Personen? " index="8" />
   </quaestio>
-<quaestio index="40" liber="1" title="Over de Personen in vergelijking met de betrekkingen of eigenschappen ">
-    <articulus index="1" title="Is betrekking en Persoon een en hetzelfde? " />
-  <articulus index="2" title="Zijn de Personen onderscheiden door de betrekkingen? " />
-  <articulus index="3" title="Blijven de hypostasen nog, wanneer men met het verstand de betrekkingen wegdenkt van de Personen? " />
-  <articulus index="4" title="Gaat het begrip van de kenmerkende daden aan het begrip van de eigenschappen vooraf? " />
+<quaestio liber="1" index="40" title="Over de Personen in vergelijking met de betrekkingen of eigenschappen ">
+    <articulus title="Is betrekking en Persoon een en hetzelfde? " index="1" />
+  <articulus title="Zijn de Personen onderscheiden door de betrekkingen? " index="2" />
+  <articulus title="Blijven de hypostasen nog, wanneer men met het verstand de betrekkingen wegdenkt van de Personen? " index="3" />
+  <articulus title="Gaat het begrip van de kenmerkende daden aan het begrip van de eigenschappen vooraf? " index="4" />
   </quaestio>
-<quaestio index="41" liber="1" title="Over de Personen beschouwd in verband met de kenmerkende daden ">
-    <articulus index="1" title="Moeten er aan de Personen kenmerkende daden worden toegeschreven? " />
-  <articulus index="2" title="Zijn de kenmerkende daden vrijwillige daden? " />
-  <articulus index="3" title="Doen de kenmerkende daden de Personen voortkomen uit iets? " />
-  <articulus index="4" title="Is er in de Godheid een vermogen ten opzichte van de kenmerkende daden? " />
-  <articulus index="5" title="Betekent het voortbrengingsvermogen de betrekking en niet de wezenheid? " />
-  <articulus index="6" title="Kan de kenmerkende daad verscheidene Personen als eindpunt hebben? " />
+<quaestio liber="1" index="41" title="Over de Personen beschouwd in verband met de kenmerkende daden ">
+    <articulus title="Moeten er aan de Personen kenmerkende daden worden toegeschreven? " index="1" />
+  <articulus title="Zijn de kenmerkende daden vrijwillige daden? " index="2" />
+  <articulus title="Doen de kenmerkende daden de Personen voortkomen uit iets? " index="3" />
+  <articulus title="Is er in de Godheid een vermogen ten opzichte van de kenmerkende daden? " index="4" />
+  <articulus title="Betekent het voortbrengingsvermogen de betrekking en niet de wezenheid? " index="5" />
+  <articulus title="Kan de kenmerkende daad verscheidene Personen als eindpunt hebben? " index="6" />
   </quaestio>
-<quaestio index="42" liber="1" title="Over de gelijkheid en de gelijkenis der Goddelijke Personen onderling ">
-    <articulus index="1" title="Kan er gelijkheid zijn in de Godheid? " />
-  <articulus index="2" title="Is een voortkomende Persoon mede-eeuwig met zijn beginsel, b. v. de Zoon met de Vader? " />
-  <articulus index="3" title="Is er tussen de goddelijke Personen orde in natuur? " />
-  <articulus index="4" title="Is de Zoon in grootte aan de Vader gelijk? " />
-  <articulus index="5" title="Is de Zoon in de Vader en de Vader in de Zoon? " />
-  <articulus index="6" title="Is de Zoon in macht aan de Vader gelijk? " />
+<quaestio liber="1" index="42" title="Over de gelijkheid en de gelijkenis der Goddelijke Personen onderling ">
+    <articulus title="Kan er gelijkheid zijn in de Godheid? " index="1" />
+  <articulus title="Is een voortkomende Persoon mede-eeuwig met zijn beginsel, b. v. de Zoon met de Vader? " index="2" />
+  <articulus title="Is er tussen de goddelijke Personen orde in natuur? " index="3" />
+  <articulus title="Is de Zoon in grootte aan de Vader gelijk? " index="4" />
+  <articulus title="Is de Zoon in de Vader en de Vader in de Zoon? " index="5" />
+  <articulus title="Is de Zoon in macht aan de Vader gelijk? " index="6" />
   </quaestio>
-<quaestio index="43" liber="1" title="Over de zending van de goddelijke Personen ">
-    <articulus index="1" title="Komt het aan een goddelijke Persoon toe gezonden te worden? " />
-  <articulus index="2" title="Is de zending eeuwig of geschiedt ze alleen in den tijd? " />
-  <articulus index="3" title="Geschiedt de onzichtbare zending van een goddelijke Persoon alleen door de gave van heiligmakende genade? " />
-  <articulus index="4" title="Komt het aan de Vader toe gezonden te worden? " />
-  <articulus index="5" title="Komt het aan de Zoon toe op onzichtbare wijze gezonden te worden? " />
-  <articulus index="6" title="Wordt de onzichtbare zending gericht tot allen die de genade delen? " />
-  <articulus index="7" title="Komt het aan de Heiligen Geest toe op zichtbare wijze gezonden te worden? " />
-  <articulus index="8" title="Wordt een goddelijke Persoon alleen gezonden door Hem uit wie Hij eeuwig voortkomt? " />
+<quaestio liber="1" index="43" title="Over de zending van de goddelijke Personen ">
+    <articulus title="Komt het aan een goddelijke Persoon toe gezonden te worden? " index="1" />
+  <articulus title="Is de zending eeuwig of geschiedt ze alleen in den tijd? " index="2" />
+  <articulus title="Geschiedt de onzichtbare zending van een goddelijke Persoon alleen door de gave van heiligmakende genade? " index="3" />
+  <articulus title="Komt het aan de Vader toe gezonden te worden? " index="4" />
+  <articulus title="Komt het aan de Zoon toe op onzichtbare wijze gezonden te worden? " index="5" />
+  <articulus title="Wordt de onzichtbare zending gericht tot allen die de genade delen? " index="6" />
+  <articulus title="Komt het aan de Heiligen Geest toe op zichtbare wijze gezonden te worden? " index="7" />
+  <articulus title="Wordt een goddelijke Persoon alleen gezonden door Hem uit wie Hij eeuwig voortkomt? " index="8" />
   </quaestio>
 </summa>

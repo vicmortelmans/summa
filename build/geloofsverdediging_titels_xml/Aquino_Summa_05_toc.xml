@@ -1,122 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <summa>
-  <quaestio index="103" liber="1" title="Het heelalbestuur in het algemeen ">
-    <articulus index="1" title="Wordt het heelal door iemand bestuurd? " />
-  <articulus index="2" title="Wat is het doel van dat bestuur? " />
-  <articulus index="3" title="Is er slechts &#233;&#233;n bestuurder? " />
-  <articulus index="4" title="De gevolgen van dit bestuur " />
-  <articulus index="5" title="Zijn alle dingen aan het Godsbestuur onderworpen? " />
-  <articulus index="6" title="Worden alle dingen onmiddellijk door God bestuurd? " />
-  <articulus index="7" title="Kan het Godsbestuur in het een of ander verijdeld worden? " />
-  <articulus index="8" title="Is er iets dat de goddelijke Voorzienigheid weerstreeft? " />
+  <quaestio liber="1" index="103" title="Het heelalbestuur in het algemeen ">
+    <articulus title="Wordt het heelal door iemand bestuurd? " index="1" />
+  <articulus title="Wat is het doel van dat bestuur? " index="2" />
+  <articulus title="Is er slechts &#233;&#233;n bestuurder? " index="3" />
+  <articulus title="De gevolgen van dit bestuur " index="4" />
+  <articulus title="Zijn alle dingen aan het Godsbestuur onderworpen? " index="5" />
+  <articulus title="Worden alle dingen onmiddellijk door God bestuurd? " index="6" />
+  <articulus title="Kan het Godsbestuur in het een of ander verijdeld worden? " index="7" />
+  <articulus title="Is er iets dat de goddelijke Voorzienigheid weerstreeft? " index="8" />
   </quaestio>
-<quaestio index="104" liber="1" title="De gevolgen van het goddelijk wereldbestuur in het bijzonder ">
-    <articulus index="1" title="Hebben de schepselen er behoefte aan door God in hun bestaan behouden te worden? " />
-  <articulus index="2" title="Worden ze onmiddellijk door God behouden? " />
-  <articulus index="3" title="Kan God een ding vernietigen? " />
-  <articulus index="4" title="Wordt er in feite iets vernietigd? " />
+<quaestio liber="1" index="104" title="De gevolgen van het goddelijk wereldbestuur in het bijzonder ">
+    <articulus title="Hebben de schepselen er behoefte aan door God in hun bestaan behouden te worden? " index="1" />
+  <articulus title="Worden ze onmiddellijk door God behouden? " index="2" />
+  <articulus title="Kan God een ding vernietigen? " index="3" />
+  <articulus title="Wordt er in feite iets vernietigd? " index="4" />
   </quaestio>
-<quaestio index="105" liber="1" title="De verandering der schepselen door God ">
-    <articulus index="1" title="Kan God onmiddellijk de stof tot de vorm bewegen? " />
-  <articulus index="2" title="Kan Hij onmiddellijk een lichaam bewegen? " />
-  <articulus index="3" title="Kan Hij het verstand bewegen? " />
-  <articulus index="4" title="Kan Hij den wil bewegen? " />
-  <articulus index="5" title="Werkt God in al wat werkt? " />
-  <articulus index="6" title="Kan Hij iets doen buiten de in de dingen gelegde orde om? " />
-  <articulus index="7" title="Is alles wat God aldus doet een wonder? " />
-  <articulus index="8" title="De verscheidenheid van wonderen " />
+<quaestio liber="1" index="105" title="De verandering der schepselen door God ">
+    <articulus title="Kan God onmiddellijk de stof tot de vorm bewegen? " index="1" />
+  <articulus title="Kan Hij onmiddellijk een lichaam bewegen? " index="2" />
+  <articulus title="Kan Hij het verstand bewegen? " index="3" />
+  <articulus title="Kan Hij den wil bewegen? " index="4" />
+  <articulus title="Werkt God in al wat werkt? " index="5" />
+  <articulus title="Kan Hij iets doen buiten de in de dingen gelegde orde om? " index="6" />
+  <articulus title="Is alles wat God aldus doet een wonder? " index="7" />
+  <articulus title="De verscheidenheid van wonderen " index="8" />
   </quaestio>
-<quaestio index="106" liber="1" title="Hoe het ene schepsel het andere be&#239;nvloedt ">
-    <articulus index="1" title="Be&#239;nvloedt de ene engel het verstand van de andere door verlichting " />
-  <articulus index="2" title="Be&#239;nvloedt de een de wil van de ander? " />
-  <articulus index="3" title="Kan de lagere engel de hogere verlichten? " />
-  <articulus index="4" title="Verlicht de hogere engel de lagere met betrekking tot al wat hij weet? " />
+<quaestio liber="1" index="106" title="Hoe het ene schepsel het andere be&#239;nvloedt ">
+    <articulus title="Be&#239;nvloedt de ene engel het verstand van de andere door verlichting " index="1" />
+  <articulus title="Be&#239;nvloedt de een de wil van de ander? " index="2" />
+  <articulus title="Kan de lagere engel de hogere verlichten? " index="3" />
+  <articulus title="Verlicht de hogere engel de lagere met betrekking tot al wat hij weet? " index="4" />
   </quaestio>
-<quaestio index="107" liber="1" title="De gesprekken der engelen ">
-    <articulus index="1" title="Spreekt de ene engel tot de andere? " />
-  <articulus index="2" title="Spreekt ook de lagere tot de hogere? " />
-  <articulus index="3" title="Spreekt de engel ook tot God? " />
-  <articulus index="4" title="Doet plaatselijke afstand iets af aan de gesprekken der engelen? " />
-  <articulus index="5" title="Verstaan allen het spreken van enen engel tot de andere? " />
+<quaestio liber="1" index="107" title="De gesprekken der engelen ">
+    <articulus title="Spreekt de ene engel tot de andere? " index="1" />
+  <articulus title="Spreekt ook de lagere tot de hogere? " index="2" />
+  <articulus title="Spreekt de engel ook tot God? " index="3" />
+  <articulus title="Doet plaatselijke afstand iets af aan de gesprekken der engelen? " index="4" />
+  <articulus title="Verstaan allen het spreken van enen engel tot de andere? " index="5" />
   </quaestio>
-<quaestio index="108" liber="1" title="De rangorde der engelen naar hi&#235;rarchie&#235;n en koren ">
-    <articulus index="1" title="Behoren alle engelen tot &#233;&#233;n en dezelfde hi&#235;rarchie? " />
-  <articulus index="2" title="Is er in iedere hi&#235;rarchie slechts &#233;&#233;n koor? " />
-  <articulus index="3" title="Zijn er meerdere engelen in &#233;&#233;n koor? " />
-  <articulus index="4" title="Is het onderscheid van hi&#235;rarchie&#235;n en koren natuurlijk? " />
-  <articulus index="5" title="De namen en eigenschappen der afzonderlijke koren " />
-  <articulus index="6" title="Vergelijking der koren onderling " />
-  <articulus index="7" title="Blijven de koren na den oordeelsdag? " />
-  <articulus index="8" title="Worden de mensen opgenomen in de koren der engelen? " />
+<quaestio liber="1" index="108" title="De rangorde der engelen naar hi&#235;rarchie&#235;n en koren ">
+    <articulus title="Behoren alle engelen tot &#233;&#233;n en dezelfde hi&#235;rarchie? " index="1" />
+  <articulus title="Is er in iedere hi&#235;rarchie slechts &#233;&#233;n koor? " index="2" />
+  <articulus title="Zijn er meerdere engelen in &#233;&#233;n koor? " index="3" />
+  <articulus title="Is het onderscheid van hi&#235;rarchie&#235;n en koren natuurlijk? " index="4" />
+  <articulus title="De namen en eigenschappen der afzonderlijke koren " index="5" />
+  <articulus title="Vergelijking der koren onderling " index="6" />
+  <articulus title="Blijven de koren na den oordeelsdag? " index="7" />
+  <articulus title="Worden de mensen opgenomen in de koren der engelen? " index="8" />
   </quaestio>
-<quaestio index="109" liber="1" title="De rangorde der slechte engelen ">
-    <articulus index="1" title="Zijn er ook duivelenkoren? " />
-  <articulus index="2" title="Is er leiderschap bij hen? " />
-  <articulus index="3" title="Verlicht de een de ander? " />
-  <articulus index="4" title="Zijn ze onderworpen aan de leiding der goede engelen? " />
+<quaestio liber="1" index="109" title="De rangorde der slechte engelen ">
+    <articulus title="Zijn er ook duivelenkoren? " index="1" />
+  <articulus title="Is er leiderschap bij hen? " index="2" />
+  <articulus title="Verlicht de een de ander? " index="3" />
+  <articulus title="Zijn ze onderworpen aan de leiding der goede engelen? " index="4" />
   </quaestio>
-<quaestio index="110" liber="1" title="Het beheer der engelen van de stoffelijke schepping ">
-    <articulus index="1" title="Wordt de stoffelijke schepping door de engelen beheerd? " />
-  <articulus index="2" title="Gehoorzaamt de stoffelijke schepping aan de engelen op hun wenk? " />
-  <articulus index="3" title="Kunnen de engelen door eigen kracht lichamen plaatselijk bewegen? " />
-  <articulus index="4" title="Kunnen goede of kwade engelen wonderen doen? " />
+<quaestio liber="1" index="110" title="Het beheer der engelen van de stoffelijke schepping ">
+    <articulus title="Wordt de stoffelijke schepping door de engelen beheerd? " index="1" />
+  <articulus title="Gehoorzaamt de stoffelijke schepping aan de engelen op hun wenk? " index="2" />
+  <articulus title="Kunnen de engelen door eigen kracht lichamen plaatselijk bewegen? " index="3" />
+  <articulus title="Kunnen goede of kwade engelen wonderen doen? " index="4" />
   </quaestio>
-<quaestio index="111" liber="1" title="De inwerking der engelen op de mensen ">
-    <articulus index="1" title="Kan de engel het menselijk verstand verlichten? " />
-  <articulus index="2" title="Kan hij het affect be&#239;nvloeden? " />
-  <articulus index="3" title="Kan hij de verbeelding be&#239;nvloeden? " />
-  <articulus index="4" title="Kan hij de zinnen be&#239;nvloeden? " />
+<quaestio liber="1" index="111" title="De inwerking der engelen op de mensen ">
+    <articulus title="Kan de engel het menselijk verstand verlichten? " index="1" />
+  <articulus title="Kan hij het affect be&#239;nvloeden? " index="2" />
+  <articulus title="Kan hij de verbeelding be&#239;nvloeden? " index="3" />
+  <articulus title="Kan hij de zinnen be&#239;nvloeden? " index="4" />
   </quaestio>
-<quaestio index="112" liber="1" title="De zending der engelen ">
-    <articulus index="1" title="Worden sommige engelen ter bediening uitgezonden? " />
-  <articulus index="2" title="Worden allen gezonden? " />
-  <articulus index="3" title="Staan allen die gezonden worden, v&#243;&#243;r God? " />
-  <articulus index="4" title="Uit welke koren worden ze gezonden? " />
+<quaestio liber="1" index="112" title="De zending der engelen ">
+    <articulus title="Worden sommige engelen ter bediening uitgezonden? " index="1" />
+  <articulus title="Worden allen gezonden? " index="2" />
+  <articulus title="Staan allen die gezonden worden, v&#243;&#243;r God? " index="3" />
+  <articulus title="Uit welke koren worden ze gezonden? " index="4" />
   </quaestio>
-<quaestio index="113" liber="1" title="De engelenbewaarders ">
-    <articulus index="1" title="Worden de mensen door de engelen beschermd? " />
-  <articulus index="2" title="Worden er afzonderlijke engelen met de bescherming der afzonderlijke mensen belast? " />
-  <articulus index="3" title="Behoort deze bescherming alleen bij de laagste koren? " />
-  <articulus index="4" title="Komt het iedere mens toe een engelbewaarder te hebben? " />
-  <articulus index="5" title="Wanneer begint de bescherming van de mens door de engel? " />
-  <articulus index="6" title="Beschermt de engel de mens altijd? " />
-  <articulus index="7" title="Doet hem het verlies van zijn beschermeling leed? " />
-  <articulus index="8" title="Is er vanwege de bescherming tweedracht onder de engelen? " />
+<quaestio liber="1" index="113" title="De engelenbewaarders ">
+    <articulus title="Worden de mensen door de engelen beschermd? " index="1" />
+  <articulus title="Worden er afzonderlijke engelen met de bescherming der afzonderlijke mensen belast? " index="2" />
+  <articulus title="Behoort deze bescherming alleen bij de laagste koren? " index="3" />
+  <articulus title="Komt het iedere mens toe een engelbewaarder te hebben? " index="4" />
+  <articulus title="Wanneer begint de bescherming van de mens door de engel? " index="5" />
+  <articulus title="Beschermt de engel de mens altijd? " index="6" />
+  <articulus title="Doet hem het verlies van zijn beschermeling leed? " index="7" />
+  <articulus title="Is er vanwege de bescherming tweedracht onder de engelen? " index="8" />
   </quaestio>
-<quaestio index="114" liber="1" title="De aanvallen des duivels ">
-    <articulus index="1" title="Worden de mensen door de duivels bestreden? " />
-  <articulus index="2" title="Is bekoren het eigene van de duivel? " />
-  <articulus index="3" title="Komen alle zonden der mensen van de aanvallen of bekoring des duivels voort? " />
-  <articulus index="4" title="Kunnen ze wonderen werken om te verleiden? " />
-  <articulus index="5" title="Worden de duivels, die door de mensen overwonnen zijn, uit de strijd tegen de mensen geweerd? " />
+<quaestio liber="1" index="114" title="De aanvallen des duivels ">
+    <articulus title="Worden de mensen door de duivels bestreden? " index="1" />
+  <articulus title="Is bekoren het eigene van de duivel? " index="2" />
+  <articulus title="Komen alle zonden der mensen van de aanvallen of bekoring des duivels voort? " index="3" />
+  <articulus title="Kunnen ze wonderen werken om te verleiden? " index="4" />
+  <articulus title="Worden de duivels, die door de mensen overwonnen zijn, uit de strijd tegen de mensen geweerd? " index="5" />
   </quaestio>
-<quaestio index="115" liber="1" title="De werking van het lichamelijk schepsel ">
-    <articulus index="1" title="Zijn er actieve lichamen? " />
-  <articulus index="2" title="Zijn er zogenaamde zaadbeginselen in de lichamen? " />
-  <articulus index="3" title="Zijn de hemellichamen oorzaak van hetgeen hier door de lagere lichamen gebeurt? " />
-  <articulus index="4" title="Zijn ze oorzaak van de menselijke handelingen? " />
-  <articulus index="5" title="Zijn de duivels aan hun werking onderworpen? " />
-  <articulus index="6" title="Leggen de hemellichamen noodzakelijkheid op aan datgene wat aan hun activiteit onderworpen is? " />
+<quaestio liber="1" index="115" title="De werking van het lichamelijk schepsel ">
+    <articulus title="Zijn er actieve lichamen? " index="1" />
+  <articulus title="Zijn er zogenaamde zaadbeginselen in de lichamen? " index="2" />
+  <articulus title="Zijn de hemellichamen oorzaak van hetgeen hier door de lagere lichamen gebeurt? " index="3" />
+  <articulus title="Zijn ze oorzaak van de menselijke handelingen? " index="4" />
+  <articulus title="Zijn de duivels aan hun werking onderworpen? " index="5" />
+  <articulus title="Leggen de hemellichamen noodzakelijkheid op aan datgene wat aan hun activiteit onderworpen is? " index="6" />
   </quaestio>
-<quaestio index="116" liber="1" title="Het noodlot ">
-    <articulus index="1" title="Is er een noodlot? " />
-  <articulus index="2" title="Waarin is het noodlot? " />
-  <articulus index="3" title="Is het noodlot onwrikbaar? " />
-  <articulus index="4" title="Valt alles onder het noodlot? " />
+<quaestio liber="1" index="116" title="Het noodlot ">
+    <articulus title="Is er een noodlot? " index="1" />
+  <articulus title="Waarin is het noodlot? " index="2" />
+  <articulus title="Is het noodlot onwrikbaar? " index="3" />
+  <articulus title="Valt alles onder het noodlot? " index="4" />
   </quaestio>
-<quaestio index="117" liber="1" title="De werking des mensen ">
-    <articulus index="1" title="Kan de ene mens de andere onderwijzen door in hem wetenschap te veroorzaken? " />
-  <articulus index="2" title="Kan een mens een engel onderwijzen? " />
-  <articulus index="3" title="Kan de mens door de kracht van zijn ziel lichamelijke stof veranderen? " />
-  <articulus index="4" title="Kan de van het lichaam gescheiden menselijke ziel andere lichamen plaatselijk bewegen? " />
+<quaestio liber="1" index="117" title="De werking des mensen ">
+    <articulus title="Kan de ene mens de andere onderwijzen door in hem wetenschap te veroorzaken? " index="1" />
+  <articulus title="Kan een mens een engel onderwijzen? " index="2" />
+  <articulus title="Kan de mens door de kracht van zijn ziel lichamelijke stof veranderen? " index="3" />
+  <articulus title="Kan de van het lichaam gescheiden menselijke ziel andere lichamen plaatselijk bewegen? " index="4" />
   </quaestio>
-<quaestio index="118" liber="1" title="De oorsprong van de mens uit de mens wat de ziel aangaat ">
-    <articulus index="1" title="Wordt de zinnelijke ziel tegelijk met het zaad overgebracht? " />
-  <articulus index="2" title="Ook de redelijke ziel? " />
-  <articulus index="3" title="Zijn alle zielen tegelijk geschapen? " />
+<quaestio liber="1" index="118" title="De oorsprong van de mens uit de mens wat de ziel aangaat ">
+    <articulus title="Wordt de zinnelijke ziel tegelijk met het zaad overgebracht? " index="1" />
+  <articulus title="Ook de redelijke ziel? " index="2" />
+  <articulus title="Zijn alle zielen tegelijk geschapen? " index="3" />
   </quaestio>
-<quaestio index="119" liber="1" title="De lichamelijke voortplanting des mensen ">
-    <articulus index="1" title="Wordt er voedsel werkelijk in de menselijke natuur opgenomen? " />
-  <articulus index="2" title="Is het zaad, dat het beginsel der menselijke teling is, voedingsoverschot? " />
+<quaestio liber="1" index="119" title="De lichamelijke voortplanting des mensen ">
+    <articulus title="Wordt er voedsel werkelijk in de menselijke natuur opgenomen? " index="1" />
+  <articulus title="Is het zaad, dat het beginsel der menselijke teling is, voedingsoverschot? " index="2" />
   </quaestio>
 </summa>

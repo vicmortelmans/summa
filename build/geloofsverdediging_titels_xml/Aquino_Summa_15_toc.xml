@@ -1,86 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <summa>
-  <quaestio index="57" liber="3" title="Over het recht ">
-    <articulus index="1" title="Is het recht het voorwerp van de rechtvaardigheid? " />
-  <articulus index="2" title="Is het passend het recht te verdelen in natuurrecht en positief recht? " />
-  <articulus index="3" title="Is volkenrecht hetzelfde als natuurrecht? " />
-  <articulus index="4" title="Moet een speciaal onderscheid gemaakt worden tussen het recht van de vader en dat van de heer? " />
+  <quaestio liber="3" index="57" title="Over het recht ">
+    <articulus title="Is het recht het voorwerp van de rechtvaardigheid? " index="1" />
+  <articulus title="Is het passend het recht te verdelen in natuurrecht en positief recht? " index="2" />
+  <articulus title="Is volkenrecht hetzelfde als natuurrecht? " index="3" />
+  <articulus title="Moet een speciaal onderscheid gemaakt worden tussen het recht van de vader en dat van de heer? " index="4" />
   </quaestio>
-<quaestio index="58" liber="3" title="Over de rechtvaardigheid ">
-    <articulus index="1" title="Is het passend de rechtvaardigheid te bepalen als &#171; de standvastige en blijvende wil om aan een&#173;ieder zijn recht te geven &#187;? " />
-  <articulus index="2" title="Sluit de rechtvaardigheid altijd verhouding tot een ander in? " />
-  <articulus index="3" title="Is de rechtvaardigheid een deugd? " />
-  <articulus index="4" title="Is de rechtvaardigheid in de wil als in haar subject? " />
-  <articulus index="5" title="Is de rechtvaardigheid een algemene deugd? " />
-  <articulus index="6" title="Valt de rechtvaardigheid, als algemene deugd, naar de wezenheid samen met alle andere deugden? " />
-  <articulus index="7" title="Bestaat er, buiten de algemene rechtvaardigheid, nog een bijzondere rechtvaardigheid? " />
-  <articulus index="8" title="Heeft de bijzondere rechtvaardigheid een eigen gebied? " />
-  <articulus index="9" title="Heeft de rechtvaardigheid betrekking op de hartstochten? " />
-  <articulus index="10" title="Is het midden van de rechtvaardigheid een zaakmidden? " />
-  <articulus index="11" title="Is het de daad van de rechtvaardigheid, aan ieder het zijne te geven? " />
-  <articulus index="12" title="Is de rechtvaardigheid de voornaamste onder de zedelijke deugden? " />
+<quaestio liber="3" index="58" title="Over de rechtvaardigheid ">
+    <articulus title="Is het passend de rechtvaardigheid te bepalen als &#171; de standvastige en blijvende wil om aan een&#173;ieder zijn recht te geven &#187;? " index="1" />
+  <articulus title="Sluit de rechtvaardigheid altijd verhouding tot een ander in? " index="2" />
+  <articulus title="Is de rechtvaardigheid een deugd? " index="3" />
+  <articulus title="Is de rechtvaardigheid in de wil als in haar subject? " index="4" />
+  <articulus title="Is de rechtvaardigheid een algemene deugd? " index="5" />
+  <articulus title="Valt de rechtvaardigheid, als algemene deugd, naar de wezenheid samen met alle andere deugden? " index="6" />
+  <articulus title="Bestaat er, buiten de algemene rechtvaardigheid, nog een bijzondere rechtvaardigheid? " index="7" />
+  <articulus title="Heeft de bijzondere rechtvaardigheid een eigen gebied? " index="8" />
+  <articulus title="Heeft de rechtvaardigheid betrekking op de hartstochten? " index="9" />
+  <articulus title="Is het midden van de rechtvaardigheid een zaakmidden? " index="10" />
+  <articulus title="Is het de daad van de rechtvaardigheid, aan ieder het zijne te geven? " index="11" />
+  <articulus title="Is de rechtvaardigheid de voornaamste onder de zedelijke deugden? " index="12" />
   </quaestio>
-<quaestio index="59" liber="3" title="Over de onrechtvaardigheid ">
-    <articulus index="1" title="Is de onrechtvaardigheid een speciale ondeugd? " />
-  <articulus index="2" title="Wordt iemand onrechtvaardig genoemd omdat hij iets onrechtvaardigs doet? " />
-  <articulus index="3" title="Kan iemand willens onrecht lijden? " />
-  <articulus index="4" title="Bedrijft al wie onrecht pleegt doodzonde? " />
+<quaestio liber="3" index="59" title="Over de onrechtvaardigheid ">
+    <articulus title="Is de onrechtvaardigheid een speciale ondeugd? " index="1" />
+  <articulus title="Wordt iemand onrechtvaardig genoemd omdat hij iets onrechtvaardigs doet? " index="2" />
+  <articulus title="Kan iemand willens onrecht lijden? " index="3" />
+  <articulus title="Bedrijft al wie onrecht pleegt doodzonde? " index="4" />
   </quaestio>
-<quaestio index="60" liber="3" title="Over het oordeel ">
-    <articulus index="1" title="Is oordelen een daad van rechtvaardigheid? " />
-  <articulus index="2" title="Is oordelen gewettigd? " />
-  <articulus index="3" title="Is een oordeel op grond van verdenking, ongewettigd? " />
-  <articulus index="4" title="Moeten twijfelgevallen langs de besten kant worden uitgelegd? " />
-  <articulus index="5" title="Moet men altijd overeenkomstig de geschreven wetten oordelen? " />
-  <articulus index="6" title="Ontaardt het oordeel door gezagsaanmatiging? " />
+<quaestio liber="3" index="60" title="Over het oordeel ">
+    <articulus title="Is oordelen een daad van rechtvaardigheid? " index="1" />
+  <articulus title="Is oordelen gewettigd? " index="2" />
+  <articulus title="Is een oordeel op grond van verdenking, ongewettigd? " index="3" />
+  <articulus title="Moeten twijfelgevallen langs de besten kant worden uitgelegd? " index="4" />
+  <articulus title="Moet men altijd overeenkomstig de geschreven wetten oordelen? " index="5" />
+  <articulus title="Ontaardt het oordeel door gezagsaanmatiging? " index="6" />
   </quaestio>
-<quaestio index="61" liber="3" title="Over de delen van de rechtvaardigheid ">
-    <articulus index="1" title="Is het passend twee soorten van rechtvaardigheid te onderscheiden: de verdelende en de ruilrechtvaardigheid? " />
-  <articulus index="2" title="Wordt het midden in dezelfde zin opgevat in de verdelende en in de ruilrechtvaardigheid? " />
-  <articulus index="3" title="Bestrijken de twee soorten rechtvaardigheid een verschillend gebied? " />
-  <articulus index="4" title="Is het rechtvaardige, zonder meer hetzelfde als het wedervergoldene? " />
+<quaestio liber="3" index="61" title="Over de delen van de rechtvaardigheid ">
+    <articulus title="Is het passend twee soorten van rechtvaardigheid te onderscheiden: de verdelende en de ruilrechtvaardigheid? " index="1" />
+  <articulus title="Wordt het midden in dezelfde zin opgevat in de verdelende en in de ruilrechtvaardigheid? " index="2" />
+  <articulus title="Bestrijken de twee soorten rechtvaardigheid een verschillend gebied? " index="3" />
+  <articulus title="Is het rechtvaardige, zonder meer hetzelfde als het wedervergoldene? " index="4" />
   </quaestio>
-<quaestio index="62" liber="3" title="Over de teruggave ">
-    <articulus index="1" title="Is de teruggave een daad van de ruilrechtvaardigheid? " />
-  <articulus index="2" title="Is het nodig ter zaligheid, het ontnomene terug te geven? " />
-  <articulus index="3" title="Is het voldoende enkel datgene terug te geven, wat onrechtvaardig werd ontnomen? " />
-  <articulus index="4" title="Moet iemand teruggeven wat hij niet ontvreemd heeft? " />
-  <articulus index="5" title="Moet de teruggave altijd geschieden aan hem, aan wie men iets ontnomen heeft? " />
-  <articulus index="6" title="Is het altijd hij die ontvangen heeft, die moet teruggeven? " />
-  <articulus index="7" title="Zijn zij die niet ontvingen, tot teruggave verplicht " />
-  <articulus index="8" title="Is iemand tot onverwijlde teruggave verplicht, of kan de teruggave wettig verdaagd worden? " />
+<quaestio liber="3" index="62" title="Over de teruggave ">
+    <articulus title="Is de teruggave een daad van de ruilrechtvaardigheid? " index="1" />
+  <articulus title="Is het nodig ter zaligheid, het ontnomene terug te geven? " index="2" />
+  <articulus title="Is het voldoende enkel datgene terug te geven, wat onrechtvaardig werd ontnomen? " index="3" />
+  <articulus title="Moet iemand teruggeven wat hij niet ontvreemd heeft? " index="4" />
+  <articulus title="Moet de teruggave altijd geschieden aan hem, aan wie men iets ontnomen heeft? " index="5" />
+  <articulus title="Is het altijd hij die ontvangen heeft, die moet teruggeven? " index="6" />
+  <articulus title="Zijn zij die niet ontvingen, tot teruggave verplicht " index="7" />
+  <articulus title="Is iemand tot onverwijlde teruggave verplicht, of kan de teruggave wettig verdaagd worden? " index="8" />
   </quaestio>
-<quaestio index="63" liber="3" title="Over het aanzien van personen ">
-    <articulus index="1" title="Is het aanzien van personen zonde? " />
-  <articulus index="2" title="Heeft het aanzien van personen plaats bij het uitdelen van kerkelijke goederen? " />
-  <articulus index="3" title="Heeft de zonde van aanzien van personen plaats bij het betuigen van eer en achting? " />
-  <articulus index="4" title="Heeft het aanzien van personen plaats bij gerechtelijke uitspraken? " />
+<quaestio liber="3" index="63" title="Over het aanzien van personen ">
+    <articulus title="Is het aanzien van personen zonde? " index="1" />
+  <articulus title="Heeft het aanzien van personen plaats bij het uitdelen van kerkelijke goederen? " index="2" />
+  <articulus title="Heeft de zonde van aanzien van personen plaats bij het betuigen van eer en achting? " index="3" />
+  <articulus title="Heeft het aanzien van personen plaats bij gerechtelijke uitspraken? " index="4" />
   </quaestio>
-<quaestio index="64" liber="3" title="Over de doodslag ">
-    <articulus index="1" title="Is het doden van alle levende wezens verboden? " />
-  <articulus index="2" title="Is het geoorloofd zondaars te doden? " />
-  <articulus index="3" title="Is het aan een privaat persoon geoorloofd, een zondaar te doden? " />
-  <articulus index="4" title="Mogen geestelijken de boosdoeners doden? " />
-  <articulus index="5" title="Is het aan iemand geoorloofd zelfmoord te plegen? " />
-  <articulus index="6" title="Is het in sommige gevallen toegelaten een onschuldige te doden? " />
-  <articulus index="7" title="Is het geoorloofd een ander uit zelfverdediging te doden? " />
-  <articulus index="8" title="Is iemand die toevallig een mens doodt, schuldig aan doodslag? " />
+<quaestio liber="3" index="64" title="Over de doodslag ">
+    <articulus title="Is het doden van alle levende wezens verboden? " index="1" />
+  <articulus title="Is het geoorloofd zondaars te doden? " index="2" />
+  <articulus title="Is het aan een privaat persoon geoorloofd, een zondaar te doden? " index="3" />
+  <articulus title="Mogen geestelijken de boosdoeners doden? " index="4" />
+  <articulus title="Is het aan iemand geoorloofd zelfmoord te plegen? " index="5" />
+  <articulus title="Is het in sommige gevallen toegelaten een onschuldige te doden? " index="6" />
+  <articulus title="Is het geoorloofd een ander uit zelfverdediging te doden? " index="7" />
+  <articulus title="Is iemand die toevallig een mens doodt, schuldig aan doodslag? " index="8" />
   </quaestio>
-<quaestio index="65" liber="3" title="Over de andere onrechtvaardigheden die tegen de persoon worden bedreven ">
-    <articulus index="1" title="Kan het in een bepaald geval geoorloofd zijn, iemand te verminken in zijn ledematen? " />
-  <articulus index="2" title="Mogen de vaders hun kinderen, of de meesters hun slaven kastijden? " />
-  <articulus index="3" title="Is het toegelaten een mens te kerkeren? " />
-  <articulus index="4" title="Is het zwaardere zonde, wanneer voornoemde onrechtvaardigheden begaan worden tegen een persoon, die met anderen verwant is? " />
+<quaestio liber="3" index="65" title="Over de andere onrechtvaardigheden die tegen de persoon worden bedreven ">
+    <articulus title="Kan het in een bepaald geval geoorloofd zijn, iemand te verminken in zijn ledematen? " index="1" />
+  <articulus title="Mogen de vaders hun kinderen, of de meesters hun slaven kastijden? " index="2" />
+  <articulus title="Is het toegelaten een mens te kerkeren? " index="3" />
+  <articulus title="Is het zwaardere zonde, wanneer voornoemde onrechtvaardigheden begaan worden tegen een persoon, die met anderen verwant is? " index="4" />
   </quaestio>
-<quaestio index="66" liber="3" title="Over diefstal en roof ">
-    <articulus index="1" title="Is het overeenkomstig de natuur van den mens, uitwendige goederen te bezitten? " />
-  <articulus index="2" title="Is het aan iemand geoorloofd, iets te bezitten als zijn eigen goed? " />
-  <articulus index="3" title="Behoort het heimelijk wegnemen van andermans goed, tot het wezen van diefstal? " />
-  <articulus index="4" title="Zijn diefstal en roof soortelijk onderscheiden zonden? " />
-  <articulus index="5" title="Is diefstal altijd zonde? " />
-  <articulus index="6" title="Is diefstal doodzonde? " />
-  <articulus index="7" title="Is het toegelaten te stelen uit nood? " />
-  <articulus index="8" title="Kan roof geschieden zonder zonde? " />
-  <articulus index="9" title="Is diefstal zwaardere zonde dan roof? " />
+<quaestio liber="3" index="66" title="Over diefstal en roof ">
+    <articulus title="Is het overeenkomstig de natuur van den mens, uitwendige goederen te bezitten? " index="1" />
+  <articulus title="Is het aan iemand geoorloofd, iets te bezitten als zijn eigen goed? " index="2" />
+  <articulus title="Behoort het heimelijk wegnemen van andermans goed, tot het wezen van diefstal? " index="3" />
+  <articulus title="Zijn diefstal en roof soortelijk onderscheiden zonden? " index="4" />
+  <articulus title="Is diefstal altijd zonde? " index="5" />
+  <articulus title="Is diefstal doodzonde? " index="6" />
+  <articulus title="Is het toegelaten te stelen uit nood? " index="7" />
+  <articulus title="Kan roof geschieden zonder zonde? " index="8" />
+  <articulus title="Is diefstal zwaardere zonde dan roof? " index="9" />
   </quaestio>
 </summa>

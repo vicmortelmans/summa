@@ -1,112 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <summa>
-  <quaestio index="17" liber="3" title="Over de deugd van hoop op zichzelf beschouwd ">
-    <articulus index="1" title="Is de hoop een deugd? " />
-  <articulus index="2" title="Is de eeuwige zaligheid het eigen voorwerp van de hoop? " />
-  <articulus index="3" title="Kan men de eeuwige zaligheid voor een ander hopen? " />
-  <articulus index="4" title="Is het gegrond op mensen te hopen? " />
-  <articulus index="5" title="Is de hoop een goddelijke deugd? " />
-  <articulus index="6" title="Is de hoop als deugd, onderscheiden van de andere goddelijke deugden? " />
-  <articulus index="7" title="Gaat de hoop het geloof vooraf? " />
-  <articulus index="8" title="Gaat de liefde de hoop vooraf? " />
+  <quaestio liber="3" index="17" title="Over de deugd van hoop op zichzelf beschouwd ">
+    <articulus title="Is de hoop een deugd? " index="1" />
+  <articulus title="Is de eeuwige zaligheid het eigen voorwerp van de hoop? " index="2" />
+  <articulus title="Kan men de eeuwige zaligheid voor een ander hopen? " index="3" />
+  <articulus title="Is het gegrond op mensen te hopen? " index="4" />
+  <articulus title="Is de hoop een goddelijke deugd? " index="5" />
+  <articulus title="Is de hoop als deugd, onderscheiden van de andere goddelijke deugden? " index="6" />
+  <articulus title="Gaat de hoop het geloof vooraf? " index="7" />
+  <articulus title="Gaat de liefde de hoop vooraf? " index="8" />
   </quaestio>
-<quaestio index="18" liber="3" title="Over den zetel der hoop ">
-    <articulus index="1" title="Is de wil, de zetel van de hoop? " />
-  <articulus index="2" title="Bezitten de gelukzaligen de hoop? " />
-  <articulus index="3" title="Hopen de verdoemden? " />
-  <articulus index="4" title="Is de hoop van hen die op aarde leven een zekerheid? " />
+<quaestio liber="3" index="18" title="Over den zetel der hoop ">
+    <articulus title="Is de wil, de zetel van de hoop? " index="1" />
+  <articulus title="Bezitten de gelukzaligen de hoop? " index="2" />
+  <articulus title="Hopen de verdoemden? " index="3" />
+  <articulus title="Is de hoop van hen die op aarde leven een zekerheid? " index="4" />
   </quaestio>
-<quaestio index="19" liber="3" title="Over de gave van vrees ">
-    <articulus index="1" title="Moet men God vrezen? " />
-  <articulus index="2" title="Is de indeling van de vrees in kinderlijke vrees, aanvangsvrees, slaafse en wereldse vrees, juist? " />
-  <articulus index="3" title="Is de wereldse vrees altijd slecht? " />
-  <articulus index="4" title="Is de slaafse vrees goed? " />
-  <articulus index="5" title="Zijn de slaafse en de kinderlijke vrees wezenlijk hetzelfde? " />
-  <articulus index="6" title="Kan de slaafse vrees samen bestaan met de liefde? " />
-  <articulus index="7" title="Is de vrees het begin van de wijsheid? " />
-  <articulus index="8" title="Is de aanvangsvrees wezenlijk onderscheiden van de kinderlijke vrees? " />
-  <articulus index="9" title="Is de vrees een gave van den H Geest? " />
-  <articulus index="10" title="Vermindert de vrees wanneer de liefde groeit? " />
-  <articulus index="11" title="Blijft de vrees voortbestaan in den hemel? " />
-  <articulus index="12" title="Beantwoordt de zaligspreking : &#171; Zalig de armen van geest &#187;, aan de gave van vrees? " />
+<quaestio liber="3" index="19" title="Over de gave van vrees ">
+    <articulus title="Moet men God vrezen? " index="1" />
+  <articulus title="Is de indeling van de vrees in kinderlijke vrees, aanvangsvrees, slaafse en wereldse vrees, juist? " index="2" />
+  <articulus title="Is de wereldse vrees altijd slecht? " index="3" />
+  <articulus title="Is de slaafse vrees goed? " index="4" />
+  <articulus title="Zijn de slaafse en de kinderlijke vrees wezenlijk hetzelfde? " index="5" />
+  <articulus title="Kan de slaafse vrees samen bestaan met de liefde? " index="6" />
+  <articulus title="Is de vrees het begin van de wijsheid? " index="7" />
+  <articulus title="Is de aanvangsvrees wezenlijk onderscheiden van de kinderlijke vrees? " index="8" />
+  <articulus title="Is de vrees een gave van den H Geest? " index="9" />
+  <articulus title="Vermindert de vrees wanneer de liefde groeit? " index="10" />
+  <articulus title="Blijft de vrees voortbestaan in den hemel? " index="11" />
+  <articulus title="Beantwoordt de zaligspreking : &#171; Zalig de armen van geest &#187;, aan de gave van vrees? " index="12" />
   </quaestio>
-<quaestio index="20" liber="3" title="Over de wanhoop ">
-    <articulus index="1" title="Is wanhoop zonde? " />
-  <articulus index="2" title="Is wanhoop mogelijk zonder ongeloof? " />
-  <articulus index="3" title="Is de wanhoop de zwaarste zonde? " />
-  <articulus index="4" title="Is de traagheid oorzaak van de wanhoop? " />
+<quaestio liber="3" index="20" title="Over de wanhoop ">
+    <articulus title="Is wanhoop zonde? " index="1" />
+  <articulus title="Is wanhoop mogelijk zonder ongeloof? " index="2" />
+  <articulus title="Is de wanhoop de zwaarste zonde? " index="3" />
+  <articulus title="Is de traagheid oorzaak van de wanhoop? " index="4" />
   </quaestio>
-<quaestio index="21" liber="3" title="Over het vermetel vertrouwen ">
-    <articulus index="1" title="Steunt het vermetel vertrouwen op God of op eigen vermogen? " />
-  <articulus index="2" title="Is vermetel vertrouwen zonde? " />
-  <articulus index="3" title="Is vermetel vertrouwen meer tegengesteld aan de vrees dan aan de hoop? " />
-  <articulus index="4" title="Wordt het vermetel vertrouwen door de ijdele glorie veroorzaakt? " />
+<quaestio liber="3" index="21" title="Over het vermetel vertrouwen ">
+    <articulus title="Steunt het vermetel vertrouwen op God of op eigen vermogen? " index="1" />
+  <articulus title="Is vermetel vertrouwen zonde? " index="2" />
+  <articulus title="Is vermetel vertrouwen meer tegengesteld aan de vrees dan aan de hoop? " index="3" />
+  <articulus title="Wordt het vermetel vertrouwen door de ijdele glorie veroorzaakt? " index="4" />
   </quaestio>
-<quaestio index="22" liber="3" title="Over de geboden betreffende de hoop en de vrees ">
-    <articulus index="1" title="Moest er een gebod gegeven worden betreffende de hoop? " />
-  <articulus index="2" title="Moest er een gebod gegeven worden betreffende de vrees? " />
+<quaestio liber="3" index="22" title="Over de geboden betreffende de hoop en de vrees ">
+    <articulus title="Moest er een gebod gegeven worden betreffende de hoop? " index="1" />
+  <articulus title="Moest er een gebod gegeven worden betreffende de vrees? " index="2" />
   </quaestio>
-<quaestio index="23" liber="3" title="Over de liefde op zichzelf beschouwd ">
-    <articulus index="1" title="Is de liefde een vriendschap? " />
-  <articulus index="2" title="Is de liefde iets geschapen in de ziel? " />
-  <articulus index="3" title="Is de liefde een deugd? " />
-  <articulus index="4" title="Is de liefde een afzonderlijke deugd? " />
-  <articulus index="5" title="Is de liefde &#233;&#233;n enkele deugd? " />
-  <articulus index="6" title="Is de liefde de uitmuntendste onder de deugden? " />
-  <articulus index="7" title="Is de ware deugd mogelijk zonder de liefde? " />
-  <articulus index="8" title="Is de liefde de vorm van de deugden? " />
+<quaestio liber="3" index="23" title="Over de liefde op zichzelf beschouwd ">
+    <articulus title="Is de liefde een vriendschap? " index="1" />
+  <articulus title="Is de liefde iets geschapen in de ziel? " index="2" />
+  <articulus title="Is de liefde een deugd? " index="3" />
+  <articulus title="Is de liefde een afzonderlijke deugd? " index="4" />
+  <articulus title="Is de liefde &#233;&#233;n enkele deugd? " index="5" />
+  <articulus title="Is de liefde de uitmuntendste onder de deugden? " index="6" />
+  <articulus title="Is de ware deugd mogelijk zonder de liefde? " index="7" />
+  <articulus title="Is de liefde de vorm van de deugden? " index="8" />
   </quaestio>
-<quaestio index="24" liber="3" title="Over den zetel der liefde ">
-    <articulus index="1" title="Is de wil de zetel der liefde? " />
-  <articulus index="2" title="Wordt de liefde in ons ingestort? " />
-  <articulus index="3" title="Wordt de liefde ingestort volgens de ontvankelijkheid van de natuurlijke vermogens? " />
-  <articulus index="4" title="Kan de liefde aangroeien? " />
-  <articulus index="5" title="Vermeerdert de liefde door toevoeging? " />
-  <articulus index="6" title="Vermeerdert de liefde door elke liefdedaad? " />
-  <articulus index="7" title="Kan de liefde tot in het oneindige vermeerderen? " />
-  <articulus index="8" title="Kan de liefde hier op aarde volmaakt zijn? " />
-  <articulus index="9" title="Is het passend drie graden in de liefde te onderscheiden : de graad van de beginnende, van de toenemende en van de volmaakte liefde? " />
-  <articulus index="10" title="Kan de liefde verminderen? " />
-  <articulus index="11" title="Kan men de liefde, wanneer men ze eenmaal bezit, verliezen? " />
-  <articulus index="12" title="Verliest men de liefde door &#233;&#233;n enkele doodzonde? " />
+<quaestio liber="3" index="24" title="Over den zetel der liefde ">
+    <articulus title="Is de wil de zetel der liefde? " index="1" />
+  <articulus title="Wordt de liefde in ons ingestort? " index="2" />
+  <articulus title="Wordt de liefde ingestort volgens de ontvankelijkheid van de natuurlijke vermogens? " index="3" />
+  <articulus title="Kan de liefde aangroeien? " index="4" />
+  <articulus title="Vermeerdert de liefde door toevoeging? " index="5" />
+  <articulus title="Vermeerdert de liefde door elke liefdedaad? " index="6" />
+  <articulus title="Kan de liefde tot in het oneindige vermeerderen? " index="7" />
+  <articulus title="Kan de liefde hier op aarde volmaakt zijn? " index="8" />
+  <articulus title="Is het passend drie graden in de liefde te onderscheiden : de graad van de beginnende, van de toenemende en van de volmaakte liefde? " index="9" />
+  <articulus title="Kan de liefde verminderen? " index="10" />
+  <articulus title="Kan men de liefde, wanneer men ze eenmaal bezit, verliezen? " index="11" />
+  <articulus title="Verliest men de liefde door &#233;&#233;n enkele doodzonde? " index="12" />
   </quaestio>
-<quaestio index="25" liber="3" title="Over het voorwerp van de liefde ">
-    <articulus index="1" title="Beperkt zich de genegenheid der liefde tot God, of strekt ze zich ook uit tot den evenmens? " />
-  <articulus index="2" title="Moet men de liefde zelf uit liefde beminnen? " />
-  <articulus index="3" title="Moet men ook de redeloze schepselen uit liefde beminnen? " />
-  <articulus index="4" title="Moet de mens zichzelf uit liefde beminnen? " />
-  <articulus index="5" title="Moet men zijn lichaam uit liefde beminnen? " />
-  <articulus index="6" title="Moet men de zondaars uit liefde beminnen? " />
-  <articulus index="7" title="Beminnen de zondaars zichzelf? " />
-  <articulus index="8" title="Vergt de liefde dat men de vijanden bemint? " />
-  <articulus index="9" title="Vergt de liefde dat men zijn vijand bijzondere tekens en bewijzen van liefde zou geven? " />
-  <articulus index="10" title="Moet men de engelen uit liefde beminnen? " />
-  <articulus index="11" title="Moeten we de duivelen uit liefde beminnen? " />
-  <articulus index="12" title="Is het juist te spreken van een viervoudig voorwerp der liefde, nl. God, de evenmens, ons eigen lichaam, en onszelf? " />
+<quaestio liber="3" index="25" title="Over het voorwerp van de liefde ">
+    <articulus title="Beperkt zich de genegenheid der liefde tot God, of strekt ze zich ook uit tot den evenmens? " index="1" />
+  <articulus title="Moet men de liefde zelf uit liefde beminnen? " index="2" />
+  <articulus title="Moet men ook de redeloze schepselen uit liefde beminnen? " index="3" />
+  <articulus title="Moet de mens zichzelf uit liefde beminnen? " index="4" />
+  <articulus title="Moet men zijn lichaam uit liefde beminnen? " index="5" />
+  <articulus title="Moet men de zondaars uit liefde beminnen? " index="6" />
+  <articulus title="Beminnen de zondaars zichzelf? " index="7" />
+  <articulus title="Vergt de liefde dat men de vijanden bemint? " index="8" />
+  <articulus title="Vergt de liefde dat men zijn vijand bijzondere tekens en bewijzen van liefde zou geven? " index="9" />
+  <articulus title="Moet men de engelen uit liefde beminnen? " index="10" />
+  <articulus title="Moeten we de duivelen uit liefde beminnen? " index="11" />
+  <articulus title="Is het juist te spreken van een viervoudig voorwerp der liefde, nl. God, de evenmens, ons eigen lichaam, en onszelf? " index="12" />
   </quaestio>
-<quaestio index="26" liber="3" title="Over de rangorde der liefde ">
-    <articulus index="1" title="Is er een rangorde in de liefde? " />
-  <articulus index="2" title="Moet men God meer beminnen dan den evenmens? " />
-  <articulus index="3" title="Moet de mens God meer beminnen uit liefde dan zichzelf? " />
-  <articulus index="4" title="Moet men zichzelf meer beminnen uit liefde dan den evenmens? " />
-  <articulus index="5" title="Moet men de evenmens meer beminnen dan zijn eigen lichaam? " />
-  <articulus index="6" title="Moet men de ene mens meer beminnen dan andere? " />
-  <articulus index="7" title="Moet men de volmaakten meer beminnen dan zijn eigen verwanten? " />
-  <articulus index="8" title="Moet men zijn bloedverwanten het meest beminnen? " />
-  <articulus index="9" title="Moet men uit liefde meer zijn zoon beminnen dan zijn vader? " />
-  <articulus index="10" title="Moet men zijn moeder meer beminnen dan zijn vader? " />
-  <articulus index="11" title="Moet men zijn echtgenote meer beminnen dan zijn vader en moeder? " />
-  <articulus index="12" title="Moet men een weldoener meer beminnen dan iemand wiens weldoener men zelf is? " />
-  <articulus index="13" title="Blijft de rangorde der liefde in de hemel gehandhaafd? " />
+<quaestio liber="3" index="26" title="Over de rangorde der liefde ">
+    <articulus title="Is er een rangorde in de liefde? " index="1" />
+  <articulus title="Moet men God meer beminnen dan den evenmens? " index="2" />
+  <articulus title="Moet de mens God meer beminnen uit liefde dan zichzelf? " index="3" />
+  <articulus title="Moet men zichzelf meer beminnen uit liefde dan den evenmens? " index="4" />
+  <articulus title="Moet men de evenmens meer beminnen dan zijn eigen lichaam? " index="5" />
+  <articulus title="Moet men de ene mens meer beminnen dan andere? " index="6" />
+  <articulus title="Moet men de volmaakten meer beminnen dan zijn eigen verwanten? " index="7" />
+  <articulus title="Moet men zijn bloedverwanten het meest beminnen? " index="8" />
+  <articulus title="Moet men uit liefde meer zijn zoon beminnen dan zijn vader? " index="9" />
+  <articulus title="Moet men zijn moeder meer beminnen dan zijn vader? " index="10" />
+  <articulus title="Moet men zijn echtgenote meer beminnen dan zijn vader en moeder? " index="11" />
+  <articulus title="Moet men een weldoener meer beminnen dan iemand wiens weldoener men zelf is? " index="12" />
+  <articulus title="Blijft de rangorde der liefde in de hemel gehandhaafd? " index="13" />
   </quaestio>
-<quaestio index="27" liber="3" title="Over de voornaamste daad der liefde, nl. het beminnen ">
-    <articulus index="1" title="Wat is aan de liefde meer eigen : bemind worden of beminnen? " />
-  <articulus index="2" title="Is beminnen, als daad van de liefde, hetzelfde als welwillendheid? " />
-  <articulus index="3" title="Moet men God om Hemzelf uit liefde beminnen? " />
-  <articulus index="4" title="Kan men God, tijdens dit leven, op onmiddellijke wijze beminnen? " />
-  <articulus index="5" title="Kan God algeheel bemind worden? " />
-  <articulus index="6" title="Moet men in de liefde tot God een zekere maat in acht nemen? " />
-  <articulus index="7" title="Is het verdienstelijker een vijand te beminnen dan een vriend? " />
-  <articulus index="8" title="Is het verdienstelijker den evenmens te beminnen dan God? " />
+<quaestio liber="3" index="27" title="Over de voornaamste daad der liefde, nl. het beminnen ">
+    <articulus title="Wat is aan de liefde meer eigen : bemind worden of beminnen? " index="1" />
+  <articulus title="Is beminnen, als daad van de liefde, hetzelfde als welwillendheid? " index="2" />
+  <articulus title="Moet men God om Hemzelf uit liefde beminnen? " index="3" />
+  <articulus title="Kan men God, tijdens dit leven, op onmiddellijke wijze beminnen? " index="4" />
+  <articulus title="Kan God algeheel bemind worden? " index="5" />
+  <articulus title="Moet men in de liefde tot God een zekere maat in acht nemen? " index="6" />
+  <articulus title="Is het verdienstelijker een vijand te beminnen dan een vriend? " index="7" />
+  <articulus title="Is het verdienstelijker den evenmens te beminnen dan God? " index="8" />
   </quaestio>
 </summa>

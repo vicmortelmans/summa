@@ -1,137 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <summa>
-  <quaestio index="90" liber="2" title="Over het wezen van de wet ">
-    <articulus index="1" title="Is de wet iets van het verstand? " />
-  <articulus index="2" title="Is de wet altijd gericht op het algemeen welzijn? " />
-  <articulus index="3" title="Kan ieder mens wetten maken? " />
-  <articulus index="4" title="Behoort de afkondiging tot het wezen van de wet? " />
+  <quaestio liber="2" index="90" title="Over het wezen van de wet ">
+    <articulus title="Is de wet iets van het verstand? " index="1" />
+  <articulus title="Is de wet altijd gericht op het algemeen welzijn? " index="2" />
+  <articulus title="Kan ieder mens wetten maken? " index="3" />
+  <articulus title="Behoort de afkondiging tot het wezen van de wet? " index="4" />
   </quaestio>
-<quaestio index="91" liber="2" title="Over de verschillende soorten wetten ">
-    <articulus index="1" title="Is er een eeuwige wet? " />
-  <articulus index="2" title="Is er in ons een natuurwet? " />
-  <articulus index="3" title="Is er een menselijke wet? " />
-  <articulus index="4" title="Is een Goddelijke Wet noodzakelijk? " />
-  <articulus index="5" title="Is de Goddelijke wet slechts &#233;&#233;n? " />
-  <articulus index="6" title="Is er een wet, volgens welke de mens tot zondigen geneigd is? " />
+<quaestio liber="2" index="91" title="Over de verschillende soorten wetten ">
+    <articulus title="Is er een eeuwige wet? " index="1" />
+  <articulus title="Is er in ons een natuurwet? " index="2" />
+  <articulus title="Is er een menselijke wet? " index="3" />
+  <articulus title="Is een Goddelijke Wet noodzakelijk? " index="4" />
+  <articulus title="Is de Goddelijke wet slechts &#233;&#233;n? " index="5" />
+  <articulus title="Is er een wet, volgens welke de mens tot zondigen geneigd is? " index="6" />
   </quaestio>
-<quaestio index="92" liber="2" title="Over de gevolgen van de wet ">
-    <articulus index="1" title="Maakt de wet de mensen goed? " />
-  <articulus index="2" title="Worden de handelingen, die tot de volmaking van de wet behoren, goed aangegeven? " />
+<quaestio liber="2" index="92" title="Over de gevolgen van de wet ">
+    <articulus title="Maakt de wet de mensen goed? " index="1" />
+  <articulus title="Worden de handelingen, die tot de volmaking van de wet behoren, goed aangegeven? " index="2" />
   </quaestio>
-<quaestio index="93" liber="2" title="Over de eeuwige Wet ">
-    <articulus index="1" title="Is de eeuwige wet gelijk aan het hoogste begrip bestaande in God? " />
-  <articulus index="2" title="Is de eeuwige wet door eenieder gekend? " />
-  <articulus index="3" title="Worden alle wetten afgeleid van de eeuwige wet? " />
-  <articulus index="4" title="Zijn de noodzakelijke en eeuwige dingen onderworpen aan de eeuwige wet? " />
-  <articulus index="5" title="Zijn de wisselvallige natuurdingen onderworpen aan de eeuwige wet? " />
-  <articulus index="6" title="Zijn alle menselijke aangelegenheden aan de eeuwige wet onderworpen? " />
+<quaestio liber="2" index="93" title="Over de eeuwige Wet ">
+    <articulus title="Is de eeuwige wet gelijk aan het hoogste begrip bestaande in God? " index="1" />
+  <articulus title="Is de eeuwige wet door eenieder gekend? " index="2" />
+  <articulus title="Worden alle wetten afgeleid van de eeuwige wet? " index="3" />
+  <articulus title="Zijn de noodzakelijke en eeuwige dingen onderworpen aan de eeuwige wet? " index="4" />
+  <articulus title="Zijn de wisselvallige natuurdingen onderworpen aan de eeuwige wet? " index="5" />
+  <articulus title="Zijn alle menselijke aangelegenheden aan de eeuwige wet onderworpen? " index="6" />
   </quaestio>
-<quaestio index="94" liber="2" title="Over de natuurwet ">
-    <articulus index="1" title="Is de natuurwet een hebbelijkheid? " />
-  <articulus index="2" title="Bevat de natuurwet meerdere, of slechts &#233;&#233;n voorschrift? " />
-  <articulus index="3" title="Vallen alle deugddaden onder de natuurwet? " />
-  <articulus index="4" title="Is de natuurwet voor allen gelijk? " />
-  <articulus index="5" title="Kan de natuurwet veranderd worden? " />
-  <articulus index="6" title="Kan de natuurwet uit de harten der mensen uitgewist worden? " />
+<quaestio liber="2" index="94" title="Over de natuurwet ">
+    <articulus title="Is de natuurwet een hebbelijkheid? " index="1" />
+  <articulus title="Bevat de natuurwet meerdere, of slechts &#233;&#233;n voorschrift? " index="2" />
+  <articulus title="Vallen alle deugddaden onder de natuurwet? " index="3" />
+  <articulus title="Is de natuurwet voor allen gelijk? " index="4" />
+  <articulus title="Kan de natuurwet veranderd worden? " index="5" />
+  <articulus title="Kan de natuurwet uit de harten der mensen uitgewist worden? " index="6" />
   </quaestio>
-<quaestio index="95" liber="2" title="Over de menselijke wet ">
-    <articulus index="1" title="Is het nuttig, dat er door de mensen wetten gemaakt worden? " />
-  <articulus index="2" title="Is iedere wet, door mensen gemaakt, van de natuurwet afgeleid? " />
-  <articulus index="3" title="Is de opgave van Isidorus over de hoedanigheden van de positieve wet juist? " />
-  <articulus index="4" title="Geeft Isidorus een juiste verdeling van de menselijke wet? " />
+<quaestio liber="2" index="95" title="Over de menselijke wet ">
+    <articulus title="Is het nuttig, dat er door de mensen wetten gemaakt worden? " index="1" />
+  <articulus title="Is iedere wet, door mensen gemaakt, van de natuurwet afgeleid? " index="2" />
+  <articulus title="Is de opgave van Isidorus over de hoedanigheden van de positieve wet juist? " index="3" />
+  <articulus title="Geeft Isidorus een juiste verdeling van de menselijke wet? " index="4" />
   </quaestio>
-<quaestio index="96" liber="2" title="Over de bevoegdheid van de menselijke wet ">
-    <articulus index="1" title="Moet de menselijke wet in het algemeen gesteld worden, ofwel in het bijzonder? " />
-  <articulus index="2" title="Moet de menselijke wet alle ondeugden tegengaan? " />
-  <articulus index="3" title="Gebiedt de menselijke wet alle deugddaden? " />
-  <articulus index="4" title="Bindt de menselijke wet in geweten? " />
-  <articulus index="5" title="Zijn alle mensen aan de wet onderworpen? " />
-  <articulus index="6" title="Mogen zij, die aan de wet onderworpen zijn, buiten de letter van de wet om handelen? " />
+<quaestio liber="2" index="96" title="Over de bevoegdheid van de menselijke wet ">
+    <articulus title="Moet de menselijke wet in het algemeen gesteld worden, ofwel in het bijzonder? " index="1" />
+  <articulus title="Moet de menselijke wet alle ondeugden tegengaan? " index="2" />
+  <articulus title="Gebiedt de menselijke wet alle deugddaden? " index="3" />
+  <articulus title="Bindt de menselijke wet in geweten? " index="4" />
+  <articulus title="Zijn alle mensen aan de wet onderworpen? " index="5" />
+  <articulus title="Mogen zij, die aan de wet onderworpen zijn, buiten de letter van de wet om handelen? " index="6" />
   </quaestio>
-<quaestio index="97" liber="2" title="Over de verandering van de wetten ">
-    <articulus index="1" title="Moet de menselijke wet op een of andere manier veranderd worden? " />
-  <articulus index="2" title="Moet de menselijke wet veranderd worden telkens als er zich iets beters voordoet? " />
-  <articulus index="3" title="Kan de gewoonte kracht van wet krijgen? " />
-  <articulus index="4" title="Kunnen de volksleiders van de menselijke wet ontslaan? " />
+<quaestio liber="2" index="97" title="Over de verandering van de wetten ">
+    <articulus title="Moet de menselijke wet op een of andere manier veranderd worden? " index="1" />
+  <articulus title="Moet de menselijke wet veranderd worden telkens als er zich iets beters voordoet? " index="2" />
+  <articulus title="Kan de gewoonte kracht van wet krijgen? " index="3" />
+  <articulus title="Kunnen de volksleiders van de menselijke wet ontslaan? " index="4" />
   </quaestio>
-<quaestio index="98" liber="2" title="Over de Oude Wet ">
-    <articulus index="1" title="Was de Oude Wet goed? " />
-  <articulus index="2" title="Kwam de Oude Wet van God? " />
-  <articulus index="3" title="Kwam de Oude Wet van God door middel van de engelen? " />
-  <articulus index="4" title="Moest de Oude Wet alleen voor het joodse Volk gegeven worden? " />
-  <articulus index="5" title="Waren alle mensen verplicht de Oude Wet te onderhouden? " />
-  <articulus index="6" title="Was de tijd van Mozes een geschikte tijd om de Oude Wet te geven? " />
+<quaestio liber="2" index="98" title="Over de Oude Wet ">
+    <articulus title="Was de Oude Wet goed? " index="1" />
+  <articulus title="Kwam de Oude Wet van God? " index="2" />
+  <articulus title="Kwam de Oude Wet van God door middel van de engelen? " index="3" />
+  <articulus title="Moest de Oude Wet alleen voor het joodse Volk gegeven worden? " index="4" />
+  <articulus title="Waren alle mensen verplicht de Oude Wet te onderhouden? " index="5" />
+  <articulus title="Was de tijd van Mozes een geschikte tijd om de Oude Wet te geven? " index="6" />
   </quaestio>
-<quaestio index="99" liber="2" title="Over de voorschriften van de Oude Wet ">
-    <articulus index="1" title="Bevat de Oude Wet slechts &#233;&#233;n voorschrift? " />
-  <articulus index="2" title="Bevat de Oude Wet zedelijke voorschriften? " />
-  <articulus index="3" title="Bevat de Oude Wet, buiten de zedelijke voorschriften, ook ceremonieel-voorschriften? " />
-  <articulus index="4" title="Zijn er buiten de zedelijke en ceremonieel-voorschriften ook nog rechtsregels? " />
-  <articulus index="5" title="Bevat de Oude Wet nog andere voorschriften buiten zedelijke en ceremonieel-voorschriften en rechtsregels? " />
-  <articulus index="6" title="Moest de Oude Wet door tijdelijke beloften en bedreigingen tot de onderhouding der voorschriften aansporen? " />
+<quaestio liber="2" index="99" title="Over de voorschriften van de Oude Wet ">
+    <articulus title="Bevat de Oude Wet slechts &#233;&#233;n voorschrift? " index="1" />
+  <articulus title="Bevat de Oude Wet zedelijke voorschriften? " index="2" />
+  <articulus title="Bevat de Oude Wet, buiten de zedelijke voorschriften, ook ceremonieel-voorschriften? " index="3" />
+  <articulus title="Zijn er buiten de zedelijke en ceremonieel-voorschriften ook nog rechtsregels? " index="4" />
+  <articulus title="Bevat de Oude Wet nog andere voorschriften buiten zedelijke en ceremonieel-voorschriften en rechtsregels? " index="5" />
+  <articulus title="Moest de Oude Wet door tijdelijke beloften en bedreigingen tot de onderhouding der voorschriften aansporen? " index="6" />
   </quaestio>
-<quaestio index="100" liber="2" title="Over de zedelijke voorschriften van de Oude Wet ">
-    <articulus index="1" title="Vallen alle zedelijke voorschriften onder de natuurwet? " />
-  <articulus index="2" title="Beslaan de zedelijke voorschriften der Wet alle deugddaden? " />
-  <articulus index="3" title="Kunnen al de zedelijke voorschriften van de Oude Wet teruggebracht worden tot de Tien Geboden? " />
-  <articulus index="4" title="Worden de voorschriften der Tien Geboden redelijk onderscheiden? " />
-  <articulus index="5" title="Is de opsomming van de Tien Geboden een goede? " />
-  <articulus index="6" title="Zijn de voorschriften der Tien Geboden goed geordend? " />
-  <articulus index="7" title="Zijn de voorschriften der Tien Geboden goed uitgedrukt? " />
-  <articulus index="8" title="Kan van de voorschriften der Tien Geboden ontslagen worden? " />
-  <articulus index="9" title="Valt de manier waarop de deugd moet beoefend worden onder het gebod van de wet?    &#8216; " />
-  <articulus index="10" title="Valt het onder het gebod van de goddelijke wet, dat men uit liefde handelt? " />
-  <articulus index="11" title="Moeten er buiten de Tien Geboden andere zedelijke voorschriften der Wet onderscheiden worden? " />
-  <articulus index="12" title="Maakten de geboden der Oude Wet rechtvaardig? " />
+<quaestio liber="2" index="100" title="Over de zedelijke voorschriften van de Oude Wet ">
+    <articulus title="Vallen alle zedelijke voorschriften onder de natuurwet? " index="1" />
+  <articulus title="Beslaan de zedelijke voorschriften der Wet alle deugddaden? " index="2" />
+  <articulus title="Kunnen al de zedelijke voorschriften van de Oude Wet teruggebracht worden tot de Tien Geboden? " index="3" />
+  <articulus title="Worden de voorschriften der Tien Geboden redelijk onderscheiden? " index="4" />
+  <articulus title="Is de opsomming van de Tien Geboden een goede? " index="5" />
+  <articulus title="Zijn de voorschriften der Tien Geboden goed geordend? " index="6" />
+  <articulus title="Zijn de voorschriften der Tien Geboden goed uitgedrukt? " index="7" />
+  <articulus title="Kan van de voorschriften der Tien Geboden ontslagen worden? " index="8" />
+  <articulus title="Valt de manier waarop de deugd moet beoefend worden onder het gebod van de wet?    &#8216; " index="9" />
+  <articulus title="Valt het onder het gebod van de goddelijke wet, dat men uit liefde handelt? " index="10" />
+  <articulus title="Moeten er buiten de Tien Geboden andere zedelijke voorschriften der Wet onderscheiden worden? " index="11" />
+  <articulus title="Maakten de geboden der Oude Wet rechtvaardig? " index="12" />
   </quaestio>
-<quaestio index="101" liber="2" title="Over de ceremonieel-bepalingen op zich zelf ">
-    <articulus index="1" title="Bestaat het wezen der ceremonieel-bepalingen hierin, dat ze op de eredienst van God gericht zijn? " />
-  <articulus index="2" title="Zijn de ceremonieel-bepalingen figuurlijk? " />
-  <articulus index="3" title="Moesten er veel ceremonieel-voorschriften zijn? " />
-  <articulus index="4" title="Worden de ceremoni&#235;n der Oude Wet goed verdeeld in offers, Sacramenten, heilige zaken en onderhoudingen? " />
+<quaestio liber="2" index="101" title="Over de ceremonieel-bepalingen op zich zelf ">
+    <articulus title="Bestaat het wezen der ceremonieel-bepalingen hierin, dat ze op de eredienst van God gericht zijn? " index="1" />
+  <articulus title="Zijn de ceremonieel-bepalingen figuurlijk? " index="2" />
+  <articulus title="Moesten er veel ceremonieel-voorschriften zijn? " index="3" />
+  <articulus title="Worden de ceremoni&#235;n der Oude Wet goed verdeeld in offers, Sacramenten, heilige zaken en onderhoudingen? " index="4" />
   </quaestio>
-<quaestio index="102" liber="2" title="Over de redenen der ceremonieel-voorschriften ">
-    <articulus index="1" title="Hebben de ceremonieel-voorschriften een reden van bestaan? " />
-  <articulus index="2" title="Hebben de ceremonieel-voorschriften een letterlijke, of slechts een figuurlijke reden? " />
-  <articulus index="3" title="Kan er een aannemelijke reden aangegeven worden voor de ceremoni&#235;n, die tot de offers behoren? " />
-  <articulus index="4" title="Kan men een zekere reden van bestaan aangeven voor de ceremoni&#235;n, die bij de heilige zaken behoren? " />
-  <articulus index="5" title="Kan er voor de Sacramenten van de Oude Wet een gepaste zin zijn? " />
-  <articulus index="6" title="Was er een aannemelijke reden voor de ceremoni&#235;le onderhoudingen? " />
+<quaestio liber="2" index="102" title="Over de redenen der ceremonieel-voorschriften ">
+    <articulus title="Hebben de ceremonieel-voorschriften een reden van bestaan? " index="1" />
+  <articulus title="Hebben de ceremonieel-voorschriften een letterlijke, of slechts een figuurlijke reden? " index="2" />
+  <articulus title="Kan er een aannemelijke reden aangegeven worden voor de ceremoni&#235;n, die tot de offers behoren? " index="3" />
+  <articulus title="Kan men een zekere reden van bestaan aangeven voor de ceremoni&#235;n, die bij de heilige zaken behoren? " index="4" />
+  <articulus title="Kan er voor de Sacramenten van de Oude Wet een gepaste zin zijn? " index="5" />
+  <articulus title="Was er een aannemelijke reden voor de ceremoni&#235;le onderhoudingen? " index="6" />
   </quaestio>
-<quaestio index="103" liber="2" title="Over den duur der ceremonieel-voorschriften ">
-    <articulus index="1" title="Bestonden de ceremoni&#235;n der Wet v&#243;&#243;r de Wet? " />
-  <articulus index="2" title="Hadden de ceremoni&#235;n der Oude Wet gedurende de Oude Wet kracht van rechtvaardigmaking? " />
-  <articulus index="3" title="Hielden de ceremoni&#235;n der Oude Wet bij de komst van Christus op? " />
-  <articulus index="4" title="Kunnen de wettelijke voorschriften na het lijden van Christus zonder doodzonde onderhouden worden? &#8217; " />
+<quaestio liber="2" index="103" title="Over den duur der ceremonieel-voorschriften ">
+    <articulus title="Bestonden de ceremoni&#235;n der Wet v&#243;&#243;r de Wet? " index="1" />
+  <articulus title="Hadden de ceremoni&#235;n der Oude Wet gedurende de Oude Wet kracht van rechtvaardigmaking? " index="2" />
+  <articulus title="Hielden de ceremoni&#235;n der Oude Wet bij de komst van Christus op? " index="3" />
+  <articulus title="Kunnen de wettelijke voorschriften na het lijden van Christus zonder doodzonde onderhouden worden? &#8217; " index="4" />
   </quaestio>
-<quaestio index="104" liber="2" title="Over de rechtsregels ">
-    <articulus index="1" title="Bestaat het wezen der rechtsregels hierin, dat zij tot de naaste geordend zijn? " />
-  <articulus index="2" title="Betekenen de rechtsregels iets? " />
-  <articulus index="3" title="Hebben de rechtsregels van de Oude Wet een eeuwigdurende verplichting? " />
-  <articulus index="4" title="Kan men een zekere verdeling aangeven van de rechtsregels? " />
+<quaestio liber="2" index="104" title="Over de rechtsregels ">
+    <articulus title="Bestaat het wezen der rechtsregels hierin, dat zij tot de naaste geordend zijn? " index="1" />
+  <articulus title="Betekenen de rechtsregels iets? " index="2" />
+  <articulus title="Hebben de rechtsregels van de Oude Wet een eeuwigdurende verplichting? " index="3" />
+  <articulus title="Kan men een zekere verdeling aangeven van de rechtsregels? " index="4" />
   </quaestio>
-<quaestio index="105" liber="2" title="Over het wezen der rechtsregels ">
-    <articulus index="1" title="Was de regeling in de Oude Wet met betrekking tot de vorsten goed? " />
-  <articulus index="2" title="Waren de rechtsregels met betrekking tot de onderlinge samenleving doeltreffend? " />
-  <articulus index="3" title="Voorzien de rechtsregels op gepaste wijze voor de vreemdelingen? " />
-  <articulus index="4" title="Heeft de Wet geschikte voorschriften gegeven omtrent de huiselijke samenleving? " />
+<quaestio liber="2" index="105" title="Over het wezen der rechtsregels ">
+    <articulus title="Was de regeling in de Oude Wet met betrekking tot de vorsten goed? " index="1" />
+  <articulus title="Waren de rechtsregels met betrekking tot de onderlinge samenleving doeltreffend? " index="2" />
+  <articulus title="Voorzien de rechtsregels op gepaste wijze voor de vreemdelingen? " index="3" />
+  <articulus title="Heeft de Wet geschikte voorschriften gegeven omtrent de huiselijke samenleving? " index="4" />
   </quaestio>
-<quaestio index="106" liber="2" title="Over de evangelische wet, die Nieuwe Wet genoemd wordt, op zichzelf beschouwd ">
-    <articulus index="1" title="Is de Nieuwe Wet een geschreven wet? " />
-  <articulus index="2" title="Maakt de Nieuwe Wet rechtvaardig? " />
-  <articulus index="3" title="Had de Nieuwe Wet bij het begin der wereld moeten gegeven worden?     : " />
-  <articulus index="4" title="Zal de Nieuwe Wet voortduren tot het einde der wereld? " />
+<quaestio liber="2" index="106" title="Over de evangelische wet, die Nieuwe Wet genoemd wordt, op zichzelf beschouwd ">
+    <articulus title="Is de Nieuwe Wet een geschreven wet? " index="1" />
+  <articulus title="Maakt de Nieuwe Wet rechtvaardig? " index="2" />
+  <articulus title="Had de Nieuwe Wet bij het begin der wereld moeten gegeven worden?     : " index="3" />
+  <articulus title="Zal de Nieuwe Wet voortduren tot het einde der wereld? " index="4" />
   </quaestio>
-<quaestio index="107" liber="2" title="Over de verhouding van de Nieuwe Wet tot de Oude Wet ">
-    <articulus index="1" title="Is de Nieuwe Wet onderscheiden van de Oude? " />
-  <articulus index="2" title="Vult de Nieuwe Wet de Oude Wet aan? " />
-  <articulus index="3" title="Is de Nieuwe Wet in de Oude vervat? " />
-  <articulus index="4" title="Is de Nieuwe Wet lastiger dan de Oude? " />
+<quaestio liber="2" index="107" title="Over de verhouding van de Nieuwe Wet tot de Oude Wet ">
+    <articulus title="Is de Nieuwe Wet onderscheiden van de Oude? " index="1" />
+  <articulus title="Vult de Nieuwe Wet de Oude Wet aan? " index="2" />
+  <articulus title="Is de Nieuwe Wet in de Oude vervat? " index="3" />
+  <articulus title="Is de Nieuwe Wet lastiger dan de Oude? " index="4" />
   </quaestio>
-<quaestio index="108" liber="2" title="Over den inhoud van de Nieuwe Wet ">
-    <articulus index="1" title="Moet de Nieuwe Wet enkele uiterlijke daden gebieden? " />
-  <articulus index="2" title="Regelt de Nieuwe Wet voldoende de uiterlijke daden? " />
-  <articulus index="3" title="Heeft de Nieuwe Wet de mensen voldoende geregeld met betrekking tot de innerlijke daden? " />
-  <articulus index="4" title="Is het nuttig, dat er in de Nieuwe Wet sommige wel omschreven raden staan voorgesteld? " />
+<quaestio liber="2" index="108" title="Over den inhoud van de Nieuwe Wet ">
+    <articulus title="Moet de Nieuwe Wet enkele uiterlijke daden gebieden? " index="1" />
+  <articulus title="Regelt de Nieuwe Wet voldoende de uiterlijke daden? " index="2" />
+  <articulus title="Heeft de Nieuwe Wet de mensen voldoende geregeld met betrekking tot de innerlijke daden? " index="3" />
+  <articulus title="Is het nuttig, dat er in de Nieuwe Wet sommige wel omschreven raden staan voorgesteld? " index="4" />
   </quaestio>
 </summa>

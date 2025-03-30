@@ -1,111 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <summa>
-  <quaestio index="46" liber="4" title="Over het lijden van Christus ">
-    <articulus index="1" title="Was het voor de bevrijding van het menselijk geslacht noodzakelijk, dat Christus leed? " />
-  <articulus index="2" title="Was er een andere wijze mogelijk, om den mens te verlossen, dan door het lijden van Christus? " />
-  <articulus index="3" title="Bestond er een meer passende manier om het menselijk geslacht te verlossen, dan door het lijden van Christus? " />
-  <articulus index="4" title="Moest Christus aan een kruis lijden? " />
-  <articulus index="5" title="Heeft Christus alle lijden verduurd? " />
-  <articulus index="6" title="Was het lijden van Christus groter dan alle lijden? " />
-  <articulus index="7" title="Heeft Christus, geleden met heel zijn ziel? " />
-  <articulus index="8" title="Smaakte de gehele ziel van Christus bij zijn lijden de zalige genieting? " />
-  <articulus index="9" title="Is Christus op een geschikten tijd gestorven? " />
-  <articulus index="10" title="Heeft Christus op een passende plaats geleden? " />
-  <articulus index="11" title="Was het passend dat Christus met rovers gekruisigd werd? " />
-  <articulus index="12" title="Moet het lijden van Christus toegeschreven worden aan zijn Godheid? " />
+  <quaestio liber="4" index="46" title="Over het lijden van Christus ">
+    <articulus title="Was het voor de bevrijding van het menselijk geslacht noodzakelijk, dat Christus leed? " index="1" />
+  <articulus title="Was er een andere wijze mogelijk, om den mens te verlossen, dan door het lijden van Christus? " index="2" />
+  <articulus title="Bestond er een meer passende manier om het menselijk geslacht te verlossen, dan door het lijden van Christus? " index="3" />
+  <articulus title="Moest Christus aan een kruis lijden? " index="4" />
+  <articulus title="Heeft Christus alle lijden verduurd? " index="5" />
+  <articulus title="Was het lijden van Christus groter dan alle lijden? " index="6" />
+  <articulus title="Heeft Christus, geleden met heel zijn ziel? " index="7" />
+  <articulus title="Smaakte de gehele ziel van Christus bij zijn lijden de zalige genieting? " index="8" />
+  <articulus title="Is Christus op een geschikten tijd gestorven? " index="9" />
+  <articulus title="Heeft Christus op een passende plaats geleden? " index="10" />
+  <articulus title="Was het passend dat Christus met rovers gekruisigd werd? " index="11" />
+  <articulus title="Moet het lijden van Christus toegeschreven worden aan zijn Godheid? " index="12" />
   </quaestio>
-<quaestio index="47" liber="4" title="Over de uitwerkende oorzaak van Christus&#8217; lijden ">
-    <articulus index="1" title="Werd Christus door anderen gedood of door zichzelf? " />
-  <articulus index="2" title="Is Christus uit gehoorzaamheid gestorven? " />
-  <articulus index="3" title="Leverde God de Vader Christus over aan het lijden? " />
-  <articulus index="4" title="Was het passend, dat Christus leed door toedoen der heidenen? " />
-  <articulus index="5" title="Hebben de vervolgers van Christus Hem gekend? " />
-  <articulus index="6" title="Was de zonde van hen, die Christus kruisigden, de zwaarste? " />
+<quaestio liber="4" index="47" title="Over de uitwerkende oorzaak van Christus&#8217; lijden ">
+    <articulus title="Werd Christus door anderen gedood of door zichzelf? " index="1" />
+  <articulus title="Is Christus uit gehoorzaamheid gestorven? " index="2" />
+  <articulus title="Leverde God de Vader Christus over aan het lijden? " index="3" />
+  <articulus title="Was het passend, dat Christus leed door toedoen der heidenen? " index="4" />
+  <articulus title="Hebben de vervolgers van Christus Hem gekend? " index="5" />
+  <articulus title="Was de zonde van hen, die Christus kruisigden, de zwaarste? " index="6" />
   </quaestio>
-<quaestio index="48" liber="4" title="Over de wijze van Christus&#8217; lijden, wat zijn uitwerking betreft ">
-    <articulus index="1" title="Heeft het lijden van Christus ons heil bewerkt bij wijze van verdienste? " />
-  <articulus index="2" title="Heeft het lijden van Christus ons heil bewerkt bij wijze van voldoening? " />
-  <articulus index="3" title="Werkte het lijden van Christus bij wijze van sacrificie? " />
-  <articulus index="4" title="Heeft Christus&#8217; lijden ons heil bewerkt bij wijze van loskoping? " />
-  <articulus index="5" title="Is het verlosser zijn het eigene van Christus? " />
-  <articulus index="6" title="Heeft het lijden van Christus ons heil veroorzaakt op uitwerkende wijze? " />
+<quaestio liber="4" index="48" title="Over de wijze van Christus&#8217; lijden, wat zijn uitwerking betreft ">
+    <articulus title="Heeft het lijden van Christus ons heil bewerkt bij wijze van verdienste? " index="1" />
+  <articulus title="Heeft het lijden van Christus ons heil bewerkt bij wijze van voldoening? " index="2" />
+  <articulus title="Werkte het lijden van Christus bij wijze van sacrificie? " index="3" />
+  <articulus title="Heeft Christus&#8217; lijden ons heil bewerkt bij wijze van loskoping? " index="4" />
+  <articulus title="Is het verlosser zijn het eigene van Christus? " index="5" />
+  <articulus title="Heeft het lijden van Christus ons heil veroorzaakt op uitwerkende wijze? " index="6" />
   </quaestio>
-<quaestio index="49" liber="4" title="Over de gevolgen van Christus&#8217; lijden ">
-    <articulus index="1" title="Zijn wij door het lijden van Christus verlost? " />
-  <articulus index="2" title="Zijn wij door het lijden van Christus verlost uit de macht van de duivel? " />
-  <articulus index="3" title="Zijn de mensen door het lijden van Christus bevrijd van de zondestraf? " />
-  <articulus index="4" title="Zijn wij door het lijden van Christus met God verzoend? " />
-  <articulus index="5" title="Heeft Christus door zijn lijden ons de deur van de hemel geopend? " />
-  <articulus index="6" title="Verdiende Christus door zijn lijden verheven te worden? " />
+<quaestio liber="4" index="49" title="Over de gevolgen van Christus&#8217; lijden ">
+    <articulus title="Zijn wij door het lijden van Christus verlost? " index="1" />
+  <articulus title="Zijn wij door het lijden van Christus verlost uit de macht van de duivel? " index="2" />
+  <articulus title="Zijn de mensen door het lijden van Christus bevrijd van de zondestraf? " index="3" />
+  <articulus title="Zijn wij door het lijden van Christus met God verzoend? " index="4" />
+  <articulus title="Heeft Christus door zijn lijden ons de deur van de hemel geopend? " index="5" />
+  <articulus title="Verdiende Christus door zijn lijden verheven te worden? " index="6" />
   </quaestio>
-<quaestio index="50" liber="4" title="Over de dood van Christus ">
-    <articulus index="1" title="Was het passend dat Christus stierf? " />
-  <articulus index="2" title="Werd bij de dood van Christus zijn Godheid van zijn vlees gescheiden? " />
-  <articulus index="3" title="Werd bij de dood van Christus de Godheid van zijn ziel gescheiden? " />
-  <articulus index="4" title="Was Christus mens in de drie dagen van zijn dood? " />
-  <articulus index="5" title="Was het lichaam van de levende en de gestorven Christus numeriek hetzelfde? " />
-  <articulus index="6" title="Heeft de dood van Christus iets uitgewerkt tot ons heil? " />
+<quaestio liber="4" index="50" title="Over de dood van Christus ">
+    <articulus title="Was het passend dat Christus stierf? " index="1" />
+  <articulus title="Werd bij de dood van Christus zijn Godheid van zijn vlees gescheiden? " index="2" />
+  <articulus title="Werd bij de dood van Christus de Godheid van zijn ziel gescheiden? " index="3" />
+  <articulus title="Was Christus mens in de drie dagen van zijn dood? " index="4" />
+  <articulus title="Was het lichaam van de levende en de gestorven Christus numeriek hetzelfde? " index="5" />
+  <articulus title="Heeft de dood van Christus iets uitgewerkt tot ons heil? " index="6" />
   </quaestio>
-<quaestio index="51" liber="4" title="Over Christus&#8217; begrafenis ">
-    <articulus index="1" title="Was het passend, dat Christus begraven werd? " />
-  <articulus index="2" title="Is Christus op passende wijze begraven? " />
-  <articulus index="3" title="Is het lichaam van Christus in het graf vergaan tot stof? " />
-  <articulus index="4" title="Was Christus slechts &#233;&#233;n dag en twee nachten in het graf? " />
+<quaestio liber="4" index="51" title="Over Christus&#8217; begrafenis ">
+    <articulus title="Was het passend, dat Christus begraven werd? " index="1" />
+  <articulus title="Is Christus op passende wijze begraven? " index="2" />
+  <articulus title="Is het lichaam van Christus in het graf vergaan tot stof? " index="3" />
+  <articulus title="Was Christus slechts &#233;&#233;n dag en twee nachten in het graf? " index="4" />
   </quaestio>
-<quaestio index="52" liber="4" title="Over Christus&#8217; nederdaling ter helle ">
-    <articulus index="1" title="Was het passend, dat Christus nederdaalde ter helle? " />
-  <articulus index="2" title="Is Christus afgedaald naar de hel der verdoemden? " />
-  <articulus index="3" title="Was Christus geheel in de hel? " />
-  <articulus index="4" title="Heeft Christus zich enige tijd opgehouden in de hel? " />
-  <articulus index="5" title="Heeft Christus door zijn afdalen naar de hel de heilige vaders daaruit verlost? " />
-  <articulus index="6" title="Heeft Christus enige verdoemden uit de hel bevrijd? " />
-  <articulus index="7" title="Zijn de kinderen, die met de erfzonde gestorven waren, door Christus bevrijd? " />
-  <articulus index="8" title="Heeft Christus door zijn afdalen de zielen uit het vagevuur verlost? " />
+<quaestio liber="4" index="52" title="Over Christus&#8217; nederdaling ter helle ">
+    <articulus title="Was het passend, dat Christus nederdaalde ter helle? " index="1" />
+  <articulus title="Is Christus afgedaald naar de hel der verdoemden? " index="2" />
+  <articulus title="Was Christus geheel in de hel? " index="3" />
+  <articulus title="Heeft Christus zich enige tijd opgehouden in de hel? " index="4" />
+  <articulus title="Heeft Christus door zijn afdalen naar de hel de heilige vaders daaruit verlost? " index="5" />
+  <articulus title="Heeft Christus enige verdoemden uit de hel bevrijd? " index="6" />
+  <articulus title="Zijn de kinderen, die met de erfzonde gestorven waren, door Christus bevrijd? " index="7" />
+  <articulus title="Heeft Christus door zijn afdalen de zielen uit het vagevuur verlost? " index="8" />
   </quaestio>
-<quaestio index="53" liber="4" title="Over Christus&#8217; verrijzenis ">
-    <articulus index="1" title="Was het noodzakelijk dat Christus verrees? " />
-  <articulus index="2" title="Was het passend dat Christus de derde dag verrees? " />
-  <articulus index="3" title="Is Christus het eerst verrezen? " />
-  <articulus index="4" title="Was Christus de oorzaak zijner verrijzenis? " />
+<quaestio liber="4" index="53" title="Over Christus&#8217; verrijzenis ">
+    <articulus title="Was het noodzakelijk dat Christus verrees? " index="1" />
+  <articulus title="Was het passend dat Christus de derde dag verrees? " index="2" />
+  <articulus title="Is Christus het eerst verrezen? " index="3" />
+  <articulus title="Was Christus de oorzaak zijner verrijzenis? " index="4" />
   </quaestio>
-<quaestio index="54" liber="4" title="Over de hoedanigheid van de verrijzende Christus ">
-    <articulus index="1" title="Bezat Christus na zijn verrijzenis een echt lichaam? " />
-  <articulus index="2" title="Is het lichaam van Christus ongeschonden verrezen? " />
-  <articulus index="3" title="Is het lichaam van Christus glorierijk verrezen? " />
-  <articulus index="4" title="Moest het lichaam van Christus met zijn wondetekenen verrijzen? " />
+<quaestio liber="4" index="54" title="Over de hoedanigheid van de verrijzende Christus ">
+    <articulus title="Bezat Christus na zijn verrijzenis een echt lichaam? " index="1" />
+  <articulus title="Is het lichaam van Christus ongeschonden verrezen? " index="2" />
+  <articulus title="Is het lichaam van Christus glorierijk verrezen? " index="3" />
+  <articulus title="Moest het lichaam van Christus met zijn wondetekenen verrijzen? " index="4" />
   </quaestio>
-<quaestio index="55" liber="4" title="Over de bekendmaking der verrijzenis ">
-    <articulus index="1" title="Moest Christus&#8217; verrijzenis aan allen geopenbaard worden? " />
-  <articulus index="2" title="Zou het passend geweest zijn als de leerlingen Christus hadden zien verrijzen? " />
-  <articulus index="3" title="Moest Christus na zijn verrijzenis voortdurend met zijn leerlingen omgaan? " />
-  <articulus index="4" title="Moest Christus in een andere gedaante aan zijn leerlingen verschijnen? " />
-  <articulus index="5" title="Moest Christus de echtheid zijner verrijzenis met bewijzen staven? " />
-  <articulus index="6" title="Toonden de argumenten, die Christus aanvoerde, voldoende zijn verrijzenis aan? " />
+<quaestio liber="4" index="55" title="Over de bekendmaking der verrijzenis ">
+    <articulus title="Moest Christus&#8217; verrijzenis aan allen geopenbaard worden? " index="1" />
+  <articulus title="Zou het passend geweest zijn als de leerlingen Christus hadden zien verrijzen? " index="2" />
+  <articulus title="Moest Christus na zijn verrijzenis voortdurend met zijn leerlingen omgaan? " index="3" />
+  <articulus title="Moest Christus in een andere gedaante aan zijn leerlingen verschijnen? " index="4" />
+  <articulus title="Moest Christus de echtheid zijner verrijzenis met bewijzen staven? " index="5" />
+  <articulus title="Toonden de argumenten, die Christus aanvoerde, voldoende zijn verrijzenis aan? " index="6" />
   </quaestio>
-<quaestio index="56" liber="4" title="Over de oorzakelijkheid van Christus&#8217; Verrijzenis ">
-    <articulus index="1" title="Is de verrijzenis van Christus oorzaak van de onze verrijzenis? " />
-  <articulus index="2" title="Is de verrijzenis van Christus oorzaak van onze rechtvaardiging? " />
+<quaestio liber="4" index="56" title="Over de oorzakelijkheid van Christus&#8217; Verrijzenis ">
+    <articulus title="Is de verrijzenis van Christus oorzaak van de onze verrijzenis? " index="1" />
+  <articulus title="Is de verrijzenis van Christus oorzaak van onze rechtvaardiging? " index="2" />
   </quaestio>
-<quaestio index="57" liber="4" title="Over de Hemelvaart van Christus ">
-    <articulus index="1" title="Was het passend, dat Christus opsteeg? " />
-  <articulus index="2" title="Kwam het Christus naar zijn goddelijke natuur toe ten hemel op te stijgen? " />
-  <articulus index="3" title="Steeg Christus op uit eigen kracht? " />
-  <articulus index="4" title="Steeg Christus op boven alle hemelen? " />
-  <articulus index="5" title="Steeg het lichaam van Christus boven elk geestelijk schepsel? " />
-  <articulus index="6" title="Is de hemelvaart van Christus oorzaak van ons heil? " />
+<quaestio liber="4" index="57" title="Over de Hemelvaart van Christus ">
+    <articulus title="Was het passend, dat Christus opsteeg? " index="1" />
+  <articulus title="Kwam het Christus naar zijn goddelijke natuur toe ten hemel op te stijgen? " index="2" />
+  <articulus title="Steeg Christus op uit eigen kracht? " index="3" />
+  <articulus title="Steeg Christus op boven alle hemelen? " index="4" />
+  <articulus title="Steeg het lichaam van Christus boven elk geestelijk schepsel? " index="5" />
+  <articulus title="Is de hemelvaart van Christus oorzaak van ons heil? " index="6" />
   </quaestio>
-<quaestio index="58" liber="4" title="Over het zitten van Christus aan de rechterhand des Vaders ">
-    <articulus index="1" title="Komt het Christus toe te zitten aan de rechterhand van God de Vader? " />
-  <articulus index="2" title="Komt het zitten aan Gods rechterhand aan Christus toe in zoverre Hij God is? " />
-  <articulus index="3" title="Komt het zitten aan Gods rechterhand aan Christus toe als mens? " />
-  <articulus index="4" title="Is het zitten aan de rechterhand des Vaders het eigene van Christus? " />
+<quaestio liber="4" index="58" title="Over het zitten van Christus aan de rechterhand des Vaders ">
+    <articulus title="Komt het Christus toe te zitten aan de rechterhand van God de Vader? " index="1" />
+  <articulus title="Komt het zitten aan Gods rechterhand aan Christus toe in zoverre Hij God is? " index="2" />
+  <articulus title="Komt het zitten aan Gods rechterhand aan Christus toe als mens? " index="3" />
+  <articulus title="Is het zitten aan de rechterhand des Vaders het eigene van Christus? " index="4" />
   </quaestio>
-<quaestio index="59" liber="4" title="Over de oordeelsmacht van Christus ">
-    <articulus index="1" title="Moet de oordeelsmacht in het bijzonder aan Christus worden toegekend? " />
-  <articulus index="2" title="Komt de oordeelsmacht aan Christus toe, in zover Hij mens is? " />
-  <articulus index="3" title="Heeft Christus de oordeelsmacht ontvangen uit verdienste? " />
-  <articulus index="4" title="Komt aan Christus de oordeelsmacht toe met betrekking tot alle menselijke dingen? " />
-  <articulus index="5" title="Is er na het oordeel, dat in dezen tijd wordt uitgeoefend nog een ander te wachten? " />
-  <articulus index="6" title="Strekt de oordeelsmacht van Christus zich uit tot de engelen? " />
+<quaestio liber="4" index="59" title="Over de oordeelsmacht van Christus ">
+    <articulus title="Moet de oordeelsmacht in het bijzonder aan Christus worden toegekend? " index="1" />
+  <articulus title="Komt de oordeelsmacht aan Christus toe, in zover Hij mens is? " index="2" />
+  <articulus title="Heeft Christus de oordeelsmacht ontvangen uit verdienste? " index="3" />
+  <articulus title="Komt aan Christus de oordeelsmacht toe met betrekking tot alle menselijke dingen? " index="4" />
+  <articulus title="Is er na het oordeel, dat in dezen tijd wordt uitgeoefend nog een ander te wachten? " index="5" />
+  <articulus title="Strekt de oordeelsmacht van Christus zich uit tot de engelen? " index="6" />
   </quaestio>
 </summa>

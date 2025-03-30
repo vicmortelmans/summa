@@ -1,135 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <summa>
-  <quaestio index="27" liber="4" title="Over de heiliging der H. Maagd ">
-    <articulus index="1" title="Is de H. Maagd geheiligd, v&#243;&#243;rdat zij uit de moederschoot geboren werd? " />
-  <articulus index="2" title="Werd de H. Maagd geheiligd, v&#243;&#243;rdat zij de menselijke ziel ontvangen had? " />
-  <articulus index="3" title="Werd de H. Maagd gezuiverd van de besmetting van de zondehaard? " />
-  <articulus index="4" title="Werd de H. Maagd door de heiliging in de moederschoot gevrijwaard voor iedere persoonlijke zonde? " />
-  <articulus index="5" title="Verkreeg de H. Maagd door de heiliging in de moederschoot de volheid der genaden? " />
-  <articulus index="6" title="Was het, behalve aan Christus, iets geheel eigens aan de H. Maagd in de moederschoot geheiligd te worden? " />
+  <quaestio liber="4" index="27" title="Over de heiliging der H. Maagd ">
+    <articulus title="Is de H. Maagd geheiligd, v&#243;&#243;rdat zij uit de moederschoot geboren werd? " index="1" />
+  <articulus title="Werd de H. Maagd geheiligd, v&#243;&#243;rdat zij de menselijke ziel ontvangen had? " index="2" />
+  <articulus title="Werd de H. Maagd gezuiverd van de besmetting van de zondehaard? " index="3" />
+  <articulus title="Werd de H. Maagd door de heiliging in de moederschoot gevrijwaard voor iedere persoonlijke zonde? " index="4" />
+  <articulus title="Verkreeg de H. Maagd door de heiliging in de moederschoot de volheid der genaden? " index="5" />
+  <articulus title="Was het, behalve aan Christus, iets geheel eigens aan de H. Maagd in de moederschoot geheiligd te worden? " index="6" />
   </quaestio>
-<quaestio index="28" liber="4" title="Over de maagdelijkheid der Moeder Gods ">
-    <articulus index="1" title="Was de Moeder Gods Maagd, toen zij Christus ontving? " />
-  <articulus index="2" title="Was de Moeder van Christus maagd bij zijn geboorte? " />
-  <articulus index="3" title="Is de moeder van Christus na diens geboorte maagd gebleven? " />
-  <articulus index="4" title="Heeft de Moeder Gods de gelofte van zuiverheid af gelegd? " />
+<quaestio liber="4" index="28" title="Over de maagdelijkheid der Moeder Gods ">
+    <articulus title="Was de Moeder Gods Maagd, toen zij Christus ontving? " index="1" />
+  <articulus title="Was de Moeder van Christus maagd bij zijn geboorte? " index="2" />
+  <articulus title="Is de moeder van Christus na diens geboorte maagd gebleven? " index="3" />
+  <articulus title="Heeft de Moeder Gods de gelofte van zuiverheid af gelegd? " index="4" />
   </quaestio>
-<quaestio index="29" liber="4" title="Over de verloving der Moeder Gods ">
-    <articulus index="1" title="Moest Christus geboren worden uit een maagd, die verloofd was? " />
-  <articulus index="2" title="Was het huwelijk tussen Maria en Joseph een waarachtig huwelijk? " />
+<quaestio liber="4" index="29" title="Over de verloving der Moeder Gods ">
+    <articulus title="Moest Christus geboren worden uit een maagd, die verloofd was? " index="1" />
+  <articulus title="Was het huwelijk tussen Maria en Joseph een waarachtig huwelijk? " index="2" />
   </quaestio>
-<quaestio index="30" liber="4" title="Over de boodschap des engels aan de H. Maagd ">
-    <articulus index="1" title="Was het noodzakelijk, dat aan de H. Maagd werd geboodschapt hetgeen in haar voltrokken moest worden? " />
-  <articulus index="2" title="Moest deze boodschap aan de H. Maagd worden overgebracht door een engel? " />
-  <articulus index="3" title="Moest de boodschappende engel zo aan de H. Maagd verschijnen, dat zij hem met de ogen van haar lichaam kon zien? " />
-  <articulus index="4" title="Geschiedde de boodschap des engels in de passende volgorde? " />
+<quaestio liber="4" index="30" title="Over de boodschap des engels aan de H. Maagd ">
+    <articulus title="Was het noodzakelijk, dat aan de H. Maagd werd geboodschapt hetgeen in haar voltrokken moest worden? " index="1" />
+  <articulus title="Moest deze boodschap aan de H. Maagd worden overgebracht door een engel? " index="2" />
+  <articulus title="Moest de boodschappende engel zo aan de H. Maagd verschijnen, dat zij hem met de ogen van haar lichaam kon zien? " index="3" />
+  <articulus title="Geschiedde de boodschap des engels in de passende volgorde? " index="4" />
   </quaestio>
-<quaestio index="31" liber="4" title="Over de stof, waaruit Christus&#8217; Lichaam ontvangen werd ">
-    <articulus index="1" title="Is Christus&#8217; Lichaam ontleend aan Adam? " />
-  <articulus index="2" title="Heeft Christus zijn Vlees ontleend aan het zaad van David? " />
-  <articulus index="3" title="Is Christus&#8217; stamboom wel behoorlijk door de Evangelisten opgesteld? " />
-  <articulus index="4" title="Moest de materie voor Christus&#8217; Lichaam genomen worden uit een vrouw? " />
-  <articulus index="5" title="Werd Christus&#8217; Lichaam gevormd uit het zuiverste bloed der Maagd? " />
-  <articulus index="6" title="Was Christus&#8217; Lichaam naar iets bepaald aanwijsbaar in Adam en in de overige voorvaderen aanwezig? " />
-  <articulus index="7" title="Was Christus&#8217; Lichaam in de voorvaderen besmet door de zonde? " />
-  <articulus index="8" title="Heeft Christus in de lendenen van Abraham tienden betaald? " />
+<quaestio liber="4" index="31" title="Over de stof, waaruit Christus&#8217; Lichaam ontvangen werd ">
+    <articulus title="Is Christus&#8217; Lichaam ontleend aan Adam? " index="1" />
+  <articulus title="Heeft Christus zijn Vlees ontleend aan het zaad van David? " index="2" />
+  <articulus title="Is Christus&#8217; stamboom wel behoorlijk door de Evangelisten opgesteld? " index="3" />
+  <articulus title="Moest de materie voor Christus&#8217; Lichaam genomen worden uit een vrouw? " index="4" />
+  <articulus title="Werd Christus&#8217; Lichaam gevormd uit het zuiverste bloed der Maagd? " index="5" />
+  <articulus title="Was Christus&#8217; Lichaam naar iets bepaald aanwijsbaar in Adam en in de overige voorvaderen aanwezig? " index="6" />
+  <articulus title="Was Christus&#8217; Lichaam in de voorvaderen besmet door de zonde? " index="7" />
+  <articulus title="Heeft Christus in de lendenen van Abraham tienden betaald? " index="8" />
   </quaestio>
-<quaestio index="32" liber="4" title="Over het actieve beginsel, dat Christus ontvangenis bewerkte ">
-    <articulus index="1" title="Moet het tot stand doen komen van Christus&#8217; ontvangenis worden toegeschreven aan de H. Geest? " />
-  <articulus index="2" title="Moet men zeggen, dat Christus ontvangen is van de H. Geest? " />
-  <articulus index="3" title="Moet men zeggen, dat de H. Geest de Vader was van Christus naar zijn mensheid? " />
-  <articulus index="4" title="Heeft de H. Maagd actief iets verricht bij de ontvangenis van Christus&#8217; lichaam? " />
+<quaestio liber="4" index="32" title="Over het actieve beginsel, dat Christus ontvangenis bewerkte ">
+    <articulus title="Moet het tot stand doen komen van Christus&#8217; ontvangenis worden toegeschreven aan de H. Geest? " index="1" />
+  <articulus title="Moet men zeggen, dat Christus ontvangen is van de H. Geest? " index="2" />
+  <articulus title="Moet men zeggen, dat de H. Geest de Vader was van Christus naar zijn mensheid? " index="3" />
+  <articulus title="Heeft de H. Maagd actief iets verricht bij de ontvangenis van Christus&#8217; lichaam? " index="4" />
   </quaestio>
-<quaestio index="33" liber="4" title="Over de wijze en volgorde van Christus&#8217; ontvangenis ">
-    <articulus index="1" title="Is Christus&#8217; lichaam op het eerste ogenblik der ontvangenis gevormd? " />
-  <articulus index="2" title="Werd Christus&#8217; lichaam in het eerste ogenblik der ontvangenis bezield? " />
-  <articulus index="3" title="Werd Christus&#8217; lichaam reeds in het eerste ogenblik zijner ontvangenis door het Woord aangenomen? " />
-  <articulus index="4" title="Was Christus&#8217; ontvangenis natuurlijk? " />
+<quaestio liber="4" index="33" title="Over de wijze en volgorde van Christus&#8217; ontvangenis ">
+    <articulus title="Is Christus&#8217; lichaam op het eerste ogenblik der ontvangenis gevormd? " index="1" />
+  <articulus title="Werd Christus&#8217; lichaam in het eerste ogenblik der ontvangenis bezield? " index="2" />
+  <articulus title="Werd Christus&#8217; lichaam reeds in het eerste ogenblik zijner ontvangenis door het Woord aangenomen? " index="3" />
+  <articulus title="Was Christus&#8217; ontvangenis natuurlijk? " index="4" />
   </quaestio>
-<quaestio index="34" liber="4" title="Over de volmaaktheid van het ontvangen kind ">
-    <articulus index="1" title="Werd Christus op het eerste ogenblik zijner ontvangenis geheiligd? " />
-  <articulus index="2" title="Bezat Christus als mens op het eerste ogenblik zijner ontvangenis het gebruik van zijn vrijen wil? " />
-  <articulus index="3" title="Kon Christus op het eerste ogenblik zijner ontvangenis verdienen? " />
-  <articulus index="4" title="Bezat Christus op het eerste ogenblik zijner ontvangenis op volmaakte wijze de aanschouwing? " />
+<quaestio liber="4" index="34" title="Over de volmaaktheid van het ontvangen kind ">
+    <articulus title="Werd Christus op het eerste ogenblik zijner ontvangenis geheiligd? " index="1" />
+  <articulus title="Bezat Christus als mens op het eerste ogenblik zijner ontvangenis het gebruik van zijn vrijen wil? " index="2" />
+  <articulus title="Kon Christus op het eerste ogenblik zijner ontvangenis verdienen? " index="3" />
+  <articulus title="Bezat Christus op het eerste ogenblik zijner ontvangenis op volmaakte wijze de aanschouwing? " index="4" />
   </quaestio>
-<quaestio index="35" liber="4" title="Over Christus&#8217; geboorte ">
-    <articulus index="1" title="Komt het geboren worden meer aan de natuur toe dan aan de persoon? " />
-  <articulus index="2" title="Moet aan Christus een geboorte in de tijd worden toegeschreven? " />
-  <articulus index="3" title="Kan de H. Maagd op grond van Christus&#8217; geboorte in de tijd Moeder Gods genoemd worden? " />
-  <articulus index="4" title="Moet de H. Maagd Moeder Gods worden genoemd? " />
-  <articulus index="5" title="Zijn er in Christus twee zoonschappen? " />
-  <articulus index="6" title="Werd Christus zonder barenswee&#235;n geboren? " />
-  <articulus index="7" title="Had Christus in Bethlehem moeten geboren worden? " />
-  <articulus index="8" title="Werd Christus op de gepaste tijd geboren? " />
+<quaestio liber="4" index="35" title="Over Christus&#8217; geboorte ">
+    <articulus title="Komt het geboren worden meer aan de natuur toe dan aan de persoon? " index="1" />
+  <articulus title="Moet aan Christus een geboorte in de tijd worden toegeschreven? " index="2" />
+  <articulus title="Kan de H. Maagd op grond van Christus&#8217; geboorte in de tijd Moeder Gods genoemd worden? " index="3" />
+  <articulus title="Moet de H. Maagd Moeder Gods worden genoemd? " index="4" />
+  <articulus title="Zijn er in Christus twee zoonschappen? " index="5" />
+  <articulus title="Werd Christus zonder barenswee&#235;n geboren? " index="6" />
+  <articulus title="Had Christus in Bethlehem moeten geboren worden? " index="7" />
+  <articulus title="Werd Christus op de gepaste tijd geboren? " index="8" />
   </quaestio>
-<quaestio index="36" liber="4" title="Over de bekendmaking van Christus&#8217; geboorte ">
-    <articulus index="1" title="Moest Christus&#8217; geboorte aan allen bekend zijn? " />
-  <articulus index="2" title="Moest Christus&#8217; geboorte aan sommigen bekend gemaakt worden? " />
-  <articulus index="3" title="Zijn voor degenen, waaraan Christus&#8217; geboorte bekend gemaakt is, de geschikte personen uitgekozen? " />
-  <articulus index="4" title="Had Christus zijn eigen geboorte moeten bekend maken? " />
-  <articulus index="5" title="Moest Christus&#8217; geboorte door de engelen en een ster bekend gemaakt worden? " />
-  <articulus index="6" title="Hebben de openbaringen van Christus&#8217; geboorte in passende volgorde plaats gehad? " />
-  <articulus index="7" title="Was de ster, die aan de Wijzen verschenen is, een der hemelstenen? " />
-  <articulus index="8" title="Is het wel passend geweest, dat de Wijzen Christus zijn komen aanbidden en vereren? " />
+<quaestio liber="4" index="36" title="Over de bekendmaking van Christus&#8217; geboorte ">
+    <articulus title="Moest Christus&#8217; geboorte aan allen bekend zijn? " index="1" />
+  <articulus title="Moest Christus&#8217; geboorte aan sommigen bekend gemaakt worden? " index="2" />
+  <articulus title="Zijn voor degenen, waaraan Christus&#8217; geboorte bekend gemaakt is, de geschikte personen uitgekozen? " index="3" />
+  <articulus title="Had Christus zijn eigen geboorte moeten bekend maken? " index="4" />
+  <articulus title="Moest Christus&#8217; geboorte door de engelen en een ster bekend gemaakt worden? " index="5" />
+  <articulus title="Hebben de openbaringen van Christus&#8217; geboorte in passende volgorde plaats gehad? " index="6" />
+  <articulus title="Was de ster, die aan de Wijzen verschenen is, een der hemelstenen? " index="7" />
+  <articulus title="Is het wel passend geweest, dat de Wijzen Christus zijn komen aanbidden en vereren? " index="8" />
   </quaestio>
-<quaestio index="37" liber="4" title="Over de besnijdenis van Christus en over de andere wettelijke voorschriften, die men het kind Christus liet nakomen ">
-    <articulus index="1" title="Had Christus besneden moeten worden? " />
-  <articulus index="2" title="Was het wel passend, dat men Christus een naam gegeven heeft? " />
-  <articulus index="3" title="Paste het wel, dat Christus in den tempel werd opgedragen? " />
-  <articulus index="4" title="Behoorde de Moeder Gods wel op te gaan naar den tempel om gezuiverd te worden? " />
+<quaestio liber="4" index="37" title="Over de besnijdenis van Christus en over de andere wettelijke voorschriften, die men het kind Christus liet nakomen ">
+    <articulus title="Had Christus besneden moeten worden? " index="1" />
+  <articulus title="Was het wel passend, dat men Christus een naam gegeven heeft? " index="2" />
+  <articulus title="Paste het wel, dat Christus in den tempel werd opgedragen? " index="3" />
+  <articulus title="Behoorde de Moeder Gods wel op te gaan naar den tempel om gezuiverd te worden? " index="4" />
   </quaestio>
-<quaestio index="38" liber="4" title="Over het doopsel van Joannes ">
-    <articulus index="1" title="Was het wel passend, dat Joannes doopte? " />
-  <articulus index="2" title="Kwam Joannes&#8217; doopsel van God? " />
-  <articulus index="3" title="Werd in het doopsel van Joannes genade medegedeeld? " />
-  <articulus index="4" title="Had alleen Christus met het doopsel van Joannes moeten gedoopt worden? " />
-  <articulus index="5" title="Had het doopsel van Joannes niet moeten ophouden, nadat Christus er mee gedoopt was? " />
-  <articulus index="6" title="Moesten degenen die gedoopt waren met het doopsel van Joannes, gedoopt worden met het doopsel van Christus? " />
+<quaestio liber="4" index="38" title="Over het doopsel van Joannes ">
+    <articulus title="Was het wel passend, dat Joannes doopte? " index="1" />
+  <articulus title="Kwam Joannes&#8217; doopsel van God? " index="2" />
+  <articulus title="Werd in het doopsel van Joannes genade medegedeeld? " index="3" />
+  <articulus title="Had alleen Christus met het doopsel van Joannes moeten gedoopt worden? " index="4" />
+  <articulus title="Had het doopsel van Joannes niet moeten ophouden, nadat Christus er mee gedoopt was? " index="5" />
+  <articulus title="Moesten degenen die gedoopt waren met het doopsel van Joannes, gedoopt worden met het doopsel van Christus? " index="6" />
   </quaestio>
-<quaestio index="39" liber="4" title="Over den doop van Christus ">
-    <articulus index="1" title="Behoorde Christus wel gedoopt te worden? " />
-  <articulus index="2" title="Betaamde het wel, dat Christus met het doopsel van Joannes gedoopt werd? " />
-  <articulus index="3" title="Is Christus op den geschikten tijd gedoopt geworden? " />
-  <articulus index="4" title="Had Christus in den Jordaan gedoopt moeten worden? " />
-  <articulus index="5" title="Moesten de hemelen zich openen, toen Christus gedoopt was? " />
-  <articulus index="6" title="Is het wel passend wat er gezegd wordt, dat de Heilige Geest op Christus, na diens doop, onder de gedaante van een duif neerdaalde? " />
-  <articulus index="7" title="Was de duif, waarin de Heilige Geest verscheen, een werkelijk dier? " />
-  <articulus index="8" title="Was het wel passend, dat na Christus&#8217; doop, de stem van den Vader gehoord werd om voor den Zoon te getuigen? " />
+<quaestio liber="4" index="39" title="Over den doop van Christus ">
+    <articulus title="Behoorde Christus wel gedoopt te worden? " index="1" />
+  <articulus title="Betaamde het wel, dat Christus met het doopsel van Joannes gedoopt werd? " index="2" />
+  <articulus title="Is Christus op den geschikten tijd gedoopt geworden? " index="3" />
+  <articulus title="Had Christus in den Jordaan gedoopt moeten worden? " index="4" />
+  <articulus title="Moesten de hemelen zich openen, toen Christus gedoopt was? " index="5" />
+  <articulus title="Is het wel passend wat er gezegd wordt, dat de Heilige Geest op Christus, na diens doop, onder de gedaante van een duif neerdaalde? " index="6" />
+  <articulus title="Was de duif, waarin de Heilige Geest verscheen, een werkelijk dier? " index="7" />
+  <articulus title="Was het wel passend, dat na Christus&#8217; doop, de stem van den Vader gehoord werd om voor den Zoon te getuigen? " index="8" />
   </quaestio>
-<quaestio index="40" liber="4" title="Over Christus&#8217; levenswijze ">
-    <articulus index="1" title="Had Christus met de mensen om moeten gaan of had Hij een kluizenaarsleven moeten leiden? " />
-  <articulus index="2" title="Behoorde Christus wel een streng leven te leiden in deze wereld? " />
-  <articulus index="3" title="Had Christus in deze wereld een arm leven moeten leiden? " />
-  <articulus index="4" title="Heeft Christus volgens de wet geleefd? " />
+<quaestio liber="4" index="40" title="Over Christus&#8217; levenswijze ">
+    <articulus title="Had Christus met de mensen om moeten gaan of had Hij een kluizenaarsleven moeten leiden? " index="1" />
+  <articulus title="Behoorde Christus wel een streng leven te leiden in deze wereld? " index="2" />
+  <articulus title="Had Christus in deze wereld een arm leven moeten leiden? " index="3" />
+  <articulus title="Heeft Christus volgens de wet geleefd? " index="4" />
   </quaestio>
-<quaestio index="41" liber="4" title="Over de bekoring van Christus ">
-    <articulus index="1" title="Was het wel passend dat Christus bekoord werd? " />
-  <articulus index="2" title="Moest Christus in de woestijn bekoord worden? " />
-  <articulus index="3" title="Had de bekoring van Christus plaats moeten hebben na zijn vasten? " />
-  <articulus index="4" title="Is de wijze en de volgorde der bekoringen wel goed geweest? " />
+<quaestio liber="4" index="41" title="Over de bekoring van Christus ">
+    <articulus title="Was het wel passend dat Christus bekoord werd? " index="1" />
+  <articulus title="Moest Christus in de woestijn bekoord worden? " index="2" />
+  <articulus title="Had de bekoring van Christus plaats moeten hebben na zijn vasten? " index="3" />
+  <articulus title="Is de wijze en de volgorde der bekoringen wel goed geweest? " index="4" />
   </quaestio>
-<quaestio index="42" liber="4" title="Over Christus' leer ">
-    <articulus index="1" title="Had Christus, niet alleen voor de Joden, maar ook voor de heidenen moeten prediken? " />
-  <articulus index="2" title="Had Christus voor de Joden moeten preken, zonder hen aanstoot te geven? " />
-  <articulus index="3" title="Had Christus alles in het openbaar moeten leren? " />
-  <articulus index="4" title="Had Christus zijn leer op schrift moeten stellen? " />
+<quaestio liber="4" index="42" title="Over Christus' leer ">
+    <articulus title="Had Christus, niet alleen voor de Joden, maar ook voor de heidenen moeten prediken? " index="1" />
+  <articulus title="Had Christus voor de Joden moeten preken, zonder hen aanstoot te geven? " index="2" />
+  <articulus title="Had Christus alles in het openbaar moeten leren? " index="3" />
+  <articulus title="Had Christus zijn leer op schrift moeten stellen? " index="4" />
   </quaestio>
-<quaestio index="43" liber="4" title="Over de wonderen die door Christus verricht zijn in het algemeen ">
-    <articulus index="1" title="Had Christus wel wonderen moeten doen? " />
-  <articulus index="2" title="Heeft Christus wonderen gedaan door goddelijke kracht? " />
-  <articulus index="3" title="Is Christus begonnen wonderen te doen, toen Hij bij de bruiloft water in wijn veranderde? " />
-  <articulus index="4" title="Waren de wonderen welke Christus gedaan heeft voldoende om zijn Godheid te bewijzen? " />
+<quaestio liber="4" index="43" title="Over de wonderen die door Christus verricht zijn in het algemeen ">
+    <articulus title="Had Christus wel wonderen moeten doen? " index="1" />
+  <articulus title="Heeft Christus wonderen gedaan door goddelijke kracht? " index="2" />
+  <articulus title="Is Christus begonnen wonderen te doen, toen Hij bij de bruiloft water in wijn veranderde? " index="3" />
+  <articulus title="Waren de wonderen welke Christus gedaan heeft voldoende om zijn Godheid te bewijzen? " index="4" />
   </quaestio>
-<quaestio index="44" liber="4" title="Over de verschillende soorten van wonderen in het bijzonder ">
-    <articulus index="1" title="Waren de wonderen, die Christus in de geestenwereld verricht heeft wel gepast? " />
-  <articulus index="2" title="Was het wel passend, dat Christus wonderen voortbracht in de hemellichamen? " />
-  <articulus index="3" title="Was het wel passend, dat Christus in de mensen wonderen gedaan heeft? " />
-  <articulus index="4" title="Of de wonderen, die Christus in de redeloze schepselen gedaan heeft wel goed zijn geweest " />
+<quaestio liber="4" index="44" title="Over de verschillende soorten van wonderen in het bijzonder ">
+    <articulus title="Waren de wonderen, die Christus in de geestenwereld verricht heeft wel gepast? " index="1" />
+  <articulus title="Was het wel passend, dat Christus wonderen voortbracht in de hemellichamen? " index="2" />
+  <articulus title="Was het wel passend, dat Christus in de mensen wonderen gedaan heeft? " index="3" />
+  <articulus title="Of de wonderen, die Christus in de redeloze schepselen gedaan heeft wel goed zijn geweest " index="4" />
   </quaestio>
-<quaestio index="45" liber="4" title="Over de gedaanteverandering van Christus ">
-    <articulus index="1" title="Was het passend, dat Christus van gedaante veranderd werd? " />
-  <articulus index="2" title="Was die heerlijkheid de heerlijkheid der glorie? " />
-  <articulus index="3" title="Zijn bij de gedaanteverandering wel de gepaste getuigen opgevoerd? " />
-  <articulus index="4" title="Is er wel voldoende reden voor aan te geven, waarom het getuigenis van de stem des Vaders er nog bij kwam, zeggende: &#171; Deze is mijn geliefde Zoon &#187;? " />
+<quaestio liber="4" index="45" title="Over de gedaanteverandering van Christus ">
+    <articulus title="Was het passend, dat Christus van gedaante veranderd werd? " index="1" />
+  <articulus title="Was die heerlijkheid de heerlijkheid der glorie? " index="2" />
+  <articulus title="Zijn bij de gedaanteverandering wel de gepaste getuigen opgevoerd? " index="3" />
+  <articulus title="Is er wel voldoende reden voor aan te geven, waarom het getuigenis van de stem des Vaders er nog bij kwam, zeggende: &#171; Deze is mijn geliefde Zoon &#187;? " index="4" />
   </quaestio>
 </summa>

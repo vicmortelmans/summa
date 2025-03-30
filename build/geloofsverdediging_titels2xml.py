@@ -3,7 +3,7 @@ import sys
 import re
 import xml.etree.cElementTree as ET
 
-is_id = re.compile("([0-9]+\.)+")
+is_id = re.compile("([0-9]+\\.)+")
 
 summa = ET.Element("summa")
 
@@ -36,14 +36,14 @@ for line in sys.stdin:
     else:
         if line:
             if same_quaestio_count == 1:  # first title is that of the quaestio
-                quaestio.set("title", line.decode('utf-8').rstrip() + ' ') 
+                quaestio.set("title", line.rstrip() + ' ') 
             else:  # following titles are that of articles 
                 articulus = ET.SubElement(quaestio, "articulus")
-                articulus.set("title", line.decode('utf-8').rstrip() + ' ')
+                articulus.set("title", line.rstrip() + ' ')
                 articulus.set("index", str(same_quaestio_count - 1)) 
             same_quaestio_count += 1
 
 output = '<?xml version="1.0" encoding="UTF-8"?>\n'
-output += (ET.tostring(indent(summa), method="xml"))
+output += (ET.tostring(indent(summa), method="xml")).decode("utf-8")
 
 sys.stdout.write(output)
