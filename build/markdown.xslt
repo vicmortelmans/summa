@@ -26,7 +26,7 @@
       <xsl:text># Proœmium {.unlisted .unnumbered}&#10;</xsl:text>
       <xsl:text>&#10;</xsl:text>
       <xsl:apply-templates select="../liber[@title = 'Proœmium']//lemma"/>
-      <xsl:apply-templates select="quaestio[not(articulus/lemma/nl/abest)]"/>
+      <xsl:apply-templates select="quaestio[articulus/lemma/nl[not(abest)]]"/><!-- any question that has some nl is published -->
       <xsl:text>\clearpage&#10;</xsl:text>
       <xsl:text>\tableofcontents&#10;</xsl:text>
       <xsl:text>&#10;</xsl:text>
