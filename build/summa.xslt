@@ -143,12 +143,14 @@
 
             <xsl:for-each select="lemma">
               <p class="latin {type}"><xsl:value-of select="latin"/> (<xsl:value-of select="reference"/>)</p>
-              <p class="nl {type}">
-                <xsl:if test="not(nl/abest) and (type='arg' or type='ad') and count(../lemma[type='arg']) &gt; 1">
-                  <xsl:value-of select="index"/><xsl:text> &#x2014; </xsl:text>
-                </xsl:if>
-                <xsl:value-of select="nl"/>
-              </p>
+              <xsl:if test="normalize-space(nl) != ''">
+                  <p class="nl {type}">
+                    <xsl:if test="not(nl/abest) and (type='arg' or type='ad') and count(../lemma[type='arg']) &gt; 1">
+                      <xsl:value-of select="index"/><xsl:text> &#x2014; </xsl:text>
+                    </xsl:if>
+                    <xsl:value-of select="nl"/>
+                  </p>
+              </xsl:if>
             </xsl:for-each>
         </div>
     </div>

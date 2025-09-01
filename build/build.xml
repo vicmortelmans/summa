@@ -26,7 +26,7 @@
  
  <target name="clean">
   <delete>
-   <fileset dir="kapitel_tidy" includes="*.*"/>
+   <!--fileset dir="kapitel_tidy" includes="*.*"/-->
    <!--fileset dir="xml_latin" includes="xml_latin.xml"/--><!-- commented out because kapitel is missing q 80 in part 3, which is manually added in xml_latin.xml -->
    <fileset dir="summa" includes="liber*.*"/><!-- don't delete the index.html and other html resources -->
   </delete>

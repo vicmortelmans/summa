@@ -63,8 +63,10 @@
     <xsl:apply-templates select="lemma"/>
   </xsl:template>
   <xsl:template match="lemma">
-    <xsl:value-of select="nl"/><xsl:text> (</xsl:text><xsl:value-of select="reference"/><xsl:text>)&#10;</xsl:text>
-    <xsl:text>&#10;</xsl:text>
+    <xsl:if test="normalize-space(nl) != ''">
+      <xsl:value-of select="nl"/><xsl:text> (</xsl:text><xsl:value-of select="reference"/><xsl:text>)&#10;</xsl:text>
+      <xsl:text>&#10;</xsl:text>
+    </xsl:if>
   </xsl:template>
 </xsl:stylesheet>
 
