@@ -28,6 +28,9 @@ for file_path in txt_files:
         if not p.strip():
             continue
 
+        if p.strip().replace("-", "") == "":
+            continue
+
         try:
             # Detect language
             is_reliable, _, details = pycld2.detect(p)
