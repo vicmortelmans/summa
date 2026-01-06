@@ -1,3 +1,4 @@
 build/summa/liber*.html
 ai/env
 ai/api_key
+rag/env

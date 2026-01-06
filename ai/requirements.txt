@@ -24,6 +24,7 @@ opentelemetry-proto==1.38.0
 opentelemetry-sdk==1.38.0
 opentelemetry-semantic-conventions==0.59b0
 protobuf==6.33.2
+pycld2==0.42
 pydantic==2.12.5
 pydantic_core==2.41.5
 python-dateutil==2.9.0.post0

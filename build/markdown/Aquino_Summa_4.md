@@ -21,7 +21,7 @@ Dit boek is een gedeeltelijke heruitgave van de Nederlandse vertaling van de Sum
 
 A.M.D.G.
 
-01/09/2025
+06/01/2026
 
 # Proœmium {.unlisted .unnumbered}
 
@@ -840,6 +840,40 @@ Omdat wijn vochtig is, kan men ermee spoelen. Daarom wordt na de nuttiging van d
 De waarheid moet onder een bepaald opzicht aan de voorafbeelding beantwoorden, in zover men nl. geen enkel deel van de geconsecreerde hostie, waarvan de priester en de dienaars of ook het volk genuttigd hebben, tot de volgende dag moet bewaren. Daarom heeft Paus Clemens vastgesteld, zoals men in een Decretaal vindt: “Zoveel hosties moeten op het altaar geofferd worden, als voor het volk voldoende is. Blijven er over, dan mag men die niet tot de volgende dag bewaren, maar moeten de geestelijken ze met schrik en beven eerbiedig nuttigen”. Daar dit Sacrament evenwel dagelijks genuttigd moet worden, terwijl het paaslam niet dagelijks genuttigd werd. moet men andere geconsecreerde hosties bewaren voor de zieken. Daarom leest men op die plaats: “De priester moet de Eucharistie altijd gereed hebben, opdat, wanneer iemand ziek is. hij aanstonds kan communiceren en niet zonder Communie sterft”.  (IIIa q. 83 a. 5 ad 11)
 
 Bij de plechtige Mis moeten altijd meerdere personen aanwezig zijn. Daarom zegt Paus Soter, zoals in een Decretaal staat: “Het is ook vastgesteld, dat geen priester een plechtige Mis mag opdragen, als er niet minstens twee aanwezigen zijn om hem te antwoorden, buiten hemzelf. Want daar hij in het meervoud zegt: “De Heer zij met u” en bij de Secreta: “voor mij”, is het zeer passend, dat zij zijn groet beantwoorden”. Daarom ook is aldaar tot grotere luister voorgeschreven, dat de bisschop met meerdere personen de Misplechtigheden moet verrichten. In de stille Missen echter is het voldoende een misdienaar te hebben, die het hele katholieke volk vertegenwoordigt en daarom ook de priester in het meervoud antwoordt.  (IIIa q. 83 a. 5 ad 12)
+
+## Articulus 6 Kan men in de tekortkomingen, welke bij de viering van dit Sacrament voorkomen, voldoende voorzien door de voorschriften van de Kerk in acht te nemen? 
+
+Men beweert, dat men in de tekortkomingen, welke bij de viering van dit Sacrament voorkomen, niet voldoende kan voorzien door de voorschriften van de Kerk in acht te nemen. Want het gebeurt soms, dat de priester vóór of na de consecratie, sterft of in zwijm valt, of door een of andere ongesteldheid overvallen wordt, zodat hij het Sacrament niet kan nuttigen noch de Mis beëindigen. Zo schijnt het dus, dat het voorschrift van de Kerk niet nagekomen kan worden, waarin geboden wordt, dat de priester, die consecreert, aan zijn Offer ook deel moet nemen.  (IIIa q. 83 a. 6 arg. 1)
+
+Het gebeurt soms, dat de priester vóór of na de consecratie zich herinnert, dat hij iets gegeten heeft of gedronken, of in staat van doodzonde is, of geëxcommuniceerd is, waaraan hij te voren niet gedacht heeft. Het is dan noodzakelijk, dat hij, die zich in zulk een geval bevindt, een doodzonde doet door te handelen tegen een voorschrift van de Kerk, of hij dan communiceert of niet.  (IIIa q. 83 a. 6 arg. 2)
+
+Soms gebeurt het, dat er na de consecratie een vlieg of spin of een vergiftig beestje in de kelk valt; of dat de priester bemerkt, dat er vergif in de kelk gedaan is door een kwaadwillige, die hem wil doden. In zulk een geval schijnt het, dat hij zwaar zondigt, als hij nuttigt, nl. door zelfmoord of door God op de proef te stellen. Nuttigt hij niet, dan zondigt hij door legen het voorschrift van de Kerk te handelen. Hij schijnt dan geen uitweg te hebben en onderworpen te zijn aan de noodzakelijkheid van te zondigen. Dat is echter onaannemelijk.  (IIIa q. 83 a. 6 arg. 3)
+
+Het kan voorkomen, dat er door nalatigheid van een dienaar ofwel geen water in de kelk is of zelfs geen wijn en dat de priester dat merkt. Ook in dat geval heeft hij, naar het schijnt, geen uitweg: hetzij hij het Lichaam nuttigt zonder het Bloed, waardoor hij een onvolkomen Offer brengt, hetzij hij noch het Lichaam noch het Bloed nuttigt.  (IIIa q. 83 a. 6 arg. 4)
+
+Het kan gebeuren, dat de priester zich niet herinnert de woorden van de consecratie gezegd te hebben, of andere woorden, welke bij de consecratie van dit Sacrament gezegd worden. In dat geval schijnt hij te zondigen zowel als hij de woorden herhaalt over de stof, die hij misschien al gezegd heeft, als wanneer hij het brood en de wijn nuttigt als geconsecreerd, terwijl ze niet geconsecreerd zijn.  (IIIa q. 83 a. 6 arg. 5)
+
+Door de koude kan het soms gebeuren dat de priester de hostie in de kelk laat vallen vóór het breken of ook erna. In zulk een geval kan de priester niet de ritus van de Kerk in acht nemen in zake het breken of hierin, dat alleen maar een derde gedeelte in de kelk mag gelaten worden.  (IIIa q. 83 a. 6 arg. 6)
+
+Het gebeurt soms, dat door de nalatigheid van de priester het Bloed van Christus wordt uitgestort; of ook, dat de priester na het Sacrament genuttigd te hebben, braakt; of ook, dat de geconsecreerde hosties zolang bewaard worden, dat ze bederven; of dat de muizen eraan knagen, of dat de hosties hoe dan ook verloren gaan. In al die gevallen schijnt het onmogelijk te zijn, aan dit Sacrament de verschuldigde eerbied volgens de voorschriften der Kerk te bewijzen. Derhalve schijnt het, dat men aan deze tekortkomingen en gevaren niet te gemoet kan komen, door de voorschriften van de Kerk op te volgen.  (IIIa q. 83 a. 6 arg. 7)
+
+Men beweert, dat men in de tekortkomingen, welke bij de viering van dit Sacrament voorkomen, niet voldoende kan voorzien door de voorschriften van de Kerk in acht te nemen. Want het gebeurt soms, dat de priester vóór of na de consecratie, sterft of in zwijm valt, of door een of andere ongesteldheid overvallen wordt, zodat hij het Sacrament niet kan nuttigen noch de Mis beëindigen. Zo schijnt het dus, dat het voorschrift van de Kerk niet nagekomen kan worden, waarin geboden wordt, dat de priester, die consecreert, aan zijn Offer ook deel moet nemen.  (IIIa q. 83 a. 6 s. c.)
+
+Men beweert, dat men in de tekortkomingen, welke bij de viering van dit Sacrament voorkomen, niet voldoende kan voorzien door de voorschriften van de Kerk in acht te nemen. Want het gebeurt soms, dat de priester vóór of na de consecratie, sterft of in zwijm valt, of door een of andere ongesteldheid overvallen wordt, zodat hij het Sacrament niet kan nuttigen noch de Mis beëindigen. Zo schijnt het dus, dat het voorschrift van de Kerk niet nagekomen kan worden, waarin geboden wordt, dat de priester, die consecreert, aan zijn Offer ook deel moet nemen.  (IIIa q. 83 a. 6 co.)
+
+Men beweert, dat men in de tekortkomingen, welke bij de viering van dit Sacrament voorkomen, niet voldoende kan voorzien door de voorschriften van de Kerk in acht te nemen. Want het gebeurt soms, dat de priester vóór of na de consecratie, sterft of in zwijm valt, of door een of andere ongesteldheid overvallen wordt, zodat hij het Sacrament niet kan nuttigen noch de Mis beëindigen. Zo schijnt het dus, dat het voorschrift van de Kerk niet nagekomen kan worden, waarin geboden wordt, dat de priester, die consecreert, aan zijn Offer ook deel moet nemen.  (IIIa q. 83 a. 6 ad 1)
+
+Het gebeurt soms, dat de priester vóór of na de consecratie zich herinnert, dat hij iets gegeten heeft of gedronken, of in staat van doodzonde is, of geëxcommuniceerd is, waaraan hij te voren niet gedacht heeft. Het is dan noodzakelijk, dat hij, die zich in zulk een geval bevindt, een doodzonde doet door te handelen tegen een voorschrift van de Kerk, of hij dan communiceert of niet.  (IIIa q. 83 a. 6 ad 2)
+
+Soms gebeurt het, dat er na de consecratie een vlieg of spin of een vergiftig beestje in de kelk valt; of dat de priester bemerkt, dat er vergif in de kelk gedaan is door een kwaadwillige, die hem wil doden. In zulk een geval schijnt het, dat hij zwaar zondigt, als hij nuttigt, nl. door zelfmoord of door God op de proef te stellen. Nuttigt hij niet, dan zondigt hij door legen het voorschrift van de Kerk te handelen. Hij schijnt dan geen uitweg te hebben en onderworpen te zijn aan de noodzakelijkheid van te zondigen. Dat is echter onaannemelijk.  (IIIa q. 83 a. 6 ad 3)
+
+Het kan voorkomen, dat er door nalatigheid van een dienaar ofwel geen water in de kelk is of zelfs geen wijn en dat de priester dat merkt. Ook in dat geval heeft hij, naar het schijnt, geen uitweg: hetzij hij het Lichaam nuttigt zonder het Bloed, waardoor hij een onvolkomen Offer brengt, hetzij hij noch het Lichaam noch het Bloed nuttigt.  (IIIa q. 83 a. 6 ad 4)
+
+Het kan gebeuren, dat de priester zich niet herinnert de woorden van de consecratie gezegd te hebben, of andere woorden, welke bij de consecratie van dit Sacrament gezegd worden. In dat geval schijnt hij te zondigen zowel als hij de woorden herhaalt over de stof, die hij misschien al gezegd heeft, als wanneer hij het brood en de wijn nuttigt als geconsecreerd, terwijl ze niet geconsecreerd zijn.  (IIIa q. 83 a. 6 ad 5)
+
+Door de koude kan het soms gebeuren dat de priester de hostie in de kelk laat vallen vóór het breken of ook erna. In zulk een geval kan de priester niet de ritus van de Kerk in acht nemen in zake het breken of hierin, dat alleen maar een derde gedeelte in de kelk mag gelaten worden.  (IIIa q. 83 a. 6 ad 6)
+
+Het gebeurt soms, dat door de nalatigheid van de priester het Bloed van Christus wordt uitgestort; of ook, dat de priester na het Sacrament genuttigd te hebben, braakt; of ook, dat de geconsecreerde hosties zolang bewaard worden, dat ze bederven; of dat de muizen eraan knagen, of dat de hosties hoe dan ook verloren gaan. In al die gevallen schijnt het onmogelijk te zijn, aan dit Sacrament de verschuldigde eerbied volgens de voorschriften der Kerk te bewijzen. Derhalve schijnt het, dat men aan deze tekortkomingen en gevaren niet te gemoet kan komen, door de voorschriften van de Kerk op te volgen.  (IIIa q. 83 a. 6 ad 7)
 
 \clearpage
 \tableofcontents
