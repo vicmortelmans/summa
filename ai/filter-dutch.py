@@ -1,3 +1,5 @@
+# Reads text files from ../docs/bronbestanden/*/*.txt and writes filtered Dutch text to *.nl.txt in the same directory.
+
 import glob
 import os
 import re

@@ -1,3 +1,5 @@
+# Reads text files from ../docs/bronbestanden/*/*.nl.txt and writes merged text to ../docs/bronbestanden/*/merged/*.txt
+
 import glob
 import os
 

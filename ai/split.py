@@ -1,3 +1,5 @@
+# Reads text files from ../docs/bronbestanden/*/merged/*.txt and writes split text to ../docs/bronbestanden/*/split/*.txt
+
 import glob
 import os
 import re
@@ -33,7 +35,7 @@ for file_path in files:
     
     for line in lines:
         # Check for split keywords
-        if "KWESTIE" in line or "ARTIKEL" in line:
+        if "KWESTIE" in line or "ARTIKEL" in line or (line.startswith("##") and "Artikel" in line):
             # If we have accumulated content, write it to a file
             if current_lines:
                 output_filename = f"{file_counter:02d}_{current_slug}.txt"

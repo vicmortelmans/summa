@@ -1,3 +1,5 @@
+# Reads PDF files from ../docs/bronbestanden/*/*.pdf and writes OCR text to *.txt in the same directory.
+
 from mistralai import Mistral
 from dotenv import load_dotenv
 import os
