@@ -118,19 +118,33 @@ def process_file(file_path):
     q_str = str(q_num) if q_num else "x"
 
     article_num = None
-    new_content = []
+    
+    # Output directory setup
+    split_dir = os.path.dirname(file_path)
+    parent_dir = os.path.dirname(split_dir)
+    annotated_dir = os.path.join(parent_dir, "annotated")
+    
+    if not os.path.exists(annotated_dir):
+        os.makedirs(annotated_dir)
     
     # State tracking
-    # 0: Header/Title search
-    # 1: Objections (Arg)
-    # 2: Sed Contra (SC)
-    # 3: Body (Co)
-    # 4: Answers (Ad)
     state = 0
     
     # Flags to handle unnumbered first items
     first_arg_started = False
     first_ad_started = False
+    
+    current_lines = []
+    current_filename = None
+    
+    def write_current_section():
+        nonlocal current_lines, current_filename
+        if current_filename and current_lines:
+            output_path = os.path.join(annotated_dir, current_filename)
+            with open(output_path, 'w', encoding='utf-8') as f:
+                f.write('\n'.join(current_lines) + '\n')
+        current_lines = []
+        current_filename = None
 
     iterator = iter(lines)
     
@@ -160,6 +174,7 @@ def process_file(file_path):
             if state == 1:
                 # Check for transition to SC
                 if re.match(r"^Daartegenover", line, re.IGNORECASE):
+                    write_current_section()
                     state = 2
                     # Fall through to process this line in state 2
                 else:
@@ -168,47 +183,58 @@ def process_file(file_path):
                     if trigger_match:
                         line = line[trigger_match.end():].strip()
                     
+                    # Filter out "— 1." if present (often in first objection)
+                    line = re.sub(r"^—\s*1\.\s*", "", line).strip()
+
                     if not line:
                         continue
 
                     # Check for numbered objection (e.g. "1. ...")
                     num_match = re.match(r"^(\d+)\.\s*", line)
                     if num_match:
+                        write_current_section()
                         line = line[num_match.end():].strip()
-                        new_content.append(f"{BOOK}.{q_str}.{article_num}.arg")
-                        new_content.append(line)
+                        arg_num = int(num_match.group(1))
+                        current_filename = f"{BOOK}.{q_str}.{article_num}.arg.{arg_num}.txt"
+                        #current_lines = [f"{BOOK}.{q_str}.{article_num}.arg", line]
+                        current_lines.append(line)
                         first_arg_started = True
                     else:
                         # Unnumbered line. 
                         # If it's the first objection (and unnumbered), emit tag.
                         # Otherwise it's a continuation of the previous objection.
                         if not first_arg_started:
-                            new_content.append(f"{BOOK}.{q_str}.{article_num}.arg")
-                            new_content.append(line)
+                            write_current_section()
+                            arg_num = 1
+                            current_filename = f"{BOOK}.{q_str}.{article_num}.arg.{arg_num}.txt"
+                            #current_lines = [f"{BOOK}.{q_str}.{article_num}.arg", line]
+                            current_lines.append(line)
                             first_arg_started = True
                         else:
-                            new_content.append(line)
+                            current_lines.append(line)
                     continue
 
             # --- State 2: Sed Contra ---
             if state == 2:
                 # Check for transition to Body
                 if re.match(r"^\**LEERSTELLING", line, re.IGNORECASE):
+                    write_current_section()
                     state = 3
                     # Fall through to process this line in state 3
                 else:
-                    # This is the SC line (starts with Daartegenover)
-                    # Prompt says: "Before the sed contra paragraph, add a line..."
-                    new_content.append(f"{BOOK}.{q_str}.{article_num}.sc")
-                    new_content.append(line)
-                    # SC is usually one paragraph. If there are more lines before LEERSTELLING, 
-                    # they are part of SC. We stay in state 2.
+                    if current_filename is None:
+                        current_filename = f"{BOOK}.{q_str}.{article_num}.sc.txt"
+                        #current_lines = [f"{BOOK}.{q_str}.{article_num}.sc", line]
+                        current_lines.append(line)
+                    else:
+                        current_lines.append(line)
                     continue
 
             # --- State 3: Body ---
             if state == 3:
                 # Check for transition to Answers
                 if re.search(r"(^\**ANTW..RD OP DE BEDENKINGEN|antwoord op de bedenkingen)", line, re.IGNORECASE):
+                    write_current_section()
                     state = 4
                     # Fall through to process this line in state 4
                 else:
@@ -216,12 +242,17 @@ def process_file(file_path):
                     trigger_match = re.match(r"^\**LEERSTELLING[\.\*\s—]*", line, re.IGNORECASE)
                     if trigger_match:
                         line = line[trigger_match.end():].strip()
-                        new_content.append(f"{BOOK}.{q_str}.{article_num}.co")
+                        current_filename = f"{BOOK}.{q_str}.{article_num}.co.txt"
+                        #current_lines = [f"{BOOK}.{q_str}.{article_num}.co"]
                         if line:
-                            new_content.append(line)
+                            current_lines.append(line)
                     else:
-                        # Just a paragraph of the body
-                        new_content.append(line)
+                        if current_filename is None:
+                            current_filename = f"{BOOK}.{q_str}.{article_num}.co.txt"
+                            #current_lines = [f"{BOOK}.{q_str}.{article_num}.co", line]
+                            current_lines.append(line)
+                        else:
+                            current_lines.append(line)
                     continue
 
             # --- State 4: Answers ---
@@ -237,45 +268,30 @@ def process_file(file_path):
                 # Check for numbered answer
                 num_match = re.match(r"^(\d+)\.\s*", line)
                 if num_match:
+                    write_current_section()
                     line = line[num_match.end():].strip()
-                    new_content.append(f"{BOOK}.{q_str}.{article_num}.ad")
-                    new_content.append(line)
+                    ad_num = int(num_match.group(1))
+                    current_filename = f"{BOOK}.{q_str}.{article_num}.ad.{ad_num}.txt"
+                    #current_lines = [f"{BOOK}.{q_str}.{article_num}.ad", line]
+                    current_lines.append(line)
                     first_ad_started = True
                 else:
                     # Unnumbered line.
                     if not first_ad_started:
-                        new_content.append(f"{BOOK}.{q_str}.{article_num}.ad")
-                        new_content.append(line)
+                        write_current_section()
+                        ad_num = 1
+                        current_filename = f"{BOOK}.{q_str}.{article_num}.ad.{ad_num}.txt"
+                        #current_lines = [f"{BOOK}.{q_str}.{article_num}.ad", line]
+                        current_lines.append(line)
                         first_ad_started = True
                     else:
-                        new_content.append(line)
+                        current_lines.append(line)
                 continue
 
     except StopIteration:
         pass
 
-    # Determine output path
-    split_dir = os.path.dirname(file_path)
-    parent_dir = os.path.dirname(split_dir)
-    annotated_dir = os.path.join(parent_dir, "annotated")
-    
-    if not os.path.exists(annotated_dir):
-        os.makedirs(annotated_dir)
-
-    if q_num and article_num:
-        # Format: 1.{question}.{article}.txt
-        output_filename = f"{BOOK}.{q_num}.{article_num}.txt"
-    elif article_num:
-        # Fallback if question number not found
-        output_filename = f"{BOOK}.x.{article_num}.txt"
-    else:
-        # Fallback if article number not found (shouldn't happen if file is valid)
-        output_filename = os.path.basename(file_path)
-
-    output_path = os.path.join(annotated_dir, output_filename)
-
-    with open(output_path, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(new_content) + '\n')
+    write_current_section()
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))

@@ -95,7 +95,7 @@ def process_file(file_path):
                     number = dutch_ordinal_to_int(number_str)
                     kwestie_number = number
                     # Format as requested: "1.<numeric number>.pr"
-                    new_content.append(f"{BOOK}.{number}.pr")
+                    #new_content.append(f"{BOOK}.{number}.pr")
                     kwestie_found = True
                 break
     except StopIteration:
