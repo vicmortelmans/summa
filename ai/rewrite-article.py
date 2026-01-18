@@ -4,6 +4,8 @@ import glob
 import os
 import re
 
+BOOK = "1"  # Assuming we are only dealing with BOOK for KWESTIE files
+
 def roman_to_int(s):
     """
     Parses a Roman numeral string into an integer.
@@ -80,21 +82,29 @@ def dutch_ordinal_to_int(text):
     total += current_val
     return total
 
-def get_question_number(split_dir):
+def get_question_number(current_file_path):
     """
-    Attempts to find the Question number by looking for a sibling *kwestie.txt file.
+    Finds the preceding 'kwestie.txt' file in the split directory and extracts the question number.
     """
-    kwestie_files = glob.glob(os.path.join(split_dir, "*kwestie.txt"))
-    if kwestie_files:
-        try:
-            with open(kwestie_files[0], 'r', encoding='utf-8') as f:
-                for line in f:
-                    if "KWESTIE" in line:
-                         match = re.search(r"^(.*?)\s+KWESTIE", line, re.IGNORECASE)
-                         if match:
-                             return dutch_ordinal_to_int(match.group(1))
-        except Exception:
-            pass
+    split_dir = os.path.dirname(current_file_path)
+    current_filename = os.path.basename(current_file_path)
+    
+    files = sorted(os.listdir(split_dir))
+    last_kwestie = None
+    
+    for f in files:
+        if f == current_filename:
+            break
+        if f.endswith("kwestie.txt"):
+            last_kwestie = f
+            
+    if last_kwestie:
+        base = os.path.splitext(last_kwestie)[0]
+        parts = base.split('_', 1)
+        slug = parts[1] if len(parts) > 1 else parts[0]
+        if slug.endswith("-kwestie"):
+            slug = slug[:-8]
+        return dutch_ordinal_to_int(slug.replace('-', ' '))
     return None
 
 def process_file(file_path):
@@ -103,6 +113,9 @@ def process_file(file_path):
         
     if not lines:
         return
+
+    q_num = get_question_number(file_path)
+    q_str = str(q_num) if q_num else "x"
 
     article_num = None
     new_content = []
@@ -130,13 +143,13 @@ def process_file(file_path):
             # --- State 0: Header/Title ---
             if state == 0:
                 # Check for ARTIKEL header (e.g. "Ie ARTIKEL.")
-                match = re.match(r"^([IVX]+)e?\s+ARTIKEL", line, re.IGNORECASE)
+                match = re.match(r"^#*\s*([IVX]+)(e|.|er|°)?\s+ARTIKEL", line, re.IGNORECASE)
                 if match:
                     article_num = roman_to_int(match.group(1))
                     continue # Skip this line
                 
                 # Check for Objections start to transition state
-                if re.match(r"^(BEDENKINGEN|Men beweert)", line, re.IGNORECASE):
+                if re.match(r"^\**(BEDENKINGEN|Men beweert)", line, re.IGNORECASE):
                     state = 1
                     # Fall through to process this line in state 1
                 else:
@@ -151,7 +164,7 @@ def process_file(file_path):
                     # Fall through to process this line in state 2
                 else:
                     # Check for trigger words to remove (BEDENKINGEN)
-                    trigger_match = re.match(r"^(BEDENKINGEN)[\.\s—]*", line, re.IGNORECASE)
+                    trigger_match = re.match(r"^\**(BEDENKINGEN)[\.\*\s—]*", line, re.IGNORECASE)
                     if trigger_match:
                         line = line[trigger_match.end():].strip()
                     
@@ -162,7 +175,7 @@ def process_file(file_path):
                     num_match = re.match(r"^(\d+)\.\s*", line)
                     if num_match:
                         line = line[num_match.end():].strip()
-                        new_content.append(f"{article_num}.arg")
+                        new_content.append(f"{BOOK}.{q_str}.{article_num}.arg")
                         new_content.append(line)
                         first_arg_started = True
                     else:
@@ -170,7 +183,7 @@ def process_file(file_path):
                         # If it's the first objection (and unnumbered), emit tag.
                         # Otherwise it's a continuation of the previous objection.
                         if not first_arg_started:
-                            new_content.append(f"{article_num}.arg")
+                            new_content.append(f"{BOOK}.{q_str}.{article_num}.arg")
                             new_content.append(line)
                             first_arg_started = True
                         else:
@@ -180,13 +193,13 @@ def process_file(file_path):
             # --- State 2: Sed Contra ---
             if state == 2:
                 # Check for transition to Body
-                if re.match(r"^LEERSTELLING", line, re.IGNORECASE):
+                if re.match(r"^\**LEERSTELLING", line, re.IGNORECASE):
                     state = 3
                     # Fall through to process this line in state 3
                 else:
                     # This is the SC line (starts with Daartegenover)
                     # Prompt says: "Before the sed contra paragraph, add a line..."
-                    new_content.append(f"{article_num}.sc")
+                    new_content.append(f"{BOOK}.{q_str}.{article_num}.sc")
                     new_content.append(line)
                     # SC is usually one paragraph. If there are more lines before LEERSTELLING, 
                     # they are part of SC. We stay in state 2.
@@ -195,15 +208,15 @@ def process_file(file_path):
             # --- State 3: Body ---
             if state == 3:
                 # Check for transition to Answers
-                if re.match(r"^ANTWOORD OP DE BEDENKINGEN", line, re.IGNORECASE):
+                if re.search(r"(^\**ANTW..RD OP DE BEDENKINGEN|antwoord op de bedenkingen)", line, re.IGNORECASE):
                     state = 4
                     # Fall through to process this line in state 4
                 else:
                     # Handle Body line
-                    trigger_match = re.match(r"^LEERSTELLING[\.\s—]*", line, re.IGNORECASE)
+                    trigger_match = re.match(r"^\**LEERSTELLING[\.\*\s—]*", line, re.IGNORECASE)
                     if trigger_match:
                         line = line[trigger_match.end():].strip()
-                        new_content.append(f"{article_num}.co")
+                        new_content.append(f"{BOOK}.{q_str}.{article_num}.co")
                         if line:
                             new_content.append(line)
                     else:
@@ -214,7 +227,7 @@ def process_file(file_path):
             # --- State 4: Answers ---
             if state == 4:
                 # Remove trigger if present
-                trigger_match = re.match(r"^ANTWOORD OP DE BEDENKINGEN[\.\s—]*", line, re.IGNORECASE)
+                trigger_match = re.match(r"^\**ANTW..RD OP DE BEDENKINGEN[\.\*\s—]*", line, re.IGNORECASE)
                 if trigger_match:
                     line = line[trigger_match.end():].strip()
                 
@@ -225,13 +238,13 @@ def process_file(file_path):
                 num_match = re.match(r"^(\d+)\.\s*", line)
                 if num_match:
                     line = line[num_match.end():].strip()
-                    new_content.append(f"{article_num}.ad")
+                    new_content.append(f"{BOOK}.{q_str}.{article_num}.ad")
                     new_content.append(line)
                     first_ad_started = True
                 else:
                     # Unnumbered line.
                     if not first_ad_started:
-                        new_content.append(f"{article_num}.ad")
+                        new_content.append(f"{BOOK}.{q_str}.{article_num}.ad")
                         new_content.append(line)
                         first_ad_started = True
                     else:
@@ -249,14 +262,12 @@ def process_file(file_path):
     if not os.path.exists(annotated_dir):
         os.makedirs(annotated_dir)
 
-    q_num = get_question_number(split_dir)
-    
     if q_num and article_num:
         # Format: 1.{question}.{article}.txt
-        output_filename = f"1.{q_num}.{article_num}.txt"
+        output_filename = f"{BOOK}.{q_num}.{article_num}.txt"
     elif article_num:
         # Fallback if question number not found
-        output_filename = f"1.x.{article_num}.txt"
+        output_filename = f"{BOOK}.x.{article_num}.txt"
     else:
         # Fallback if article number not found (shouldn't happen if file is valid)
         output_filename = os.path.basename(file_path)

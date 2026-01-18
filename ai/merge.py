@@ -2,6 +2,7 @@
 
 import glob
 import os
+import re
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
 docs_dir = os.path.join(script_dir, "../docs/bronbestanden")
@@ -45,7 +46,8 @@ for parent_dir, file_list in files_by_dir.items():
             last_paragraph = merged_paragraphs[-1]
             
             # If it doesn't end with a '.', '?' or '!', merge with the first paragraph of the current file
-            if not last_paragraph.endswith((".", "?", "!")):
+            # Exception: lines ending with e.g. '(33.' should be merged.
+            if not last_paragraph.endswith((".", "?", "!")) or re.search(r"\(\d+\.$", last_paragraph):
                 first_paragraph_current = paragraphs[0]
                 # Merge on a single line (join with space)
                 merged_paragraphs[-1] = last_paragraph + " " + first_paragraph_current
