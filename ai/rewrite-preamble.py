@@ -143,7 +143,7 @@ def process_file(file_path):
     if not os.path.exists(annotated_dir):
         os.makedirs(annotated_dir)
 
-    output_filename = f"{BOOK}.{kwestie_number}.pr.txt" if kwestie_number is not None else os.path.basename(file_path)
+    output_filename = f"{BOOK}.{kwestie_number}.-0-pr.txt" if kwestie_number is not None else os.path.basename(file_path)
     output_path = os.path.join(annotated_dir, output_filename)
 
     with open(output_path, 'w', encoding='utf-8') as f:

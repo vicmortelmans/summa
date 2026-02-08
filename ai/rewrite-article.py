@@ -195,7 +195,7 @@ def process_file(file_path):
                         write_current_section()
                         line = line[num_match.end():].strip()
                         arg_num = int(num_match.group(1))
-                        current_filename = f"{BOOK}.{q_str}.{article_num}.arg.{arg_num}.txt"
+                        current_filename = f"{BOOK}.{q_str}.{article_num}.-1-arg.{arg_num}.txt"
                         #current_lines = [f"{BOOK}.{q_str}.{article_num}.arg", line]
                         current_lines.append(line)
                         first_arg_started = True
@@ -206,7 +206,7 @@ def process_file(file_path):
                         if not first_arg_started:
                             write_current_section()
                             arg_num = 1
-                            current_filename = f"{BOOK}.{q_str}.{article_num}.arg.{arg_num}.txt"
+                            current_filename = f"{BOOK}.{q_str}.{article_num}.-1-arg.{arg_num}.txt"
                             #current_lines = [f"{BOOK}.{q_str}.{article_num}.arg", line]
                             current_lines.append(line)
                             first_arg_started = True
@@ -223,7 +223,7 @@ def process_file(file_path):
                     # Fall through to process this line in state 3
                 else:
                     if current_filename is None:
-                        current_filename = f"{BOOK}.{q_str}.{article_num}.sc.txt"
+                        current_filename = f"{BOOK}.{q_str}.{article_num}.-2-sc.txt"
                         #current_lines = [f"{BOOK}.{q_str}.{article_num}.sc", line]
                         current_lines.append(line)
                     else:
@@ -242,13 +242,13 @@ def process_file(file_path):
                     trigger_match = re.match(r"^\**LEERSTELLING[\.\*\s—]*", line, re.IGNORECASE)
                     if trigger_match:
                         line = line[trigger_match.end():].strip()
-                        current_filename = f"{BOOK}.{q_str}.{article_num}.co.txt"
+                        current_filename = f"{BOOK}.{q_str}.{article_num}.-3-co.txt"
                         #current_lines = [f"{BOOK}.{q_str}.{article_num}.co"]
                         if line:
                             current_lines.append(line)
                     else:
                         if current_filename is None:
-                            current_filename = f"{BOOK}.{q_str}.{article_num}.co.txt"
+                            current_filename = f"{BOOK}.{q_str}.{article_num}.-3-co.txt"
                             #current_lines = [f"{BOOK}.{q_str}.{article_num}.co", line]
                             current_lines.append(line)
                         else:
@@ -271,7 +271,7 @@ def process_file(file_path):
                     write_current_section()
                     line = line[num_match.end():].strip()
                     ad_num = int(num_match.group(1))
-                    current_filename = f"{BOOK}.{q_str}.{article_num}.ad.{ad_num}.txt"
+                    current_filename = f"{BOOK}.{q_str}.{article_num}.-4-ad.{ad_num}.txt"
                     #current_lines = [f"{BOOK}.{q_str}.{article_num}.ad", line]
                     current_lines.append(line)
                     first_ad_started = True
@@ -280,7 +280,7 @@ def process_file(file_path):
                     if not first_ad_started:
                         write_current_section()
                         ad_num = 1
-                        current_filename = f"{BOOK}.{q_str}.{article_num}.ad.{ad_num}.txt"
+                        current_filename = f"{BOOK}.{q_str}.{article_num}.-4-ad.{ad_num}.txt"
                         #current_lines = [f"{BOOK}.{q_str}.{article_num}.ad", line]
                         current_lines.append(line)
                         first_ad_started = True
