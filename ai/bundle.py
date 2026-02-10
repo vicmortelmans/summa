@@ -10,6 +10,9 @@ def process_filename(filename):
     # Remove file extension
     name = os.path.splitext(filename)[0]
     
+    # Remove prefix "outputN_"
+    name = re.sub(r'^output\d+_', '', name)
+    
     # Remove number between dashes (e.g. -4- in 1.107.1.-4-ad)
     name = re.sub(r'-\d+-', '', name)
     
