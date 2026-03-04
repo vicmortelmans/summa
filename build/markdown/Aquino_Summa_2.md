@@ -21,7 +21,7 @@ Dit boek is een gedeeltelijke heruitgave van de Nederlandse vertaling van de Sum
 
 A.M.D.G.
 
-06/01/2026
+04/03/2026
 
 # Proœmium {.unlisted .unnumbered}
 
