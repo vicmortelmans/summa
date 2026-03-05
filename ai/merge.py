@@ -8,7 +8,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 docs_dir = os.path.join(script_dir, "../docs/bronbestanden")
 
 # Find all files matching the pattern
-pattern = os.path.join(docs_dir, "*", "*.nl.txt")
+pattern = os.path.join(docs_dir, "Aquino_Summa_22", "*.nl.txt")
 files = glob.glob(pattern)
 
 # Group files by parent directory
@@ -60,6 +60,9 @@ for parent_dir, file_list in files_by_dir.items():
     dir_name = os.path.basename(parent_dir)
     output_filename = f"{dir_name}.txt"
     output_path = os.path.join(parent_dir, "merged", output_filename)
+    
+    # Ensure the output directory exists
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
     
     print(f"Writing merged file: {output_path}")
     with open(output_path, "w", encoding="utf-8") as f:

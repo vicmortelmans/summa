@@ -10,7 +10,7 @@ load_dotenv(os.path.join(script_dir, "api_key"))  # contains MISTRAL_API_KEY
 
 with Mistral(api_key=os.getenv("MISTRAL_API_KEY", "")) as mistral:
     docs_dir = os.path.join(script_dir, "../docs/bronbestanden")
-    pdf_files = glob.glob(os.path.join(docs_dir, "*", "*.pdf"))
+    pdf_files = glob.glob(os.path.join(docs_dir, "Aquino_Summa_22", "*.pdf"))
 
     for file_path in pdf_files:
         # break if the output file already exists
