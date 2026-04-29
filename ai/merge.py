@@ -44,11 +44,12 @@ for parent_dir, file_list in files_by_dir.items():
         else:
             # Check the final paragraph of the accumulated text
             last_paragraph = merged_paragraphs[-1]
+            first_paragraph_current = paragraphs[0]
             
             # If it doesn't end with a '.', '?' or '!', merge with the first paragraph of the current file
             # Exception: lines ending with e.g. '(33.' should be merged.
-            if not last_paragraph.endswith((".", "?", "!")) or re.search(r"\(\d+\.$", last_paragraph):
-                first_paragraph_current = paragraphs[0]
+            # New Exception: If the first paragraph starts with '#', do not merge.
+            if (not last_paragraph.endswith((".", "?", "!")) or re.search(r"\(\d+\.$", last_paragraph)) and not first_paragraph_current.startswith("#"):
                 # Merge on a single line (join with space)
                 merged_paragraphs[-1] = last_paragraph + " " + first_paragraph_current
                 # Add the remaining paragraphs from the current file

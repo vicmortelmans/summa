@@ -1,4 +1,4 @@
-# Reads text files from ../docs/bronbestanden/*/merged/*.txt and writes split text to ../docs/bronbestanden/*/split/*.txt
+# Reads text files from ../docs/bronbestanden/*/regex/*.txt and writes split text to ../docs/bronbestanden/*/split/*.txt
 
 import glob
 import os
@@ -11,14 +11,14 @@ def slugify(text):
     # Remove non-alphanumeric characters and replace with hyphens
     return re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')
 
-# Find all merged files matching "../docs/bronbestanden/*/merged/*.txt"
-pattern = os.path.join(docs_dir, "*", "merged", "*.txt")
+# Find all merged files matching "../docs/bronbestanden/*/regex/*.txt"
+pattern = os.path.join(docs_dir, "*", "regex", "*.txt")
 files = glob.glob(pattern)
 
 for file_path in files:
     print(f"Processing: {file_path}")
     
-    # Determine split directory: sibling of 'merged'
+    # Determine split directory: sibling of 'regex'
     merged_dir = os.path.dirname(file_path)
     parent_dir = os.path.dirname(merged_dir)
     split_dir = os.path.join(parent_dir, "split")
