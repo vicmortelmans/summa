@@ -21,6 +21,13 @@ def main():
         (r'Gansch', 'Gans'),
         (r'zoo ', 'zo '),
         (r'Zoo ', 'Zo '),
+        (r'teeken', 'teken'),
+        (r'zooals', 'zoals'),
+        (r'Zooals', 'Zoals'),
+        (r'zoover', 'zover'),
+        (r'roovi', 'rovi'),
+        (r'eeren', 'eren'),
+        (r'eenig', 'enig'),
     ]
 
     for file_path in files:
