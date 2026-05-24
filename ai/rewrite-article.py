@@ -173,7 +173,7 @@ def process_file(file_path):
             # --- State 1: Objections ---
             if state == 1:
                 # Check for transition to SC
-                if re.match(r"^Daartegenover", line, re.IGNORECASE):
+                if re.match(r"^Daartegen", line, re.IGNORECASE):  # misprint "Daartegen"
                     write_current_section()
                     state = 2
                     # Fall through to process this line in state 2
@@ -217,7 +217,7 @@ def process_file(file_path):
             # --- State 2: Sed Contra ---
             if state == 2:
                 # Check for transition to Body
-                if re.match(r"^\**LEERSTELLING", line, re.IGNORECASE):
+                if re.match(r"^\**LEER?STELLING", line, re.IGNORECASE):  # misprint "LEESTELLING"
                     write_current_section()
                     state = 3
                     # Fall through to process this line in state 3
@@ -290,6 +290,9 @@ def process_file(file_path):
 
     except StopIteration:
         pass
+
+    if 1 <= state <= 3:
+        print(f"Warning: Article in {file_path} ended in state {state}")
 
     write_current_section()
 
