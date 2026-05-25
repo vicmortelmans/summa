@@ -10,7 +10,7 @@ load_dotenv(os.path.join(script_dir, "api_key"))  # contains MISTRAL_API_KEY
 
 with Mistral(api_key=os.getenv("MISTRAL_API_KEY", "")) as mistral:
     docs_dir = os.path.join(script_dir, "../docs/bronbestanden")
-    pdf_files = glob.glob(os.path.join(docs_dir, "Aquino_Summa_22", "*.pdf"))
+    pdf_files = glob.glob(os.path.join(docs_dir, "Aquino_Summa_15", "*.pdf"))
 
     for file_path in pdf_files:
         # break if the output file already exists
@@ -37,5 +37,9 @@ with Mistral(api_key=os.getenv("MISTRAL_API_KEY", "")) as mistral:
         })
 
         # Save to a text file with the same name as the pdf
-        with open(output_file_path, "w") as out_file:
-            out_file.write(res.pages[0].markdown)
+        try:
+            with open(output_file_path, "w") as out_file:
+                out_file.write(res.pages[0].markdown)
+        except PermissionError:
+            print(f"Warning: Skipping {output_file_path} due to PermissionError (read-only or insufficient permissions).")
+            continue

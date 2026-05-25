@@ -4,7 +4,23 @@ import glob
 import os
 import re
 
-BOOK = "1"  # Assuming we are only dealing with BOOK for KWESTIE files
+BOOK_LOOKUP = {
+    "Aquino_Summa_01": "1",
+    "Aquino_Summa_02": "1",
+    "Aquino_Summa_05": "1",
+    "Aquino_Summa_10": "2",
+    "Aquino_Summa_11": "2",
+    "Aquino_Summa_12": "3",
+    "Aquino_Summa_13": "3",
+    "Aquino_Summa_14": "3",
+    "Aquino_Summa_15": "3",
+    "Aquino_Summa_16": "3",
+    "Aquino_Summa_20": "4",
+    "Aquino_Summa_21a": "4",
+    "Aquino_Summa_21b": "4",
+    "Aquino_Summa_22": "4",
+    "Aquino_Summa_23": "4",
+}
 
 def roman_to_int(s):
     """
@@ -114,14 +130,17 @@ def process_file(file_path):
     if not lines:
         return
 
+    split_dir = os.path.dirname(file_path)
+    parent_dir = os.path.dirname(split_dir)
+    parent_name = os.path.basename(parent_dir)
+    book = BOOK_LOOKUP.get(parent_name, "1")
+
     q_num = get_question_number(file_path)
     q_str = str(q_num) if q_num else "x"
 
     article_num = None
     
     # Output directory setup
-    split_dir = os.path.dirname(file_path)
-    parent_dir = os.path.dirname(split_dir)
     annotated_dir = os.path.join(parent_dir, "annotated")
     
     if not os.path.exists(annotated_dir):
@@ -173,10 +192,15 @@ def process_file(file_path):
             # --- State 1: Objections ---
             if state == 1:
                 # Check for transition to SC
-                if re.match(r"^Daartegen", line, re.IGNORECASE):  # misprint "Daartegen"
+                if re.match(r"^(Daartegen|Maar daar ?tegen)", line, re.IGNORECASE):  # misprint "Daartegen", mostly "Daartegenover"
                     write_current_section()
                     state = 2
                     # Fall through to process this line in state 2
+                elif re.match(r"^\**LEER?STELLING", line, re.IGNORECASE):
+                    # Sometimes state 2 is missing, jump straight to state 3
+                    write_current_section()
+                    state = 3
+                    # Fall through to process this line in state 3
                 else:
                     # Check for trigger words to remove (BEDENKINGEN)
                     trigger_match = re.match(r"^\**(BEDENKINGEN)[\.\*\s—]*", line, re.IGNORECASE)
@@ -195,7 +219,7 @@ def process_file(file_path):
                         write_current_section()
                         line = line[num_match.end():].strip()
                         arg_num = int(num_match.group(1))
-                        current_filename = f"{BOOK}.{q_str}.{article_num}.-1-arg.{arg_num}.txt"
+                        current_filename = f"{book}.{q_str}.{article_num}.-1-arg.{arg_num}.txt"
                         #current_lines = [f"{BOOK}.{q_str}.{article_num}.arg", line]
                         current_lines.append(line)
                         first_arg_started = True
@@ -206,7 +230,7 @@ def process_file(file_path):
                         if not first_arg_started:
                             write_current_section()
                             arg_num = 1
-                            current_filename = f"{BOOK}.{q_str}.{article_num}.-1-arg.{arg_num}.txt"
+                            current_filename = f"{book}.{q_str}.{article_num}.-1-arg.{arg_num}.txt"
                             #current_lines = [f"{BOOK}.{q_str}.{article_num}.arg", line]
                             current_lines.append(line)
                             first_arg_started = True
@@ -223,7 +247,7 @@ def process_file(file_path):
                     # Fall through to process this line in state 3
                 else:
                     if current_filename is None:
-                        current_filename = f"{BOOK}.{q_str}.{article_num}.-2-sc.txt"
+                        current_filename = f"{book}.{q_str}.{article_num}.-2-sc.txt"
                         #current_lines = [f"{BOOK}.{q_str}.{article_num}.sc", line]
                         current_lines.append(line)
                     else:
@@ -233,7 +257,7 @@ def process_file(file_path):
             # --- State 3: Body ---
             if state == 3:
                 # Check for transition to Answers
-                if re.search(r"(^\**ANTW..RD OP DE BEDENKINGEN|antwoord op de bedenkingen)", line, re.IGNORECASE):
+                if re.search(r"(^\**ANTW..RD (.P DE|EN) BEN?DENKINGEN|antwoord op de bedenkingen)", line, re.IGNORECASE):  # misprint "BENDENKINGEN" and "CP DE"
                     write_current_section()
                     state = 4
                     # Fall through to process this line in state 4
@@ -242,13 +266,13 @@ def process_file(file_path):
                     trigger_match = re.match(r"^\**LEERSTELLING[\.\*\s—]*", line, re.IGNORECASE)
                     if trigger_match:
                         line = line[trigger_match.end():].strip()
-                        current_filename = f"{BOOK}.{q_str}.{article_num}.-3-co.txt"
+                        current_filename = f"{book}.{q_str}.{article_num}.-3-co.txt"
                         #current_lines = [f"{BOOK}.{q_str}.{article_num}.co"]
                         if line:
                             current_lines.append(line)
                     else:
                         if current_filename is None:
-                            current_filename = f"{BOOK}.{q_str}.{article_num}.-3-co.txt"
+                            current_filename = f"{book}.{q_str}.{article_num}.-3-co.txt"
                             #current_lines = [f"{BOOK}.{q_str}.{article_num}.co", line]
                             current_lines.append(line)
                         else:
@@ -258,7 +282,7 @@ def process_file(file_path):
             # --- State 4: Answers ---
             if state == 4:
                 # Remove trigger if present
-                trigger_match = re.match(r"^\**ANTW..RD OP DE BEDENKINGEN[\.\*\s—]*", line, re.IGNORECASE)
+                trigger_match = re.match(r"^\**ANTW..RD (.P DE|EN) BEN?DENKINGEN[\.\*\s—]*", line, re.IGNORECASE)
                 if trigger_match:
                     line = line[trigger_match.end():].strip()
                 
@@ -271,7 +295,7 @@ def process_file(file_path):
                     write_current_section()
                     line = line[num_match.end():].strip()
                     ad_num = int(num_match.group(1))
-                    current_filename = f"{BOOK}.{q_str}.{article_num}.-4-ad.{ad_num}.txt"
+                    current_filename = f"{book}.{q_str}.{article_num}.-4-ad.{ad_num}.txt"
                     #current_lines = [f"{BOOK}.{q_str}.{article_num}.ad", line]
                     current_lines.append(line)
                     first_ad_started = True
@@ -280,7 +304,7 @@ def process_file(file_path):
                     if not first_ad_started:
                         write_current_section()
                         ad_num = 1
-                        current_filename = f"{BOOK}.{q_str}.{article_num}.-4-ad.{ad_num}.txt"
+                        current_filename = f"{book}.{q_str}.{article_num}.-4-ad.{ad_num}.txt"
                         #current_lines = [f"{BOOK}.{q_str}.{article_num}.ad", line]
                         current_lines.append(line)
                         first_ad_started = True

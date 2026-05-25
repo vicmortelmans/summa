@@ -9,7 +9,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 docs_dir = os.path.join(script_dir, "../docs/bronbestanden")
 
 # Iterate all txt-files matching "../docs/bronbestanden/*/*.txt"
-txt_files = glob.glob(os.path.join(docs_dir, "Aquino_Summa_22", "*.txt"))
+txt_files = glob.glob(os.path.join(docs_dir, "Aquino_Summa_15", "*.txt"))
 
 for file_path in txt_files:
     # Skip output files if they happen to be in the list
@@ -65,5 +65,9 @@ for file_path in txt_files:
             dutch_paragraphs.append(p)
 
     output_path = file_path[:-4] + ".nl.txt"
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write("\n\n".join(dutch_paragraphs))
+    try:
+        with open(output_path, "w", encoding="utf-8") as f:
+            f.write("\n\n".join(dutch_paragraphs))
+    except PermissionError:
+        print(f"Warning: Skipping {output_path} due to PermissionError (read-only or insufficient permissions).")
+        continue

@@ -4,7 +4,23 @@ import glob
 import os
 import re
 
-BOOK = "1"  # Assuming we are only dealing with BOOK for KWESTIE files
+BOOK_LOOKUP = {
+    "Aquino_Summa_01": "1",
+    "Aquino_Summa_02": "1",
+    "Aquino_Summa_05": "1",
+    "Aquino_Summa_10": "2",
+    "Aquino_Summa_11": "2",
+    "Aquino_Summa_12": "3",
+    "Aquino_Summa_13": "3",
+    "Aquino_Summa_14": "3",
+    "Aquino_Summa_15": "3",
+    "Aquino_Summa_16": "3",
+    "Aquino_Summa_20": "4",
+    "Aquino_Summa_21a": "4",
+    "Aquino_Summa_21b": "4",
+    "Aquino_Summa_22": "4",
+    "Aquino_Summa_23": "4",
+}
 
 def dutch_ordinal_to_int(text):
     """
@@ -77,6 +93,11 @@ def process_file(file_path):
     if not lines:
         return
 
+    split_dir = os.path.dirname(file_path)
+    parent_dir = os.path.dirname(split_dir)
+    parent_name = os.path.basename(parent_dir)
+    book = BOOK_LOOKUP.get(parent_name, "1")
+
     new_content = []
     iterator = iter(lines)
     kwestie_found = False
@@ -136,14 +157,12 @@ def process_file(file_path):
         new_content.append(line.rstrip())
 
     # Determine output path
-    split_dir = os.path.dirname(file_path)
-    parent_dir = os.path.dirname(split_dir)
     annotated_dir = os.path.join(parent_dir, "annotated")
     
     if not os.path.exists(annotated_dir):
         os.makedirs(annotated_dir)
 
-    output_filename = f"{BOOK}.{kwestie_number}.-0-pr.txt" if kwestie_number is not None else os.path.basename(file_path)
+    output_filename = f"{book}.{kwestie_number}.-0-pr.txt" if kwestie_number is not None else os.path.basename(file_path)
     output_path = os.path.join(annotated_dir, output_filename)
 
     with open(output_path, 'w', encoding='utf-8') as f:
