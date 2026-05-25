@@ -1,3 +1,23 @@
+3.47.pr
+(Zestien Artikelen.)
+Na de behandeling der goddelijke deugden, volgt die der kardinale deugden. En dan dient allereerst gesproken te worden over de deugd van verstandigheid; ten eerste, over de verstandigheid op zichzelf; ten tweede, over de verdeling der verstandigheid in soorten en onderdelen; ten derde, over de gave van de H. Geest, die met haar verwant is; ten vierde, over de ondeugden, die er tegenover staan; ten vijfde, over de geboden, omtrent deze deugd gegeven.
+Omtrent het eerste punt worden de zestien volgende vragen gesteld:
+1. Is de verstandigheid een deugd van het verstand of van de wil?
+2. Als zij een deugd van het verstand is, is ze dat dan alleen van het praktische, of ook van het beschouwende verstand?
+3. Richt zij zich in haar kennen op de afzonderlijke dingen?
+4. Is zij een deugd?
+5. Is zij een deugd van de andere onderscheiden?
+6. Stelt zij het doel vast voor de zedelijke deugden?
+7. Bepaalt zij voor de zedelijke deugden de juiste middenweg?
+8. Is het haar wezenlijke taak te bevelen?
+9. Behoort bezorgdheid tot de verstandigheid?
+10. Strekt de verstandigheid zich ook uit tot het bestuur van een gemeenschap?
+11. Is de verstandigheid, die gericht is op het eigen goed, gelijksoortig met die, welke gericht is op het goed van de gemeenschap?
+12. Wordt de verstandigheid gevonden bij de bestuurders alleen of ook bij de onderdanen?
+13. Kan zij aanwezig zijn bij slechte mensen?
+14. Is zij het bezit van alle goeden?
+15. Is zij ons van nature eigen?
+16. Kan zij verloren gaan door vergeten?
 3.47.1.arg
 Men beweert, dat de verstandigheid niet in het ken- maar in het streefvermogen is. — 1. Augustinus zegt immers: « De verstandigheid is de liefde, die met schranderheid datgene uitkiest, waardoor ze bevorderd wordt boven datgene waardoor ze belemmerd wordt. » De liefde nu zetelt niet in het ken- maar in het streefvermogen. Derhalve berust ook de verstandigheid in het streefvermogen.
 3.47.1.arg
@@ -261,31 +281,43 @@ Iedere gemoedsbeweging behoort onder het streefvermogen, daar dit het bewegend b
 Volgens de Wijsgeer moet men de zekerheid niet in alles op dezelfde wijze zoeken, maar bij iedere onderwerp op de daaraan eigen manier. Het onderwerp der verstandigheid zijn de op zichzelf staande gevallen, waarin iedere menselijke handeling gesteld wordt. En hierin kan de zekerheid niet zodanig zijn, dat alle bezorgdheid wordt weggenomen.
 3.47.9.ad
 De grootmoedige is zorgeloos en zonder onrust, niet, omdat hij over niets bezorgd is, maar omdat hij niet overmatig bezorgd is over vele dingen. Hij vertrouwt, wanneer hij kan vertrouwen en maakt zich daarover niet bezorgd. Overmatige vrees en wantrouwen veroorzaken overmatige bezorgdheid, omdat de vrees bedachtzame mensen kweekt, naar vroeger bleek (I. II. 44° Kw. 2° Art.).
-3.48.None.arg
+3.48.pr
+Vervolgens moeten de onderdelen der verstandigheid bestudeerd worden. (Vgl. 47° Kw. Inl.). Men kan hierover vier vragen stellen: ten eerste, welke zijn de onderdelen der verstandigheid; ten tweede, welke zijn haar integrerende delen; ten derde, welke zijn haar soorten; ten vierde, welke zijn de bijkomstige delen.
+3.48.1.arg
 Men beweert, dat men bij de verstandigheid redelijkerwijze niet kan spreken van onderdelen. — 1. Tullius immers geeft drie onderdelen, nl. de ervaring, het inzicht (het gemak in het overzien van een toestand), en de voorzienigheid (de bedrevenheid in het treffen van voorzieningen). — Macrobius heeft er echter, in navolging van de opvatting van Plotinus, zes, en wel de redeneerkracht (het gemak in het beredeneren van een daad), het inzicht, de omzichtigheid (in het beschouwen der omstandigheden), de vooruitziendheid, de ontvankelijkheid (voor raad en ervaring van anderen), en de behoedzaamheid (tegenover gevaren). — Aristoteles zegt op zijn beurt, dat tot de verstandigheid behoren het beleid (bedrevenheid in het beraadslagen), de synesis (het gemak van een oordeel te treffen in gewone omstandigheden), en de gnome (het gemak om in buitengewone omstandigheden een oordeel te treffen). Ook maakt hij bij de verstandigheid nog melding van de scherpzinnigheid (in het treffen van het juiste doel), de vindingrijkheid (in het treffen van het juiste middel tot het doel), het gevoel (omtrent de stand van zaken), en het inzicht. — Een ander Grieks wijsgeer (Andronicus) zegt, dat er tien bij de verstandigheid behoren, en wel: beleid, vindingrijkheid, vooruitziendheid, regeerkunde, krijgskunde, staatkunde, huishoudkunde, redeneerkunde, welsprekendheid en physica. Dus blijkt, dat de ene opsomming te veel, de andere te weinig geeft.
-3.48.None.arg
+3.48.1.arg
 Maakt men onderscheid, dan staat de verstandigheid tegenover de wetenschap. Maar de staatkunde, huishoudkunde, redeneerkunde, welsprekendheid en fysica zijn wetenschappen. Dus behoren ze niet als onderdelen bij de verstandigheid.
-3.48.None.arg
+3.48.1.arg
 Een deel strekt zich nooit verder uit dan zijn geheel. Nu behoren de ervaring (die steunt op het geheugen), of het inzicht, de redeneerkracht, het vermoeden, en de ontvankelijkheid niet alleen tot de verstandigheid, maar tot alle kenvaardigheden. Daarom moet men ze niet uitsluitend maken tot onderdelen van de verstandigheid.
-3.48.None.arg
+3.48.1.arg
 Tot de verschillende handelingen van het praktische verstand behoren niet alleen: beraadslagen en oordelen en bevelen, maar ook het aanwenden van de lagere vermogens op de daad, zoals werd uiteengezet in I. II. 16e Kw. 1e Art. Evenals dus het beleid gerekend wordt onder de verstandigheid als behorende bij het beraadslagen, en de synesis en de gnome als behorende tot het oordelen, zo moet men ook iets aanwijzen, wat behoort bij het aanwenden der lagere vermogens.
-3.48.None.arg
+3.48.1.arg
 De zorgzaamheid behoort tot de verstandigheid, zoals vroeger gezegd is (in de vorige Kw. 9e Art.). Dus moet men ook de zorgzaamheid opnemen onder de onderdelen der verstandigheid.
-3.48.None.co
+3.48.1.co
 Het woord onderdeel kan in een drievoudige zin worden opgevat. Men kan spreken van onontbeerlijke (integrerende) onderdelen, zoals de muren, het dak en het fundament onderdelen zijn van een huis. Men kan ook spreken van ondergeschikte (subjectieve) onderdelen, zoals het rund en de leeuw ondergeschikte soorten zijn van het dierenrijk. Tenslotte kan men ook spreken van bijkomstige onderdelen, zoals het plantaardige en dierlijke onderdelen zijn van de ziel.
 Men kan derhalve drie soorten van onderdelen aanwijzen bij een deugd. Eerstens: in den zin van onontbeerlijke (integrerende) onderdelen, en dat zijn die vaardigheden, waarvan de medewerking noodzakelijk vereist wordt om een daad volgens die deugd volmaakt te doen zijn. In deze betekenis kunnen acht van boven genoemde vaardigheden als onderdelen der verstandigheid beschouwd worden, nl. de zes van Macrobius met als zevende de ervaring, die Tullius vermeldt, en tenslotte de scherpzinnigheid of vindingrijkheid, die Aristoteles opnoemt in het citaat van de eerste bedenking. Want het gevoelen kan bij de verstandigheid ook inzicht genoemd worden, daar de Wijsgeer zegt: « Omtrent deze dingen moet men een juist gevoelen hebben, wat gelijk staat met inzicht ». — Van deze acht behoren er vijf tot de verstandigheid, voorzover zij in het kenvermogen zetelt, nl. ervaring, redeneerkracht, inzicht, ontvankelijkheid en vindingrijkheid; de drie anderen behoren tot de verstandigheid, voorzover zij bevelen geeft en aldus de kennis toepast op de handeling, nl. vooruitziendheid, omzichtigheid en behoedzaamheid. De reden van dit onderscheid wordt duidelijk uit de drievoudige wijze, waarop men de kennis moet beschouwen. En wel vooreerst de kennis zelf; betreft deze voorbije dingen, dan spreekt men van ervaring; is zij van het tegenwoordige, hetzij van het wisselvallige, hetzij van het noodzakelijke, dan wordt ze inzicht of verstandigheid genoemd. Vervolgens kan men zien naar de wijze, waarop de kennis verkregen wordt, wat kan gebeuren door onderricht, en hiertoe behoort ontvankelijkheid, of door eigen vinding, en hiertoe behoort de vindingrijkheid, die hetzelfde is als scherpzinnigheid in het vormen van 'n gissing; een onderdeel hiervan is weer de vernuftigheid in het snelle gissen van het juiste middel tot het doel. Tenslotte moet men zien naar het gebruik van de verkregen kennis, nl. in zover men uit de verkregen kennis voortredeneert om andere dingen te kennen of te beoordelen, en hiertoe behoort de redeneerkracht. Om echter een goed bevel te kunnen geven, moet de rede over drie dingen beschikken: ten eerste, dat ze een middel vindt, dat goed is aangepast aan een bepaald doel, en dit behoort tot de vooruitziendheid; ten tweede, dat ze de omstandigheden van een zaak in oogen houdt, en dat behoort bij de omzichtigheid; ten derde, dat ze de hindernissen vermijdt, en dit behoort bij de behoedzaamheid.
 Ten tweede: kan men spreken van de ondergeschikte delen van een deugd, en zo heten haar verschillende soorten. En in deze zin zijn de onderdelen van de verstandigheid, voor zover men haar neemt in den strikten zin: de persoonlijke verstandigheid, waarmee iemand zichzelf regeert, en de verstandigheid, waarmee iemand een groep regeert. Deze verschillen naar soort, zoals gezegd werd in de 47e Kw. het 11e Art. De verstandigheid, waarmee een groep geregeerd wordt, kan men op haar beurt weer verdelen in verschillende soorten naar de onderscheiden groepen, die geregeerd moeten worden. Zo wordt er een groep bijeen gebracht voor een speciale onderneming, b.v. een leger om te strijden: deze wordt geregeerd met de militaire verstandigheid. Een andere groep wordt verenigd ter verzorging van alle levensbehoeften, zoals de groep, die bijeen is in een familie of een huis, en deze wordt bestuurd met de huishoudelijke verstandigheid. Zo gaat het ook met de mensenmassa van een stad of een rijk: hierbij spreekt men, voor zover het den bestuurder betreft, van regeeringsbeleid; bij de onderdanen spreekt men zonder meer van politieke verstandigheid. — Wil men echter de verstandigheid opvatten in breederen zin, als ook insluitende de beschouwende wetenschap, zoals reeds eerder gezegd werd (vorige Kw. 2e Art. 2e Antw.), dan kan men ook de redeneerkunde, de welsprekendheid en de physica als haar onderdelen beschouwen, en wel naar de drie werkmethoden bij de wetenschap. De eerste hiervan is: wetenschap veroorzaken door bewijsvoering, en dit behoort tot de physica, wanneer men daaronder alle bewijsvoerende wetenschappen verstaat. Een andere werkmethode is: uit waarschijnlijkheden een mening afleiden, en dit behoort tot de redeneerkunde. De derde methode is: uit enige veronderstellingen een vermoeden vestigen of minstens enigszins aannemelijk maken, en dit behoort tot de welsprekendheid. Men kan deze drie ook enigszins onder de verstandigheid in strikten zin rangschikken, daar deze soms van noodzakelijke dingen uit redeneert, soms van waarschijnlijke, soms van veronderstellingen.
 Ten derde: kan men spreken van de bijkomstige (potentiële) onderdelen van een deugd, waaronder men die bijhorende deugden verstaat, die gericht zijn op secundaire daden, en welke niet de waarde van de hoofddeugd bezitten. En in deze betekenis kan men als onderdelen van de verstandigheid opnoemen: het beleid, dat gaat over het beraadslagen; de synesis, die zich richt op het oordeel volgens de gewone regelen; en de gnome, die zich richt op het oordeel in buitengewone gevallen, wanneer men van de algemene wet moet afwijken. De verstandigheid echter regelt de voornaamste daad, die is: bevelen.
-3.48.None.ad
+3.48.1.ad
 Deze opsommingen verschillen slechts in zoverre zij verschillende soorten van onderdelen opnoemen, of in zoverre in de onderdelen van de ene opsomming meerdere van een andere opsomming besloten zijn. Zo bedoelt Tullius met de vooruitziendheid ook de behoedzaamheid en omzichtigheid, en met het inzicht ook de redeneerkracht, de ontvankelijkheid en de vindingrijkheid.
-3.48.None.ad
+3.48.1.ad
 Huishoudkunde en staatkunde worden hier niet genomen in de betekenis van wetenschappen, maar als soorten van de verstandigheid. Het antwoord betreffende de drie andere is duidelijk uit de Leerstelling.
-3.48.None.ad
+3.48.1.ad
 Al de vaardigheden worden beschouwd als onderdelen van de verstandigheid, niet als behorend tot haar wezen, maar omdat ze zich uitstrekken tot iets, dat bij de verstandigheid behoort.
-3.48.None.ad
+3.48.1.ad
 Een goed bevel en een goed gebruik der lagere vermogens staan altijd met elkaar in verband, want de gehoorzaamheid der lagere krachten volgt op het bevel van de rede, en dit is eigenlijk de aanwending der lagere vermogens.
-3.48.None.ad
+3.48.1.ad
 Zorgzaamheid behoort tot het wezen der vooruitziendheid.
+3.49.pr
+Nu zullen de integrerende delen der verstandigheid afzonderlijk bestudeerd worden (Vgl. 48e Kw. Inl.). Hieromtrent worden acht vragen gesteld:
+1. Over de ervaring.
+2. Over het inzicht.
+3. Over de ontvankelijkheid.
+4. Over de vindingrijkheid.
+5. Over de redeneerkracht.
+6. Over de vooruitziendheid.
+7. Over de omzichtigheid.
+8. Over de behoedzaamheid.
 3.49.1.arg
 Men beweert, dat de ervaring geen deel is der verstandigheid. — 1. De ervaring zetelt, zoals de wijsgeer aantoont, in het zinnelijke deel van de ziel. De verstandigheid is echter een verstandsdeugd, zoals blijkt uit de Ethica. Dus is de ervaring geen onderdeel van de verstandigheid.
 3.49.1.arg
@@ -415,6 +447,14 @@ Bij zedelijk goede handelingen is geen behoedzaamheid nodig: men behoeft zich im
 Het nastreven van een bepaald goed behoort tot dezelfde orde als het zich behoeden tegen het tegenovergestelde kwaad. Maar het vermijden van andere hindernissen, die tot een andere orde behoren, vereist een afzonderlijke deugd. En daarom wordt de behoedzaamheid gerekend als een afzonderlijk onderdeel van de verstandigheid naast de vooruitziendheid.
 3.49.8.ad
 Van het kwaad, dat de mens te vermijden heeft, kan een gedeelte teruggebracht worden tot enkele meest voorkomende gevallen, die het verstand dus kan overzien. Het is nu de taak der behoedzaamheid, dit kwaad ofwel geheel te vermijden, of te zorgen, dat het zo min mogelijk schade berokkent. Dan is er nog kwaad, dat slechts zelden en als bij toeval voorkomt. Hierin heerscht een oneindige verscheidenheid, zodat het verstand hiervan geen overzicht kan hebben en de mens er zich niet voldoende tegen kan beveiligen. Toch kan de mens zich met behulp van de verstandigheid zo wapenen tegen al de sprongen van het noodlot, dat hij er minder door benadeeld wordt.
+3.50.pr
+Thans moet er gesproken worden over de subjectieve delen of de soorten van de verstandigheid.
+Over die soort verstandigheid, waarmee ieder zichzelf behoort te regeren, is reeds gesproken (47° Kw. 10° en 11° Art.). Er blijft dus over te handelen over die soort verstandigheid waarmee een groep van mensen bestuurd wordt.
+Hieromtrent kan men vier vragen stellen:
+1. Kan men spreken van een verstandigheid van de staatsman of regeerder?
+2. Kan men spreken van een verstandigheid van de staatsburger?
+3. Kan men spreken van een verstandigheid in familiezaken?
+4. Kan men spreken van een verstandigheid in krijgszaken?
 3.50.1.arg
 Men beweert, dat men de verstandigheid van de staatsman niet mag rekenen onder de soorten van de verstandigheid. — 1. De verstandigheid van de staatsman heeft tot taak de gerechtigheid te bewaren. In de Ethica wordt gezegd dat «een regeerder de bewaker is van het recht». Dus behoort de verstandigheid van de staatsman eerder tot de rechtvaardigheid.
 3.50.1.arg
@@ -482,6 +522,12 @@ Het krijgsbeleid is een kunst voor zover het naar bepaalde regels het juiste geb
 Andere zaken in het staatsleven zijn meer gericht op het voordeel van iedere afzonderlijk. Het krijgsbeleid is veeleer gericht op de bescherming van het algemeen welzijn.
 3.50.4.ad
 De uitvoering der handelingen bij het krijgsbeleid behoort tot de sterkte, maar de leiding behoort tot de verstandigheid, vooral wat betreft de aanvoerder van het leger.
+3.51.pr
+Vervolgens dient het onderzoek te gaan over de deugden, die aan de verstandigheid verbonden zijn als haar potentiële of bijkomstige onderdelen. Hieromtrent zijn vier vragen te stellen:
+1. Is de welberadenheid een deugd?
+2. Is zij een afzonderlijke deugd, onderscheiden van de verstandigheid?
+3. Is de « synesis » een afzonderlijke deugd?
+4. Is de « gnomè » een afzonderlijke deugd?
 3.51.1.arg
 Men beweert dat de welberadenheid geen deugd is. — 1. Augustinus zegt dat « niemand de deugd verkeerd gebruikt ». Maar de welberadenheid — de deugd die ons goed doet beraadslagen — gebruiken sommigen verkeerd, ofwel door sluwe beraadslagingen uit te denken om slechte doeleinden na te streven, ofwel door zonden te ordenen tot het bereiken van een goed doel, b.v. wanneer iemand steelt om een aalmoes te kunnen geven. Dus is de welberadenheid geen deugd.
 3.51.1.arg
@@ -546,6 +592,12 @@ De synesis verstrekt een juist oordeel in gewone gevallen. Maar buiten die gewon
 Een oordeel moet gevormd worden volgens het eigene van de zaak; het onderzoek echter gaat ook uit van dingen die gemeen zijn aan verscheidene dingen. Vandaar dat ook in de speculatieve orde, de dialectiek, die een onderzoekende wetenschap is, uitgaat van gemeenschappelijke dingen; de bewijzende wetenschap echter, die oordelend is, gaat uit van het eigene. Daarom is de welberadenheid, waaraan het onderzoek toevertrouwd wordt, één en dezelfde voor alle gevallen, maar de « synesis », waaraan het oordeel toekomt, niet. Het bevel van zijn kant, is altijd gericht op één ding, namelijk op het goede; en daarom is ook de verstandigheid één en dezelfde.
 3.51.4.ad
 De beschouwing van al datgene wat van de gewone wetten afwijkt, komt uitsluitend toe aan de Goddelijke Voorzienigheid. Onder de mensen echter kan de meer helderziende over veel van die dingen door zijn natuurlijke rede oordelen. En daarop slaat de « gnomè », die een zekere scherpte van oordeel inhoudt.
+3.52.pr
+Vervolgens dient de gave van raad behandeld te worden, die verband houdt met de verstandigheid. Omtrent dit onderwerp kan men vier vragen stellen:
+1. Behoort de gave van raad tot de zeven gaven van de H. Geest?
+2. Houdt de gave van raad verband met de verstandigheid?
+3. Blijft zij bestaan bij de uitverkorenen in het hemelse?
+4. Duidt de vijfde der acht zaligsprekingen: « Zalig de barmhartigen », op de gave van raad?
 3.52.1.arg
 Men beweert, dat de gave van raad niet behoort tot de zeven gaven van de H. Geest. — 1. De gaven van de H. Geest worden gegeven tot hulp van de deugden, zoals Gregorius ons leert. Maar om goed te kunnen beraadslagen behoeft men slechts de deugd van verstandigheid, of nauwkeuriger gezegd, die van welberadenheid te bezitten, zoals reeds uit het behandelde gebleken is (47° Kw. 1° en 2° Art. en 51° Kw. 1° en 2° Art.). Daarom behoort de gave van raad niet onder de gaven van de H. Geest.
 3.52.1.arg
@@ -609,6 +661,17 @@ Ook al geeft de gave van raad leiding bij alle deugdoefeningen, zij bestuurt toc
 De raad als gave van de H. Geest bestuurt ons in alle handelingen welke leiden tot het einddoel dat het eeuwige leven is, of deze kan noodzakelijk zijn ter zaligheid of niet. De werken van barmhartigheid zijn daarbij niet alle noodzakelijk ter zaligheid.
 3.52.4.ad
 Het woord « vrucht », betekent iets dat aan het einde staat. Bij handelingen is het einde niet te vinden in de kennis die de handeling richt, doch in de werking waardoor het doel bereikt wordt. En daarom vindt men onder de vruchten van de H. Geest geen enkele, die verband houdt met de kennis die de handeling bestuurt. Wel houden ze alle verband met de handelingen zelf, die door de praktische kennis bestuurd worden. Hieronder vallen de goedheid en welwillendheid, die verband houden met de barmhartigheid.
+3.53.pr
+Thans moeten de ondeugden behandeld worden, die tegengesteld zijn aan de verstandigheid. Augustinus zegt dat « alle ondeugden niet steeds op rechtstreekse wijze tegengesteld zijn aan de deugd, zoals b.v. de vermetelheid rechtstreeks tegengesteld is aan de verstandigheid; maar dat er ook zijn, die enigszins verwant schijnen aan de deugd, niet door een ware, maar door een bedrieglijke overeenkomst, zoals b.v. de sluwheid verwant schijnt met de verstandigheid ».
+Eerstens moeten dus de ondeugden behandeld worden die lijnrecht staan tegenover de verstandigheid, diegene namelijk die voortkomen uit een ontbreken van de verstandigheid of uit de afwezigheid van sommige elementen die tot de verstandigheid behoren. Vervolgens zal het onderzoek moeten gaan, omtrent die ondeugden welke een valschen schijn van verstandigheid hebben aangenomen, en die voortkomen uit een misbruik van datgene wat tot de verstandigheid vereist is.
+Wat de eerste soort ondeugden betreft, moet vooreerst gehandeld worden over de onverstandigheid, en vervolgens, — daar de zorgzaamheid tot de verstandigheid behoort — over de zorgeloosheid, die tegengesteld is aan de zorgzaamheid.
+Omtrent de onverstandigheid kan men de volgende zes vragen stellen:
+1. Is de onverstandigheid zonde?
+2. Is zij een afzonderlijke zonde?
+3. Over de overhaasting.
+4. Over de onnadenkendheid.
+5. Over de onstandvastigheid.
+6. Over de oorsprong van deze ondeugden.
 3.53.1.arg
 Men beweert, dat de onverstandigheid geen zonde is. — 1. Zonde is iets vrijwilligs, zoals Augustinus zegt. Onverstandigheid echter is niet iets vrijwilligs, daar niemand onverstandig wil zijn. Dus is de onverstandigheid geen zonde.
 3.53.1.arg
@@ -707,6 +770,11 @@ Nijd en toorn veroorzaken onstandvastigheid door het verstand naar andere dingen
 Ook dubbelhartigheid is enigszins het gevolg van onkuischheid evenals onstandvastigheid, voor zover namelijk dubbelhartigheid een wankelbaarheid van ziel naar verschillende uitersten inhoudt. Vandaar zegt Terentius dat « in de liefde oorlog heerscht, en dan weer vrede en hinderlagen ».
 3.53.6.ad
 De vleesgelijke ondeugden vernietigen des te meer het oordeel van het verstand, naarmate zij iemand verder wegvoeren van het verstand.
+3.54.pr
+Dit onderzoek loopt over de nalatigheid, waaromtrent drie vragen gesteld worden:
+1. Is de nalatigheid een afzonderlijke zonde?
+2. Tegenover welke deugd staat zij?
+3. Is nalatigheid doodzonde?
 3.54.1.arg
 Men beweert, dat de nalatigheid geen afzonderlijke zonde is. — 1. Nalatigheid staat tegenover oplettendheid. Oplettendheid nu wordt vereist bij elke deugd. Dus is nalatigheid geen afzonderlijke zonde.
 3.54.1.arg
@@ -760,6 +828,16 @@ Een verminderde liefde tot God kan op twee wijzen verstaan worden. Eerstens door
 « Een kleine offerande met nederig gemoed en zuivere liefde opgedragen », zoals in dezelfde tekst gezegd wordt, zuivert niet alleen van de dagelijkse, maar ook van de doodszonde.
 3.54.3.ad
 Wanneer de nalatigheid bestaat in het achterwege laten van het noodzakelijke ter zaligheid, treedt de verschillende soort van zonde duidelijker aan het licht dan bij de zonden die bestaan in inwendige daden, welke meer verborgen blijven. Daarom werden voor deze laatste geen bepaalde offers in de wet voorgeschreven. Want het opdragen van offers betekende een zekere openbare bekentenis der zonden, die niet behoefde te geschieden voor verborgen misslagen.
+3.55.pr
+Vervolgens moeten wij de ondeugden tegen de verstandigheid beschouwen die een zekere gelijkenis met haar vertonen. Hieromtrent worden acht vragen gesteld:
+1. Is de verstandigheid des vleesches zonde?
+2. Is zij doodzonde?
+3. Is de sluwheid een afzonderlijke zonde?
+4. Over de listigheid.
+5. Over de bedrieglijkheid.
+6. Over de bezorgdheid voor tijdelijke zaken.
+7. Over de bezorgdheid omtrent de toekomst.
+8. Over de oorsprong dezer ondeugden.
 3.55.1.arg
 Men beweert, dat de verstandigheid des vleesches geen zonde is. — 1. De verstandigheid is van edeler gehalte dan de andere zedelijke deugden, omdat zij alle anderen leiding geeft. Geen enkel soort van gerechtigheid of matigheid is zonde. Dus kan geen enkele vorm van verstandigheid zonde zijn.
 3.55.1.arg
@@ -888,6 +966,10 @@ Door de heftigheid der genieting en der begeerlijkheid, overweldigt de onkuischh
 Een overval plegen vanuit een hinderlaag is een teken van een zekere kleinmoedigheid; de grootmoedige immers wil in alles openlijk handelen, zoals de Wijsgeer zegt. Daar nu de hoogmoed een zekere gelijkenis heeft of althans voorwendt, met de grootmoedigheid, volgt dat voornoemde ondeugden niet uit de hoogmoed ontstaan, daar zij met bedrog en list handelen. Eerder zijn zij verwant met de gierigheid, die alleen het nut zoekt, en aan grootheid weinig waarde hecht.
 3.55.8.ad
 Toorn heeft iets plotselings in zich, waarom hij overhaast en zonder overleg handelt. Voornoemde ondeugden gebruiken wél overleg, zij het dan op verkeerde wijze. Wanneer moordenaars hinderlagen leggen, komt dit niet voort uit toorn, maar uit haat. Want de toornige mens wil openlijk schade toebrengen, zoals de Wijsgeer zegt.
+3.56.pr
+Hierna moet gehandeld worden over de geboden, in zaken van verstandigheid. Daaromtrent worden twee vragen gesteld:
+1. Over de geboden betreffende de verstandigheid zelf.
+2. Over de geboden betreffende de tegengestelde ondeugden.
 3.56.1.arg
 Men beweert, dat een van de tien geboden Gods de verstandigheid moest opleggen. — 1. De voornaamste geboden moeten uitgevaardigd worden omtrent de voornaamste deugd. Maar de voornaamste geboden uit de wet zijn de tien geboden. Daar nu de verstandigheid de voornaamste is onder de zedelijke deugden, lijkt het wel dat zij door een van de tien geboden moest opgelegd worden.
 3.56.1.arg

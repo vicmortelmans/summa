@@ -1,3 +1,11 @@
+3.57.pr
+Na te hebben gehandeld over de verstandigheid, moeten wij gaan spreken over de rechtvaardigheid. Daaromtrent doet een viervoudige beschouwing zich voor. Een eerste, over de rechtvaardigheid; een tweede, over de delen ervan; een derde, over de gave die ermee overeenstemt; een vierde, over de voorschriften aangaande de rechtvaardigheid.
+Met betrekking tot de rechtvaardigheid moeten vier punten in acht genomen worden: ten eerste, het recht; ten tweede, de rechtvaardigheid zelf; ten derde, de onrechtvaardigheid; ten vierde, het oordeel.
+Omtrent het eerste punt worden vier vragen gesteld:
+1. Is recht het voorwerp van de rechtvaardigheid?
+2. Is het passend het recht te verdelen in natuurrecht en positief recht?
+3. Is volkenrecht hetzelfde als natuurrecht?
+4. Moet men nog een speciaal onderscheid maken tussen het recht van de heer en dat van de vader?
 3.57.1.arg
 Men beweert, dat recht niet het voorwerp van de rechtvaardigheid is. — 1. Immers, de Jurisconsult Celsus zegt dat « recht de kunst van het goede en het billijke is ». Kunst nu is niet het voorwerp van de rechtvaardigheid, maar op zichzelf een verstandsdeugd. Derhalve is recht niet het voorwerp van de rechtvaardigheid.
 3.57.1.arg
@@ -67,6 +75,20 @@ De zoon, als zoon, is iets van de vader, en de slaaf, als slaaf, iets van de mee
 Maar voor zover beiden iets van de ander zijn, in zover ontbreekt hier het volmaakte begrip van recht of rechtvaardigheid.
 3.57.4.ad
 Alle andere verschillen tussen personen die in de staat zijn, staan in onmiddellijk verband met de staatsgemeenschap en met haar opperhoofd. En daarom bestaat er met betrekking tot hen recht overeenkomstig het volmaakte begrip van rechtvaardigheid. Toch wordt echter dit recht onderscheiden overeenkomstig de onderscheiden ambten. En daarom spreekt men van soldatenrecht, magistratenrecht en priesterrecht, niet omdat zij afwijken van het recht zonder meer, zoals het vaderrecht en het meesterrecht, maar omdat men aan iedere persoon, overeenkomstig zijn eigen ambt, iets bijzonders verschuldigd is.
+3.58.pr
+Hierna moeten wij handelen over de rechtvaardigheid. Hieromtrent stellen wij twaalf vragen.
+1. Wat is de rechtvaardigheid?
+2. Sluit rechtvaardigheid altijd verhouding tot een ander in?
+3. Is zij een deugd?
+4. Is zij in de wil als in haar subject?
+5. Is zij een algemene deugd?
+6. Valt zij, als algemene deugd, naar de wezenheid samen met alle andere deugden?
+7. Is er een bijzondere rechtvaardigheid?
+8. Heeft de bijzondere rechtvaardigheid een eigen gebied?
+9. Heeft zij betrekking op de hartstochten, of alleen op de handelingen?
+10. Is het midden van de rechtvaardigheid een zaakmidden?
+11. Is het de daad van de rechtvaardigheid, ieder het zijne te geven?
+12. Is de rechtvaardigheid de voornaamste onder de zedelijke deugden?
 3.58.1.arg
 Men beweert dat de rechtvaardigheid door de rechtsgeleerden niet op passende wijze bepaald wordt als « de standvastige en blijvende wil om aan iedereen zijn recht te geven ». — 1. Immers, volgens de Wijsgeer, is de rechtvaardigheid « een hebbelijkheid waardoor sommigen rechtvaardige daden kunnen stellen, en waardoor zij rechtvaardig handelen en willen ». Maar de wil duidt op het vermogen, of ook wel op de daad. Derhalve is het niet passend te zeggen: de rechtvaardigheid is de wil.
 3.58.1.arg
@@ -292,6 +314,12 @@ Niet iedere zedelijke deugd heeft lust en droefheid tot eigen gebied: de sterkte
 De uitwendige handelingen houden als 't ware het midden tussen de uiterlijke dingen, die tot haar gebied behoren, en de innerlijke hartstochten, die haar beginsel zijn. Nu kan in een van beiden een tekort zijn, zonder daarom ook voor te komen in het andere; zo b.v. wanneer iemand aan een ander een ding ontvreemdt, niet uit begeerte om het te bezitten, maar met de wil om te benadeelen; of andersom, wanneer iemand iets van een ander begeert, zonder het daarom te willen ontvreemden. De regeling dus van de handelingen, die een uiterlijke zaak tot term hebben, komt aan de rechtvaardigheid toe; maar de regeling van diezelfde handelingen, voor zover zij ontstaan door de hartstochten, behoort tot de andere zedelijke deugden, die betrekking hebben op de hartstochten. Vandaar belet de rechtvaardigheid het ontvreemden van eens anders eigendom, in zover dit ingaat tegen de gelijkheid, die moet bestaan met betrekking tot de uiterlijke dingen; de vrijgevigheid daarentegen voor zover het voortkomt uit een ongeregelde begeerte naar rijkdom. Daar nu de uiterlijke handelingen niet soortelijk bepaald worden door de inwendige hartstochten, maar veeleer door de uiterlijke dingen, als door hun object, daarom behoren de uiterlijke handelingen uiteraard eerder tot het gebied van de rechtvaardigheid dan van de andere zedelijke deugden.
 3.58.9.ad
 Het algemeen welzijn is het doel van de enkelingen, die in gemeenschap leven, zoals het goed van het geheel doel is van elk der delen. Het goed echter van een enkeling is voor de andere enkeling geen doel. En daarom kan veeleer de wettelijke rechtvaardigheid, die op het algemeen welzijn gericht is, zich uitstrekken tot de innerlijke hartstochten, waardoor de mens enigszins in zichzelf bepaald is, dan de bijzondere rechtvaardigheid, die gericht is op het goed van een andere enkeling: hoewel de wettelijke rechtvaardigheid zich in de eerste plaats uitstrekt tot de andere deugden, met betrekking tot hun uiterlijke handelingen, voor zover nl. « de wet aan de sterke, aan de matige en de zachtmoedige de passende werken oplegt », zoals in de Ethica gezegd wordt.
+3.59.pr
+Hierna moeten wij de onrechtvaardigheid gaan beschouwen. Hieromtrent worden vier vragen gesteld:
+1. Is de onrechtvaardigheid een speciale ondeugd?
+2. Is het eigen aan de onrechtvaardige, onrechtvaardige daden te stellen?
+3. Kan iemand willens onrecht lijden?
+4. Is onrechtvaardigheid uiteraard doodzonde?
 3.59.1.arg
 Men beweert, dat de onrechtvaardigheid geen speciale ondeugd is. — 1. In de Eerste Brief van Joannes (3. 4) wordt gezegd: « Alle zonde is ongerechtigheid ». Welnu, ongerechtigheid lijkt wel hetzelfde als onrechtvaardigheid: want rechtvaardigheid is een zekere gelijkheid, en daarom lijkt de onrechtvaardigheid hetzelfde te zijn als ongelijkheid of ongerechtigheid. Derhalve is de onrechtvaardigheid geen speciale ondeugd.
 3.59.1.arg
@@ -359,6 +387,14 @@ Het woord van de Wijsgeer moet worden begrepen als doelend op de onwetendheid va
 Hij, die in kleine zaken onrecht pleegt, wijkt van de volkomen natuur der onrechtvaardigheid af, voor zover zulke daad kan doorgaan als niet helemaal strijdig met de wil van hem, die dat onrecht lijdt, b.v. als iemand aan een ander een appel ontsteelt of iets van dien aard, waarvan het waarschijnlijk is dat hij niet benadeeld wordt, noch dat het hem zal mishagen.
 3.59.4.ad
 De zonden, die met andere deugden strijdig zijn, benadelen niet altijd een ander, maar sluiten een ongeregeldheid in met betrekking tot de menselijke hartstochten. Daarom gaat dit argument niet op.
+3.60.pr
+Vervolgens moet worden gehandeld over het oordeel. Hieromtrent worden zes vragen gesteld:
+1. Is oordelen een daad van rechtvaardigheid?
+2. Is oordelen gewettigd?
+3. Moet men oordelen op verdenkingen?
+4. Moeten twijfelgevallen langs de beste kant worden uitgelegd?
+5. Moet het oordeel altijd uitgesproken worden overeenkomstig de geschreven wetten?
+6. Ontaardt het oordeel door gezagsaanmatiging?
 3.60.1.arg
 Men beweert, dat oordelen geen daad van rechtvaardigheid is. — 1. In de Ethica zegt de Wijsgeer immers: « Ieder oordeelt juist over wat hij kent »; en zo lijkt het oordeel wel tot het kenvermogen te behoren. Het kenvermogen nu wordt vervolmaakt door de verstandigheid. Derhalve valt het oordeel eerder onder de verstandigheid dan onder de rechtvaardigheid, die in de wil is, zoals werd gezegd (58° Kw. 4° Art.).
 3.60.1.arg
@@ -465,6 +501,12 @@ Over Phineës echter moet men zeggen, dat hij handelde door goddelijke ingeving,
 De wereldlijke macht is aan de geestelijke onderworpen zoals de ziel aan het lichaam. En daarom is er geen sprake van aangematigd oordeel wanneer een geestelijke overste zich inmengt in tijdelijke zaken, met betrekking tot die aangelegenheden waarin de wereldlijke macht hem onderworpen is, of die door de wereldlijke macht aan hem overgelaten worden.
 3.60.6.ad
 Kennis en rechtvaardigheid zijn volmaaktheden van de enkeling; en daarom is er, bij gebrek eraan, geen sprake van aangematigd oordeel, zoals bij gebrek aan openbaar gezag waaraan het oordeel zijn dwingende kracht ontleent.
+3.61.pr
+Hierna moeten wij de delen van de rechtvaardigheid gaan beschouwen. Ten eerste moeten wij handelen over de subjectieve delen, de soorten van rechtvaardigheid, nl. de verdeelende rechtvaardigheid en de ruilrechtvaardigheid; ten tweede, over de integrerende delen; ten derde, over de potentiële delen, d. i. over de aanverwante deugden.
+Met betrekking tot het eerste punt doet zich een dubbele beschouwing voor: een eerste, over de delen zelf van de rechtvaardigheid; een tweede, over de tegengestelde ondeugden. En daar de teruggave een daad van de ruilrechtvaardigheid schijnt te zijn, moet onze eerste beschouwing gaan naar het onderscheid tussen ruilrechtvaardigheid en verdeelende rechtvaardigheid; een tweede zal de teruggave tot voorwerp hebben. Omtrent die eerste beschouwing worden vier vragen gesteld: 1. Zijn er twee soorten rechtvaardigheid: de verdeelende en de ruilrechtvaardigheid?
+2. Wordt in beide het midden op dezelfde wijze bepaald?
+3. Hebben zij hetzelfde ofwel een verschillend gebied?
+4. Is naar een van beide soorten het rechtvaardige hetzelfde als het wedervergoldene?
 3.61.1.arg
 Men beweert, dat het niet passend is twee soorten rechtvaardigheid, de verdeelende en de ruilrechtvaardigheid, te onderscheiden. — 1. Wat schadelijk is voor de gemeenschap kan geen soort van rechtvaardigheid genoemd worden, daar de rechtvaardigheid op het algemeen welzijn gericht is. Welnu het verdelen van gemeenschappelijke goederen onder velen, is schadelijk voor het algemeen welzijn van de gemeenschap; ten eerste, omdat daardoor de gemeenschappelijke rijkdom wordt uitgeput, en ten tweede, omdat de zeden van de mensen verderven. Tullius immers zegt: « Hij die ontvangt wordt slechter en altijd meer bereid nog dezelfde gaven te verwachten ». Derhalve valt de goederenverdeling niet onder een van de soorten van rechtvaardigheid.
 3.61.1.arg
@@ -540,6 +582,16 @@ De vorm van het goddelijk oordeel beantwoordt aan het begrip van de ruilrechtvaa
 Wanneer aan iemand, die de gemeenschap dient, iets gegeven werd voor bewezen diensten, zou dit niet tot de verdeelrechtvaardigheid maar tot de ruilrechtvaardigheid behoren. Immers, in de verdeelrechtvaardigheid wordt niet gelet op de gelijkheid tussen dat wat men ontvangt en wat men presteerde, maar op de evenredigheid tussen dat wat men ontvangt en dat wat een ander ontving; en dit met inachtneming van de condities der beide personen.
 3.61.4.ad
 Wanneer een onrechtvaardige daad vrijwillig geschiedt, wordt het onrecht groter, en wordt het als een grotere zaak beschouwd. Dus moet het door een grotere straf vergoed worden, die berekend wordt, niet naar het verschil met betrekking tot ons, maar naar het verschil in de zaak.
+3.62.pr
+Hierna moeten wij de teruggave gaan beschouwen. Daaromtrent worden acht vragen gesteld.
+1. Van welke deugd is zij de daad?
+2. Is het nodig ter zaligheid, dat al het ontvreemde teruggegeven wordt?
+3. Moet men dit vermenigvuldigd teruggeven?
+4. Moet iemand datgene wat hij niet genomen heeft teruggeven?
+5. Moet men aan hem teruggeven, van wie iets werd weggenomen?
+6. Moet hij, die weggenomen heeft, teruggeven?
+7. Of iemand anders?
+8. Moet de teruggave onverwijld geschieden?
 3.62.1.arg
 Men beweert, dat de teruggave niet een daad van de ruilrechtvaardigheid is. — 1. Rechtvaardigheid immers heeft het verschuldigde tot voorwerp. Welnu, evenals men iets kan wegschenken dat men niet verschuldigd is, evenzo kan men ook iets teruggeven. Derhalve is de rechtvaardigheid niet een daad van een deel van de rechtvaardigheid.
 3.62.1.arg
@@ -684,6 +736,13 @@ Hoewel het voorschrift over de verplichting van teruggaaf gebiedend is naar zijn
 Wanneer iemand niet in staat is onmiddellijk restitutie te doen, ontslaat die onmacht zelf hem van de onmiddellijke teruggave: evenals hij helemaal van teruggave ontslagen is, wanneer hij helemaal onmachtig is. Toch moet hij zelf, of door een ander, kwijtschelding of verdaging vragen aan hem aan wie hij verplichting heeft.
 3.62.8.ad
 Daar het verwaarlozen van gelijk welke omstandigheid in strijd is met de deugd, moet zij als bepaald beschouwd worden, en moet die omstandigheid worden in acht genomen. En daar door het verdagen van de teruggave de zonde van onrechtvaardig behouden wordt bedreven, wat met de deugd van rechtvaardigheid in strijd is, is het noodzakelijk dat de tijd bepaald is, zodat de teruggave onmiddellijk moet gebeuren.
+3.63.pr
+Daarna moeten wij handelen over de ondeugden die aan de voornoemde delen van de rechtvaardigheid zijn tegengesteld. En ten eerste, over het aanzien van personen, dat aan de verdeelende rechtvaardigheid tegengesteld is; ten tweede, over de zonden, die strijdig zijn met de ruilrechtvaardigheid.
+Omtrent het eerste stellen wij vier vragen:
+1. Is het aanzien van personen zonde?
+2. Heeft het plaats bij het uitdelen van geestelijke goederen?
+3. Bij eerbetoon?
+4. Bij het oordelvellen?
 3.63.1.arg
 Men beweert, dat het aanzien van personen geen zonde is. — 1. Onder het woord *persoon* wordt de waardigheid van de persoon verstaan. Welnu, het in acht nemen van de waardigheid der personen, valt onder de verdeelende rechtvaardigheid. Derhalve is het aanzien van personen geen zonde.
 3.63.1.arg
@@ -750,6 +809,17 @@ Men kan het oordeel op twee manieren beschouwen. Ten eerste, van de kant van de 
 Wanneer iemand zwaarder wordt gestraft om een beleediging, die hij een waardiger persoon aandeed, is dat geen aanzien van persoon: want het verschil zelf van persoon stelt, wat dit betreft, een zaakverschil daar, zoals gezegd is (58° Kw. 10° Art. 3° Antw.; 61° Kw. 2° Art. 3° Antw.).
 3.63.4.ad
 De mens moet, in het oordeel, de arme tegemoet komen voor zover dat mogelijk is, hoewel zonder schennis van de rechtvaardigheid. Anders gebeurt niet wat in het Boek van de Uittocht (23. 3) wordt gezegd: « Over de arme ook zult gij u niet ontfermen in het gerecht ».
+3.64.pr
+Hierna moeten wij handelen over de ondeugden, die strijdig zijn met de ruilrechtvaardigheid. En eerst moeten wij die zonden beschouwen, die bedreven worden bij onvrijwillige ruilingen. Vervolgens de zonden, die bedreven worden bij vrijwillige ruilingen. Zonden nu bij onvrijwillige ruilingen, worden bedreven doordat aan de naaste tegen zijn wil in, schade wordt toegebracht. Dit nu kan op twee wijzen geschieden: door daden of door woorden. Door daden, wanneer de naaste wordt beleedigd in zijn eigen persoon, of in de persoon van een verwant of in zijn eigen goederen. Hierover moeten wij dus in volgorde handelen. En ten eerste over de doodslag waardoor het meest schade wordt toegebracht aan de naaste.
+Hieromtrent worden acht vragen gesteld:
+1. Is het doden van dieren of planten zonde?
+2. Is het toegelaten zondaars te doden?
+3. Komt dit toe aan een privaat persoon of alleen aan de publieke macht?
+4. Is dit aan een geestelijke toegelaten?
+5. Mag iemand zelfmoord plegen?
+6. Is het toegelaten een rechtvaardig mens te doden?
+7. Is het aan iemand toegelaten, uit zelfverdediging een mens te doden?
+8. Is toevallige doodslag doodzonde?
 3.64.1.arg
 Men beweert, dat het doden van alle levende wezens verboden is. — 1. De Apostel immers zegt in zijn *Brief aan de Romeinen* (13. 2.): «Wie zich verzet tegen de verordening van God, zal zijn veroordeling niet ontlopen». Welnu, door de verordening van de Goddelijke Voorzienigheid worden alle levende wezens in het leven gehouden, naar het woord van het *Boek der Psalmen* (146. 8, 9): «Die het gras op de bergen doet uitspruiten en aan het vee zijn voedsel geeft ». Derhalve schijnt het doden van gelijk welke levende wezens verboden.
 3.64.1.arg
@@ -904,6 +974,13 @@ Lamech legde niet de vereiste zorgzaamheid aan de dag om doodslag te vermijden, 
 Hij die een zwangere vrouw slaat, stelt een ongeoorloofde handeling. En wanneer daaruit de dood van de vrouw of van het levende kind zou volgen, dan ontkomt hij niet aan de misdaad van doodslag, vooral niet wanneer het klaarblijkelijk is, dat uit zulke slagen de dood kan volgen.
 3.64.8.ad
 Volgens de canons wordt straf opgelegd aan hen die door iets ongeoorloofds te doen, of door de nodige voorzorgen te verwaarlozen, toevallig dood zijn.
+3.65.pr
+Hierna moeten wij de andere zonden van onrechtvaardigheid beschouwen, die tegen de persoon worden bedreven.
+Hieromtrent worden vier vragen gesteld:
+1. Over de verminking van ledematen.
+2. Over lichaamskastijding.
+3. Over opsluiting.
+4. Worden deze zonden van onrechtvaardigheid zwaarder, door het feit dat zij bedreven worden tegen een persoon, die met anderen verwant is?
 3.65.1.arg
 Damascenus zegt immers, dat zonde wordt bedreven doordat « men van datgene wat volgens de natuur is afwijkt, naar datgene wat tegen de natuur is ». Welnu, het is volgens de door God ingestelde natuur, dat het lichaam van de mens al zijn ledematen zou bezitten; het is echter tegen de natuur, dat het beroofd wordt van een lidmaat. Dus schijnt het wel altijd zonde te zijn, iemand te verminken in zijn ledematen.
 3.65.1.arg
@@ -968,6 +1045,18 @@ Het onrecht, dat een verwante persoon wordt aangedaan, is minder schadelijk voor
 Het onrecht dat tegenover weduwen en weeskinderen wordt bedreven, wordt groter geacht, én omdat het meer strijdig is met de barmhartigheid, en omdat dezelfde schade, die aan dergelijke personen wordt aangedaan, voor hen zwaarder is, want zij hebben niemand die hen omhoog helpt.
 3.65.4.ad
 Wanneer een echtgenoote vrijwillig toestemt in overspel, wordt de zonde en het onrecht, dat aan die vrouw wordt aangedaan, verminderd: het zou immers erger zijn wanneer de overspelige haar met geweld zou nemen. Toch wordt daardoor het onrecht, dat aan de echtgenoot wordt aangedaan, niet weggenomen: want « de vrouw heeft geen vrije beschikking over haar eigen lichaam, maar de man », zoals in de Eersten Brief aan de Corinthiërs (7. 4) gezegd wordt. Hetzelfde geldt voor al dergelijke gevallen. Over de zonde van overspel, die niet alleen strijdig is met de rechtvaardigheid, maar tevens met de zuiverheid, zal verder worden gehandeld in het traktaat over de Matigheid (154° Kw. 8° Art.).
+3.66.pr
+Hierna moeten wij die zonden van onrechtvaardigheid gaan beschouwen, waardoor nadeel wordt gedaan aan de naaste in zijn goederen, nl. diefstal en roof.
+Hieromtrent worden negen vragen gesteld:
+1. Is het overeenkomstig de natuur van de mens, uitwendige goederen te bezitten?
+2. Is het aan iemand geoorloofd, iets te bezitten als zijn eigen goed?
+3. Is diefstal het bedekte nemen van andermans goed?
+4. Is roof een zonde, die soortelijk van diefstal verschilt?
+5. Is elke diefstal zonde?
+6. Is diefstal doodzonde?
+7. Mag men stelen in nood?
+8. Is elke roof doodzonde?
+9. Is roof zwaardere zonde dan diefstal?
 3.66.1.arg
 Men beweert, dat het niet overeenkomstig de menselijke natuur is, uitwendige goederen te bezitten. — 1. Niemand immers mag zich toeëigenen wat aan God toebehoort. Welnu, de heerschappij over al de schepselen is eigen aan God, naar het woord uit het Boek der Psalmen (23. 1): «Aan de Heer behoort de aarde», enz. Dus is het bezit van goederen niet overeenkomstig de menselijke natuur.
 3.66.1.arg
