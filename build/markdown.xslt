@@ -13,6 +13,7 @@
       <xsl:text>- twocolumn&#10;</xsl:text>
       <xsl:text>geometry: twoside, paperheight=297mm, paperwidth=210mm, top=19.05mm, bottom=19.05mm, left=22.225mm, right=19.05mm&#10;</xsl:text>
       <xsl:text>toc: false&#10;</xsl:text>
+      <xsl:text>mainfont: FreeSerif&#10;</xsl:text>
       <xsl:text>header-includes: |&#10;</xsl:text>
       <xsl:text>    \usepackage{fancyhdr}&#10;</xsl:text>
       <xsl:text>    \pagestyle{fancy}&#10;</xsl:text>

@@ -28,6 +28,7 @@ def main():
         (r'roovi', 'rovi'),
         (r'eeren', 'eren'),
         (r'eenig', 'enig'),
+        (r'ᵉ', '°'),
     ]
 
     for file_path in files:

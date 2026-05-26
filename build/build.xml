@@ -136,6 +136,8 @@ Disallow: /bronbestanden/</echo>
   <delete file="dummy-output.markdown"/>
  </target>
 
+ <!-- the markdown header specifies the pdfengine: xelatex and the mainfont: FreeSerif which is
+      required to render Greek characters that occur in Secunda Secundae -->
  <target name="pdf" depends="markdown">
   <apply executable="pandoc" dest="pdf">
    <srcfile/>
@@ -143,6 +145,7 @@ Disallow: /bronbestanden/</echo>
    <arg line="markdown"/>
    <arg line="-o"/>
    <targetfile/>
+   <arg line="--pdf-engine=xelatex"/>
    <fileset dir="markdown" includes="*.md"/>
    <globmapper from="*.md" to="*.pdf"/>
   </apply>
@@ -155,6 +158,7 @@ Disallow: /bronbestanden/</echo>
    <arg line="markdown"/>
    <arg line="-o"/>
    <targetfile/>
+   <arg line="--pdf-engine=xelatex"/>
    <fileset dir="markdown" includes="*-2-3-4.md"/>
    <globmapper from="*.md" to="*.pdf"/>
   </apply>

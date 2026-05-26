@@ -6,6 +6,7 @@ classoption:
 - twocolumn
 geometry: twoside, paperheight=297mm, paperwidth=210mm, top=19.05mm, bottom=19.05mm, left=22.225mm, right=19.05mm
 toc: false
+mainfont: FreeSerif
 header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}
@@ -21,7 +22,7 @@ Dit boek is een gedeeltelijke heruitgave van de Nederlandse vertaling van de Sum
 
 A.M.D.G.
 
-04/03/2026
+26/05/2026
 
 # Proœmium {.unlisted .unnumbered}
 
