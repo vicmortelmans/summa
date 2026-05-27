@@ -8,7 +8,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 docs_dir = os.path.join(script_dir, "../docs/bronbestanden")
 
 # Find all files matching the pattern
-pattern = os.path.join(docs_dir, "Aquino_Summa_15", "*.nl.txt")
+pattern = os.path.join(docs_dir, "Aquino_Summa_23", "*.nl.txt")
 files = glob.glob(pattern)
 
 # Group files by parent directory

@@ -196,7 +196,7 @@ def process_file(file_path):
                     write_current_section()
                     state = 2
                     # Fall through to process this line in state 2
-                elif re.match(r"^\**LEER?STELLING", line, re.IGNORECASE):
+                elif re.match(r"^\**LEER?STE.LING", line, re.IGNORECASE):
                     # Sometimes state 2 is missing, jump straight to state 3
                     write_current_section()
                     state = 3
@@ -241,7 +241,7 @@ def process_file(file_path):
             # --- State 2: Sed Contra ---
             if state == 2:
                 # Check for transition to Body
-                if re.match(r"^\**LEER?STELLING", line, re.IGNORECASE):  # misprint "LEESTELLING"
+                if re.match(r"^\**LEER?STE.LING", line, re.IGNORECASE):  # misprint "LEESTELLING"
                     write_current_section()
                     state = 3
                     # Fall through to process this line in state 3
@@ -257,13 +257,13 @@ def process_file(file_path):
             # --- State 3: Body ---
             if state == 3:
                 # Check for transition to Answers
-                if re.search(r"(^\**ANTW..RD (.P DE|EN) BEN?DENKINGEN|antwoord op de bedenkingen)", line, re.IGNORECASE):  # misprint "BENDENKINGEN" and "CP DE"
+                if re.search(r"(^\**ANTW?..?RD (.P .E|EN) BEN?DENKINGEN|antwoord op de bedenkingen)", line, re.IGNORECASE):  # misprint "BENDENKINGEN" and "CP DE"
                     write_current_section()
                     state = 4
                     # Fall through to process this line in state 4
                 else:
                     # Handle Body line
-                    trigger_match = re.match(r"^\**LEERSTELLING[\.\*\s—]*", line, re.IGNORECASE)
+                    trigger_match = re.match(r"^\**LEER?STE.LING[\.\*\s—]*", line, re.IGNORECASE)
                     if trigger_match:
                         line = line[trigger_match.end():].strip()
                         current_filename = f"{book}.{q_str}.{article_num}.-3-co.txt"
@@ -282,7 +282,7 @@ def process_file(file_path):
             # --- State 4: Answers ---
             if state == 4:
                 # Remove trigger if present
-                trigger_match = re.match(r"^\**ANTW..RD (.P DE|EN) BEN?DENKINGEN[\.\*\s—]*", line, re.IGNORECASE)
+                trigger_match = re.match(r"^\**ANTW?..?RD (.P .E|EN) BEN?DENKINGEN[\.\*\s—]*", line, re.IGNORECASE)
                 if trigger_match:
                     line = line[trigger_match.end():].strip()
                 

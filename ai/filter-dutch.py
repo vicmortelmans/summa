@@ -9,7 +9,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 docs_dir = os.path.join(script_dir, "../docs/bronbestanden")
 
 # Iterate all txt-files matching "../docs/bronbestanden/*/*.txt"
-txt_files = glob.glob(os.path.join(docs_dir, "Aquino_Summa_15", "*.txt"))
+txt_files = glob.glob(os.path.join(docs_dir, "Aquino_Summa_23", "*.txt"))
 
 for file_path in txt_files:
     # Skip output files if they happen to be in the list
