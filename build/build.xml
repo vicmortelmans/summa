@@ -129,8 +129,8 @@ Disallow: /bronbestanden/</echo>
   <delete file="dummy-output.markdown"/>
  </target>
 
- <target name="markdown-2-3-4" depends="xml_latin_nl">
-  <xslt style="markdown-2-3-4.xslt" in="xml_latin_nl/xml_latin_nl.xml" out="dummy-output.markdown">
+ <target name="markdown-1-2" depends="xml_latin_nl">
+  <xslt style="markdown-1-2.xslt" in="xml_latin_nl/xml_latin_nl.xml" out="dummy-output.markdown">
    <classpath location="${saxon-pe.location.ant}" />
   </xslt>
   <delete file="dummy-output.markdown"/>
@@ -151,7 +151,7 @@ Disallow: /bronbestanden/</echo>
   </apply>
  </target>
   
- <target name="pdf-2-3-4" depends="markdown-2-3-4">
+ <target name="pdf-1-2" depends="markdown-1-2">
   <apply executable="pandoc" dest="pdf">
    <srcfile/>
    <arg line="-f"/>
@@ -159,15 +159,15 @@ Disallow: /bronbestanden/</echo>
    <arg line="-o"/>
    <targetfile/>
    <arg line="--pdf-engine=xelatex"/>
-   <fileset dir="markdown" includes="*-2-3-4.md"/>
+   <fileset dir="markdown" includes="*-1-2.md"/>
    <globmapper from="*.md" to="*.pdf"/>
   </apply>
  </target>
   
- <target name="deploy-pdf" depends="pdf,pdf-2-3-4">
+ <target name="deploy-pdf" depends="pdf,pdf-1-2">
      <copy todir="../docs/pdf">
     <fileset dir="pdf" includes="Aquino_Summa_1.pdf"/>
-    <fileset dir="pdf" includes="Aquino_Summa-2-3-4.pdf"/>
+    <fileset dir="pdf" includes="Aquino_Summa-1-2.pdf"/>
   </copy>
  </target>
 

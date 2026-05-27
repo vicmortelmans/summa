@@ -18,11 +18,11 @@ header-includes: |
 
 # Lectori Salutem {.unlisted .unnumbered}
 
-Dit boek is een gedeeltelijke heruitgave van de Nederlandse vertaling van de Summa Theologiae, die omstreeks 1933 werd gemaakt door een groep Dominicanen. Deze uitgave is een vrijetijdsproject van een klein aantal vrijwilligers. De originele vertaling besloeg niet de ganse Summa en deze heruitgave is ook op haar beurt onvolledig. Deze uitgave voldoet geenszins aan de kwaliteitsvoorwaarden die een lezer normaliter van boekuitgaven mag verwachten en wordt aangeboden aan de kostprijs van het drukwerk. De meest actuele status van de teksten kan worden geraadpleegd op de website https://summa.gelovenleren.net.
+Dit boek is een heruitgave van de Nederlandse vertaling van de Summa Theologiae, die omstreeks 1933 werd gemaakt door een groep Dominicanen. De vertaling besloeg niet de ganse Summa. De helft van deze uitgave werd gecorrigeerd door een klein aantal vrijwilligers en ze werd vervolledigd met behulp van AI. Deze uitgave voldoet geenszins aan de kwaliteitsvoorwaarden die een lezer normaliter van boekuitgaven mag verwachten en wordt aangeboden aan de kostprijs van het drukwerk. Een volledig overzicht van de teksten kan worden geraadpleegd op de website https://summa.gelovenleren.net.
 
 A.M.D.G.
 
-26/05/2026
+27/05/2026
 
 # Proœmium {.unlisted .unnumbered}
 
