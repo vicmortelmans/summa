@@ -22,6 +22,9 @@
               </xsl:when>
               <xsl:otherwise>
                 <abest/>
+                <xsl:if test="$q">
+                    <xsl:comment>suspicious absence</xsl:comment>
+                </xsl:if>
               </xsl:otherwise>
             </xsl:choose>
           </xsl:when>
@@ -37,6 +40,9 @@
                   </xsl:when>
                   <xsl:otherwise>
                     <abest/>
+                    <xsl:if test="$q">
+                        <xsl:comment>suspicious absence</xsl:comment>
+                    </xsl:if>
                   </xsl:otherwise>
                 </xsl:choose>
               </xsl:when>
@@ -50,6 +56,9 @@
                   </xsl:when>
                   <xsl:otherwise>
                     <abest/>
+                    <xsl:if test="$q">
+                        <xsl:comment>suspicious absence</xsl:comment>
+                    </xsl:if>
                   </xsl:otherwise>
                 </xsl:choose>
               </xsl:otherwise>

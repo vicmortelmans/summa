@@ -182,7 +182,7 @@ def process_file(file_path):
                     continue # Skip this line
                 
                 # Check for Objections start to transition state
-                if re.match(r"^\**(BEDENKINGEN|Men beweert)", line, re.IGNORECASE):
+                if re.match(r"^\**(BEDENKI.GEN|Men beweert)", line, re.IGNORECASE):
                     state = 1
                     # Fall through to process this line in state 1
                 else:
@@ -203,7 +203,7 @@ def process_file(file_path):
                     # Fall through to process this line in state 3
                 else:
                     # Check for trigger words to remove (BEDENKINGEN)
-                    trigger_match = re.match(r"^\**(BEDENKINGEN)[\.\*\s—]*", line, re.IGNORECASE)
+                    trigger_match = re.match(r"^\**(BEDENKI.GEN)[\.\*\s—]*", line, re.IGNORECASE)
                     if trigger_match:
                         line = line[trigger_match.end():].strip()
                     
@@ -325,7 +325,7 @@ def main():
     docs_dir = os.path.join(script_dir, "../docs/bronbestanden")
     
     # Pattern matches the output of split.py for articles
-    pattern = os.path.join(docs_dir, "*", "split", "*artikel.txt")
+    pattern = os.path.join(docs_dir, "Aquino_Summa_22", "split", "*artikel.txt")
     
     files = glob.glob(pattern)
     print(f"Found {len(files)} files to rewrite.")

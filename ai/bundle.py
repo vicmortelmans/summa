@@ -25,7 +25,7 @@ def main():
     # Path pattern to find corrected directories
     script_dir = os.path.dirname(os.path.abspath(__file__))
     docs_dir = os.path.join(script_dir, "../docs/bronbestanden")
-    search_pattern = os.path.join(docs_dir, '*', 'corrected')
+    search_pattern = os.path.join(docs_dir, "Aquino_Summa_20", 'corrected')
     corrected_dirs = glob.glob(search_pattern)
     
     for corrected_dir in corrected_dirs:

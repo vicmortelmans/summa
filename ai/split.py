@@ -12,7 +12,7 @@ def slugify(text):
     return re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')
 
 # Find all merged files matching "../docs/bronbestanden/*/regex/*.txt"
-pattern = os.path.join(docs_dir, "*", "regex", "*.txt")
+pattern = os.path.join(docs_dir, "Aquino_Summa_21a", "regex", "*.txt")
 files = glob.glob(pattern)
 
 for file_path in files:
@@ -38,7 +38,7 @@ for file_path in files:
         if "KWESTIE" in line or "ARTIKEL" in line or (line.startswith("##") and "Artikel" in line):
             # If we have accumulated content, write it to a file
             if current_lines:
-                output_filename = f"{file_counter:02d}_{current_slug}.txt"
+                output_filename = f"{file_counter:03d}_{current_slug}.txt"
                 output_path = os.path.join(split_dir, output_filename)
                 with open(output_path, "w", encoding="utf-8") as out_f:
                     out_f.write("".join(current_lines))
@@ -53,7 +53,7 @@ for file_path in files:
         
     # Write the last section
     if current_lines:
-        output_filename = f"{file_counter:02d}_{current_slug}.txt"
+        output_filename = f"{file_counter:03d}_{current_slug}.txt"
         output_path = os.path.join(split_dir, output_filename)
         with open(output_path, "w", encoding="utf-8") as out_f:
             out_f.write("".join(current_lines))
