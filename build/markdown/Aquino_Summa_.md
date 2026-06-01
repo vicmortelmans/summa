@@ -22,7 +22,7 @@ Dit boek is een heruitgave van de Nederlandse vertaling van de Summa Theologiae,
 
 A.M.D.G.
 
-27/05/2026
+01/06/2026
 
 # Proœmium {.unlisted .unnumbered}
 
