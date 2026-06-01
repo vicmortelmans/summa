@@ -358,7 +358,7 @@
   <type>arg</type>
   <index>1</index>
   <reference>1.103.6.arg</reference>
-  <nl>Men beweert, dat alles onmiddellijk door God bestuurd wordt. Gregorius van Nyssa keurt namelijk de opinie van Plato af, die een drievoudige voorzienigheid aannam: vooreerst de Voorzienigheid van de Eersten God, die zich op de hemelse en alle algemene dingen betrekt; de tweede voorzienigheid is, naar hij zei, van de secundaire godheden, die langs de hemel rondgaan, en betreft het ontstaan en vergaan der dingen; de derde is, volgens zijn zeggen, der demonen, die het terrein der menselijke handelingen bewaken. Het heeft er dus de schijn van, dat alles onmiddellijk door God wordt bestuurd. </nl>
+  <nl>Men beweert, dat alles onmiddellijk door God bestuurd wordt. Gregorius van Nyssa keurt namelijk de opinie van Plato af, die een drievoudige voorzienigheid aannam: vooreerst de Voorzienigheid van de Eerste God, die zich op de hemelse en alle algemene dingen betrekt; de tweede voorzienigheid is, naar hij zei, van de secundaire godheden, die langs de hemel rondgaan, en betreft het ontstaan en vergaan der dingen; de derde is, volgens zijn zeggen, der demonen, die het terrein der menselijke handelingen bewaken. Het heeft er dus de schijn van, dat alles onmiddellijk door God wordt bestuurd. </nl>
   </lemma>
 <lemma>
     <liber>1</liber>
@@ -2226,19 +2226,19 @@
 <lemma>
     <liber>1</liber>
   <quaestio>108</quaestio>
-  <articulus>2</articulus>
+  <articulus>3</articulus>
   <type>arg</type>
   <index>2</index>
-  <reference>1.108.2.arg</reference>
+  <reference>1.108.3.arg</reference>
   <nl>Het is overbodig, dat, wat naar genoegen door &#233;&#233;n kan geschieden, door velen geschiedt. Maar wat bij &#233;&#233;n engelen functie behoort, kan naar genoegen door &#233;&#233;n engel gedaan worden; veel meer dan wat tot de functie der zon behoort, door de zon alleen gebeurt, naar mate de engel volmaakter is dan dit hemellichaam. Als dus, zoals gezegd is (vorig Art.), de koren onderscheiden worden naar de functies, is het overbodig dat er meerdere engelen in &#233;&#233;n koor zijn. </nl>
   </lemma>
 <lemma>
     <liber>1</liber>
   <quaestio>108</quaestio>
-  <articulus>2</articulus>
+  <articulus>3</articulus>
   <type>arg</type>
   <index>3</index>
-  <reference>1.108.2.arg</reference>
+  <reference>1.108.3.arg</reference>
   <nl>Boven is gezegd (1e Bed.), dat alle engelen verschillen. Als er dus meerdere engelen in &#233;&#233;n koor zijn, b.v. drie of vier, zal de laagste van een hoger koor meer overeenkomen met de hoogsten van een lager koor dan met de hoogsten van zijn koor. En zo schijnt hij met m&#233;&#233;r met de een dan met de ander in &#233;&#233;n koor samen te horen. Er zijn dus niet meerdere engelen in &#233;&#233;n koor. </nl>
   </lemma>
 <lemma>
@@ -2617,7 +2617,7 @@
   <type>ad</type>
   <index>3</index>
   <reference>1.108.7.ad</reference>
-  <nl>Ofschoon na de oordeelsdag de mensen niet langer meer tot de zaligheid geleid behoeven te worden, zullen toch degenen, die het heil bereikt hebben, de een of andere verlichting verkrijgen door functies der engelen. Men beweert, dat de mensen niet opgenomen worden in de koren der engelen. &#8212; 1. De menselijke hi&#235;rarchie immers staat onder de laagste der hemelse hi&#235;rarchie&#235;n, zoals de laagste onder de middelste, en de middelste onder de hoogste. Maar de engelen der laagste hi&#235;rarchie worden nooit naar de middelste of de hoogste overgebracht. Dus worden evenmin de mensen overgebracht naar de koren der engelen. </nl>
+  <nl>Ofschoon na de oordeelsdag de mensen niet langer meer tot de zaligheid geleid behoeven te worden, zullen toch degenen, die het heil bereikt hebben, de een of andere verlichting verkrijgen door functies der engelen. </nl>
   </lemma>
 <lemma>
     <liber>1</liber>
@@ -2626,7 +2626,7 @@
   <type>arg</type>
   <index>1</index>
   <reference>1.108.8.arg</reference>
-  <nl>Aan de koren der engelen komen functies toe als beschermen, wonderen doen, duivels bedwingen, e.d., die niet overeen schijnen te stemmen met de (natuur van de) zielen der heiligen. Dus worden deze ook niet overgebracht naar de koren der engelen. </nl>
+  <nl>Men beweert, dat de mensen niet opgenomen worden in de koren der engelen. De menselijke hi&#235;rarchie immers staat onder de laagste der hemelse hi&#235;rarchie&#235;n, zoals de laagste onder de middelste, en de middelste onder de hoogste. Maar de engelen der laagste hi&#235;rarchie worden nooit naar de middelste of de hoogste overgebracht. Dus worden evenmin de mensen overgebracht naar de koren der engelen. </nl>
   </lemma>
 <lemma>
     <liber>1</liber>
@@ -2634,6 +2634,15 @@
   <articulus>8</articulus>
   <type>arg</type>
   <index>2</index>
+  <reference>1.108.8.arg</reference>
+  <nl>Aan de koren der engelen komen functies toe als beschermen, wonderen doen, duivels bedwingen, e.d., die niet overeen schijnen te stemmen met de (natuur van de) zielen der heiligen. Dus worden deze ook niet overgebracht naar de koren der engelen. </nl>
+  </lemma>
+<lemma>
+    <liber>1</liber>
+  <quaestio>108</quaestio>
+  <articulus>8</articulus>
+  <type>arg</type>
+  <index>3</index>
   <reference>1.108.8.arg</reference>
   <nl>Zoals de goede engelen tot het goede opwekken, zo verleiden de duivels tot het kwaad. Maar het is dwaalleer te zeggen, dat de zielen der slechte mensen in duivels veranderd worden: dit toch veroordeelt Chrysostomus. Het schijnt dus dat de zielen der heiligen niet worden overgebracht naar de koren der engelen. </nl>
   </lemma>
