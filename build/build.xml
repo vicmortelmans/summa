@@ -166,8 +166,9 @@ Disallow: /bronbestanden/</echo>
   
  <target name="deploy-pdf" depends="pdf,pdf-1-2">
      <copy todir="../docs/pdf">
-    <fileset dir="pdf" includes="Aquino_Summa_1.pdf"/>
     <fileset dir="pdf" includes="Aquino_Summa-1-2.pdf"/>
+    <fileset dir="pdf" includes="Aquino_Summa_3.pdf"/>
+    <fileset dir="pdf" includes="Aquino_Summa_4.pdf"/>
   </copy>
  </target>
 
