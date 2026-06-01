@@ -37,17 +37,7 @@ How to publish a new chapter:
   a. git commit -am "Added Quaestiones xx to yy"
   b. git push origin master
 7. synchronize the cached index at Alledaags:
-  https://sync-dot-catecheserooster.appspot.com/init?key=summa
-
-Corrections:
-2. '/ den '
-3. '/[Zz]oo '
-4. '/onzen '
-5. '/ezen '
-6. '/[Dd]ien '
-7. '/[Zz]óó
-8. '/welken '
-9. '/zoo,'
+  http://alledaags.gelovenleren.net/init?key=summa
 
 How to fix PDF that doesn't work in mupdf:
 gs -o Aquino_Summa_21a_gs.pdf -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress Aquino_Summa_21a.pdf 
