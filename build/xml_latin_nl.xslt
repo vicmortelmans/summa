@@ -83,6 +83,9 @@
         <xsl:when test="@index='4'">
           <xsl:attribute name="title" select="'Tertia Pars'"/>
         </xsl:when>
+        <xsl:when test="@index='5'">
+          <xsl:attribute name="title" select="'Supplementum'"/>
+        </xsl:when>
         <xsl:otherwise>
           <xsl:attribute name="title" select="'Proœmium'"/>
         </xsl:otherwise>

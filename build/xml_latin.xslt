@@ -20,6 +20,7 @@
           <xsl:when test="$liber='Prima Pars Secundae Partis'">2</xsl:when>
           <xsl:when test="$liber='Secunda Pars Secundae Partis'">3</xsl:when>
           <xsl:when test="$liber='Tertia Pars'">4</xsl:when>
+          <xsl:when test="$liber='Supplementum'">5</xsl:when>
         </xsl:choose>
       </xsl:variable>
       <xsl:variable name="quaestio" select="substring-after(($html//span[@class='a2text'])[1]/text(), 'Quaestio ')"/>
