@@ -112242,6 +112242,80 @@ Dico ergo quod haec propositio, Deus est, quantum in se est, per se nota est, qu
    </lemma>
    <lemma>
       <liber>1</liber>
+      <quaestio>5</quaestio>
+      <articulus>6</articulus>
+      <reference>Ia q. 5 a. 6 arg. 1</reference>
+      <type>arg</type>
+      <index>1</index>
+      <latin>Ad sextum sic proceditur. Videtur quod non convenienter dividatur bonum per honestum, utile, et delectabile. Bonum enim, sicut dicit philosophus in I Ethic., dividitur per decem praedicamenta. Honestum autem, utile, et delectabile inveniri possunt in uno praedicamento. Ergo non convenienter per haec dividitur bonum.</latin>
+   </lemma>
+   <lemma>
+      <liber>1</liber>
+      <quaestio>5</quaestio>
+      <articulus>6</articulus>
+      <reference>Ia q. 5 a. 6 arg. 2</reference>
+      <type>arg</type>
+      <index>2</index>
+      <latin>Praeterea, omnis divisio fit per opposita. Sed haec tria non videntur esse opposita, nam honesta sunt delectabilia, nullumque inhonestum est utile (quod tamen oportet, si divisio fieret per opposita, ut opponerentur honestum et utile), ut etiam dicit Tullius, in libro de officiis. Ergo praedicta divisio non est conveniens.</latin>
+   </lemma>
+   <lemma>
+      <liber>1</liber>
+      <quaestio>5</quaestio>
+      <articulus>6</articulus>
+      <reference>Ia q. 5 a. 6 arg. 3</reference>
+      <type>arg</type>
+      <index>3</index>
+      <latin>Praeterea, ubi unum propter alterum, ibi unum tantum est. Sed utile non est bonum nisi propter delectabile vel honestum. Ergo non debet utile dividi contra delectabile et honestum.</latin>
+   </lemma>
+   <lemma>
+      <liber>1</liber>
+      <quaestio>5</quaestio>
+      <articulus>6</articulus>
+      <reference>Ia q. 5 a. 6 s.c.</reference>
+      <type>sc</type>
+      <index>1</index>
+      <latin>Sed contra est quod Ambrosius, in libro de officiis, utitur ista divisione boni.</latin>
+   </lemma>
+   <lemma>
+      <liber>1</liber>
+      <quaestio>5</quaestio>
+      <articulus>6</articulus>
+      <reference>Ia q. 5 a. 6 co.</reference>
+      <type>co</type>
+      <index>1</index>
+      <latin>Respondeo dicendum quod haec divisio proprie videtur esse boni humani. Si tamen altius et communius rationem boni consideremus, invenitur haec divisio proprie competere bono, secundum quod bonum est.
+Nam bonum est aliquid, inquantum est appetibile, et terminus motus appetitus. Cuius quidem motus terminatio considerari potest ex consideratione motus corporis naturalis. Terminatur autem motus corporis naturalis, simpliciter quidem ad ultimum; secundum quid autem etiam ad medium, per quod itur ad ultimum quod terminat motum, et dicitur aliquis terminus motus, inquantum aliquam partem motus terminat. Id autem quod est ultimus terminus motus, potest accipi dupliciter, vel ipsa res in quam tenditur, utpote locus vel forma; vel quies in re illa.
+Sic ergo in motu appetitus, id quod est appetibile terminans motum appetitus secundum quid, ut medium per quod tenditur in aliud, vocatur utile. Id autem quod appetitur ut ultimum, terminans totaliter motum appetitus, sicut quaedam res in quam per se appetitus tendit, vocatur honestum, quia honestum dicitur quod per se desideratur. Id autem quod terminat motum appetitus ut quies in re desiderata, est delectatio.</latin>
+   </lemma>
+   <lemma>
+      <liber>1</liber>
+      <quaestio>5</quaestio>
+      <articulus>6</articulus>
+      <reference>Ia q. 5 a. 6 ad 1</reference>
+      <type>ad</type>
+      <index>1</index>
+      <latin>Ad primum ergo dicendum quod bonum, inquantum est idem subiecto cum ente, dividitur per decem praedicamenta, sed secundum propriam rationem, competit sibi ista divisio.</latin>
+   </lemma>
+   <lemma>
+      <liber>1</liber>
+      <quaestio>5</quaestio>
+      <articulus>6</articulus>
+      <reference>Ia q. 5 a. 6 ad 2</reference>
+      <type>ad</type>
+      <index>2</index>
+      <latin>Ad secundum dicendum quod haec divisio non est per oppositas res, sed per oppositas rationes. Dicuntur tamen illa proprie delectabilia, quae nullam habent aliam rationem appetibilitatis nisi delectationem, cum aliquando sint et noxia et inhonesta. Utilia vero dicuntur, quae non habent in se unde desiderentur; sed desiderantur solum ut sunt ducentia in alterum, sicut sumptio medicinae amarae. Honesta vero dicuntur, quae in seipsis habent unde desiderentur.</latin>
+   </lemma>
+   <lemma>
+      <liber>1</liber>
+      <quaestio>5</quaestio>
+      <articulus>6</articulus>
+      <reference>Ia q. 5 a. 6 ad 3</reference>
+      <type>ad</type>
+      <index>3</index>
+      <latin>Ad tertium dicendum quod bonum non dividitur in ista tria sicut univocum aequaliter de his praedicatum, sed sicut analogum, quod praedicatur secundum prius et posterius. Per prius enim praedicatur de honesto; et secundario de delectabili; tertio de utili.</latin>
+   </lemma>
+   <lemma>
+      <liber>1</liber>
       <quaestio>59</quaestio>
       <articulus>1</articulus>
       <reference>Ia q. 59 a. 1 arg. 1</reference>
@@ -154669,6 +154743,99 @@ Dico ergo quod haec propositio, Deus est, quantum in se est, per se nota est, qu
    <lemma>
       <liber>4</liber>
       <quaestio>2</quaestio>
+      <articulus>6</articulus>
+      <reference>IIIa q. 2 a. 6 arg. 1</reference>
+      <type>arg</type>
+      <index>1</index>
+      <latin>Ad sextum sic proceditur. Videtur quod humana natura fuerit unita verbo Dei accidentaliter. Dicit enim apostolus, Philipp. II, de filio Dei, quod habitu inventus est ut homo. Sed habitus accidentaliter advenit ei cuius est, sive accipiatur habitus prout est unum de decem generibus; sive prout est species qualitatis. Ergo humana natura accidentaliter unita est filio Dei.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>2</quaestio>
+      <articulus>6</articulus>
+      <reference>IIIa q. 2 a. 6 arg. 2</reference>
+      <type>arg</type>
+      <index>2</index>
+      <latin>Praeterea, omne quod advenit alicui post esse completum, advenit ei accidentaliter, hoc enim dicimus accidens quod potest alicui et adesse et abesse praeter subiecti corruptionem. Sed natura humana advenit ex tempore filio Dei habenti esse perfectum ab aeterno. Ergo advenit ei accidentaliter.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>2</quaestio>
+      <articulus>6</articulus>
+      <reference>IIIa q. 2 a. 6 arg. 3</reference>
+      <type>arg</type>
+      <index>3</index>
+      <latin>Praeterea, quidquid non pertinet ad naturam seu essentiam alicuius rei, est accidens eius, quia omne quod est vel est substantia, vel est accidens. Sed humana natura non pertinet ad essentiam vel naturam filii Dei divinam, quia non est facta unio in natura, ut supra dictum est. Ergo oportet quod natura humana accidentaliter filio Dei advenerit.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>2</quaestio>
+      <articulus>6</articulus>
+      <reference>IIIa q. 2 a. 6 arg. 4</reference>
+      <type>arg</type>
+      <index>4</index>
+      <latin>Praeterea, instrumentum accidentaliter advenit. Sed natura humana in Christo fuit divinitatis instrumentum, dicit enim Damascenus, in III libro, quod caro Christi instrumentum divinitatis existit. Ergo videtur quod humana natura fuerit filio Dei unita accidentaliter.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>2</quaestio>
+      <articulus>6</articulus>
+      <reference>IIIa q. 2 a. 6 s.c.</reference>
+      <type>sc</type>
+      <index>1</index>
+      <latin>Sed contra est quod illud quod accidentaliter praedicatur, non praedicat aliquid, sed quantum vel quale vel aliquo modo se habens si igitur humana natura accidentaliter adveniret, cum dicitur Christus esse homo, non praedicaretur aliquid, sed quale aut quantum aut aliquo modo se habens. Quod est contra decretalem Alexandri Papae dicentis, cum Christus sit perfectus Deus et perfectus homo, qua temeritate audent quidam dicere quod Christus, secundum quod est homo, non est aliquid?</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>2</quaestio>
+      <articulus>6</articulus>
+      <reference>IIIa q. 2 a. 6 co.</reference>
+      <type>co</type>
+      <index>1</index>
+      <latin>Respondeo dicendum quod, ad huius quaestionis evidentiam, sciendum est quod circa mysterium unionis duarum naturarum in Christo, duplex haeresis insurrexit. Una quidem confundentium naturas, sicut Eutychetis et Dioscori, qui posuerunt quod ex duabus naturis est constituta una natura; ita quod confitentur Christum esse ex duabus naturis, quasi ante unionem distinctis; non autem in duabus naturis, quasi post unionem naturarum distinctione cessante. Alia vero fuit haeresis Nestorii et Theodori Mopsuesteni separantium personas. Posuerunt enim aliam esse personam filii Dei, et filii hominis. Quas dicebant sibi invicem esse unitas, primo quidem, secundum inhabitationem, inquantum scilicet verbum Dei habitavit in illo homine sicut in templo. Secundo, secundum unitatem affectus, inquantum scilicet voluntas illius hominis est semper conformis voluntati Dei. Tertio modo, secundum operationem, prout scilicet dicebant hominem illum esse Dei verbi instrumentum. Quarto, secundum dignitatem honoris, prout omnis honor qui exhibetur filio Dei, exhibetur filio hominis, propter coniunctionem ad filium Dei. Quinto, secundum aequivocationem, idest secundum communicationem nominum, prout scilicet dicimus illum hominem esse Deum et filium Dei. Manifestum est autem omnes istos modos accidentalem unionem importare.
+Quidam autem posteriores magistri, putantes se has haereses declinare, in eas per ignorantiam inciderunt. Quidam enim eorum concesserunt unam Christi personam, sed posuerunt duas hypostases, sive duo supposita; dicentes hominem quendam, compositum ex anima et corpore, a principio suae conceptionis esse assumptum a Dei verbo. Et haec est prima opinio quam Magister ponit in sexta distinctione tertii libri sententiarum. Alii vero, volentes servare unitatem personae, posuerunt Christi animam non esse corpori unitam, sed haec duo, separata ab invicem, esse unita verbo accidentaliter, ut sic non cresceret numerus personarum. Et haec est tertia opinio quam Magister ibidem ponit.
+Utraque autem harum opinionum incidit in haeresim Nestorii. Prima quidem, quia idem est ponere duas hypostases vel duo supposita in Christo, quod ponere duas personas, ut supra dictum est. Et si fiat vis in nomine personae, considerandum est quod etiam Nestorius utebatur unitate personae, propter unitatem dignitatis et honoris. Unde et quinta synodus definit anathema eum qui dicit unam personam secundum dignitatem, honorem et adorationem, sicut Theodorus et Nestorius insanientes conscripserunt. Alia vero opinio incidit in errorem Nestorii quantum ad hoc, quod posuit unionem accidentalem. Non enim differt dicere quod verbum Dei unitum est homini Christo secundum inhabitationem sicut in templo suo, sicut dicebat Nestorius; et dicere quod unitum fuit verbum homini secundum induitionem sicut vestimento, sicut dicit tertia opinio. Quae etiam dicit peius aliquid quam Nestorius, quod anima et corpus non sunt unita.
+Fides autem Catholica, medium tenens inter praedictas positiones, neque dicit esse unionem factam Dei et hominis secundum essentiam vel naturam; neque etiam secundum accidens; sed medio modo, secundum subsistentiam seu hypostasim. Unde in quinta synodo legitur, cum multis modis unitas intelligatur, qui iniquitatem Apollinarii et Eutychetis sequuntur, interemptionem eorum quae convenerunt colentes, (idest, interimentes utramque naturam), unionem secundum confusionem dicunt; Theodori autem et Nestorii sequaces, divisione gaudentes, affectualem unitatem introducunt, sancta vero Dei Ecclesia, utriusque perfidiae impietatem reiiciens unionem Dei verbi ad carnem secundum compositionem confitetur, quod est secundum subsistentiam. Sic igitur patet quod secunda trium opinionum quas Magister ponit, quae asserit unam hypostasim Dei et hominis, non est dicenda opinio, sed sententia Catholicae fidei. Similiter etiam prima opinio, quae ponit duas hypostases; et tertia, quae ponit unionem accidentalem; non sunt dicendae opiniones, sed haereses in Conciliis ab Ecclesia damnatae.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>2</quaestio>
+      <articulus>6</articulus>
+      <reference>IIIa q. 2 a. 6 ad 1</reference>
+      <type>ad</type>
+      <index>1</index>
+      <latin>Ad primum ergo dicendum quod, sicut Damascenus dicit, in III libro, non necesse autem omnifariam et indefective assimilari exempla, quod enim in omnibus simile, idem utique erit, et non exemplum. Et maxime in divinis, impossibile enim simile exemplum invenire et in theologia, idest in deitate personarum, et in dispensatione, idest in mysterio incarnationis. Humana igitur natura in Christo assimilatur habitui, idest vestimento, non quidem quantum ad accidentalem unionem, sed quantum ad hoc, quod verbum videtur per humanam naturam, sicut homo per vestimentum. Et etiam quantum ad hoc, quod vestimentum mutatur, quia scilicet formatur secundum figuram eius qui induit ipsum, qui a sua forma non mutatur propter vestimentum, et similiter humana natura assumpta a verbo Dei est meliorata, ipsum autem verbum Dei non est mutatum; ut exponit Augustinus, in libro octogintatrium quaestionum.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>2</quaestio>
+      <articulus>6</articulus>
+      <reference>IIIa q. 2 a. 6 ad 2</reference>
+      <type>ad</type>
+      <index>2</index>
+      <latin>Ad secundum dicendum quod illud quod advenit post esse completum, accidentaliter advenit, nisi trahatur in communionem illius esse completi. Sicut in resurrectione corpus adveniet animae praeexistenti, non tamen accidentaliter, quia ad idem esse assumetur, ut scilicet corpus habeat esse vitale per animam. Non est autem sic de albedine, quia aliud est esse albi, et aliud esse hominis cui advenit albedo. Verbum autem Dei ab aeterno esse completum habuit secundum hypostasim sive personam, ex tempore autem advenit ei natura humana, non quasi assumpta ad unum esse prout est naturae, sicut corpus assumitur ad esse animae; sed ad unum esse prout est hypostasis vel personae. Et ideo humana natura non unitur accidentaliter filio Dei.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>2</quaestio>
+      <articulus>6</articulus>
+      <reference>IIIa q. 2 a. 6 ad 3</reference>
+      <type>ad</type>
+      <index>3</index>
+      <latin>Ad tertium dicendum quod accidens dividitur contra substantiam. Substantia autem, ut patet V Metaphys., dupliciter dicitur, uno modo, essentia sive natura; alio modo, pro supposito sive hypostasi. Unde sufficit ad hoc quod non sit unio accidentalis, quod sit facta unio secundum hypostasim, licet non sit facta unio secundum naturam.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>2</quaestio>
+      <articulus>6</articulus>
+      <reference>IIIa q. 2 a. 6 ad 4</reference>
+      <type>ad</type>
+      <index>4</index>
+      <latin>Ad quartum dicendum quod non omne quod assumitur ut instrumentum, pertinet ad hypostasim assumentis, sicut patet de securi et gladio nihil tamen prohibet illud quod assumitur ad unitatem hypostasis, se habere ut instrumentum, sicut corpus hominis vel membra eius. Nestorius igitur posuit quod natura humana est assumpta a verbo solum per modum instrumenti, non autem ad unitatem hypostasis. Et ideo non concedebat quod homo ille vere esset filius Dei, sed instrumentum eius. Unde Cyrillus dicit, in epistola ad monachos Aegypti, hunc Emanuelem, idest Christum, non tanquam instrumenti officio sumptum dicit Scriptura, sed tanquam Deum vere humanatum, idest hominem factum. Damascenus autem posuit naturam humanam in Christo esse sicut instrumentum ad unitatem hypostasis pertinens.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>2</quaestio>
       <articulus>7</articulus>
       <reference>IIIa q. 2 a. 7 arg. 1</reference>
       <type>arg</type>
@@ -157878,6 +158045,70 @@ Dico ergo quod haec propositio, Deus est, quantum in se est, per se nota est, qu
       <type>ad</type>
       <index>3</index>
       <latin>Ad tertium dicendum quod Angelus, cum sit comprehensor, est supra prophetam qui est purus viator, non autem supra Christum, qui simul fuit viator et comprehensor.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>7</quaestio>
+      <articulus>9</articulus>
+      <reference>IIIa q. 7 a. 9 arg. 1</reference>
+      <type>arg</type>
+      <index>1</index>
+      <latin>Ad nonum sic proceditur. Videtur quod non fuerit in Christo gratiae plenitudo. A gratia enim derivantur virtutes, ut in secunda parte dictum est. Sed in Christo non fuerunt omnes virtutes, non enim fuit in eo fides neque spes, ut ostensum est. Ergo in Christo non fuit gratiae plenitudo.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>7</quaestio>
+      <articulus>9</articulus>
+      <reference>IIIa q. 7 a. 9 arg. 2</reference>
+      <type>arg</type>
+      <index>2</index>
+      <latin>Praeterea, sicut patet ex his quae in secunda parte dicta sunt, gratia dividitur in operantem et cooperantem. Operans autem gratia dicitur per quam iustificatur impius. Quod quidem non habuit locum in Christo, qui nunquam subiacuit alicui peccato. Ergo in Christo non fuit plenitudo gratiae.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>7</quaestio>
+      <articulus>9</articulus>
+      <reference>IIIa q. 7 a. 9 arg. 3</reference>
+      <type>arg</type>
+      <index>3</index>
+      <latin>Praeterea, Iac. I dicitur, omne datum optimum, et omne donum perfectum, de sursum est, descendens a patre luminum. Sed quod descendit, habetur particulariter, et non plene. Ergo nulla creatura, nec etiam anima Christi, potest habere plenitudinem donorum gratiae.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>7</quaestio>
+      <articulus>9</articulus>
+      <reference>IIIa q. 7 a. 9 s.c.</reference>
+      <type>sc</type>
+      <index>1</index>
+      <latin>Sed contra est quod dicitur Ioan. I, vidimus eum plenum gratiae et veritatis.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>7</quaestio>
+      <articulus>9</articulus>
+      <reference>IIIa q. 7 a. 9 co.</reference>
+      <type>co</type>
+      <index>1</index>
+      <latin>Respondeo dicendum quod plene dicitur haberi quod totaliter et perfecte habetur. Totalitas autem et perfectio potest attendi dupliciter. Uno modo, quantum ad quantitatem eius intensivam, puta si dicam aliquem plene habere albedinem, si habeat eam quantumcumque nata est haberi. Alio modo, secundum virtutem, puta si aliquis dicatur plene habere vitam, quia habet eam secundum omnes effectus vel opera vitae. Et sic plene habet vitam homo, non autem brutum animal, vel planta. Utroque autem modo Christus habuit gratiae plenitudinem. Primo quidem, quia habuit eam in summo, secundum perfectissimum modum qui potest haberi. Et hoc quidem apparet primo, ex propinquitate animae Christi ad causam gratiae. Dictum est enim quod, quanto aliquod receptivum propinquius est causae influenti, abundantius recipit. Et ideo anima Christi, quae propinquius coniungitur Deo inter omnes creaturas rationales, recipit maximam influentiam gratiae eius. Secundo, ex comparatione eius ad effectum. Sic enim recipiebat anima Christi gratiam ut ex ea quodammodo transfunderetur in alios. Et ideo oportuit quod haberet maximam gratiam, sicut ignis, qui est causa caloris in omnibus calidis, est maxime calidus.
+Similiter etiam quantum ad virtutem gratiae, plene habuit gratiam, quia habuit eam ad omnes operationes vel effectus gratiae. Et hoc ideo, quia conferebatur ei gratia tanquam cuidam universali principio in genere habentium gratias. Virtus autem primi principii alicuius generis universaliter se extendit ad omnes effectus illius generis, sicut sol, qui est universalis causa generationis, ut dicit Dionysius, IV cap. de Div. Nom., eius virtus se extendit ad omnia quae sub generatione cadunt. Et sic secunda plenitudo gratiae attenditur in Christo, inquantum se extendit eius gratia ad omnes gratiae effectus, qui sunt virtutes et dona et alia huiusmodi.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>7</quaestio>
+      <articulus>9</articulus>
+      <reference>IIIa q. 7 a. 9 ad 1</reference>
+      <type>ad</type>
+      <index>1</index>
+      <latin>Ad primum ergo dicendum quod fides et spes nominant effectus gratiae cum quodam defectu qui est ex parte recipientis gratiam, inquantum scilicet fides est de non visis, et spes de non habitis. Unde non oportet quod in Christo, qui est auctor gratiae, fuerint defectus quos important fides et spes. Sed quidquid est perfectionis in fide et spe, est in Christo multo perfectius. Sicut in igne non sunt omnes modi caloris defectivi ex defectu subiecti, sed quidquid pertinet ad perfectionem caloris.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>7</quaestio>
+      <articulus>9</articulus>
+      <reference>IIIa q. 7 a. 9 ad 2</reference>
+      <type>ad</type>
+      <index>2</index>
+      <latin>Ad secundum dicendum quod ad gratiam operantem per se pertinet facere iustum, sed quod iustum faciat ex impio, hoc accidit ei ex parte subiecti, in quo peccatum invenitur. Anima Christi igitur iustificata est per gratiam operantem, inquantum per eam facta est iusta et sancta a principio suae conceptionis, non quod ante fuerit peccatrix, aut etiam non iusta.</latin>
    </lemma>
    <lemma>
       <liber>4</liber>
@@ -161208,6 +161439,78 @@ Dico ergo quod haec propositio, Deus est, quantum in se est, per se nota est, qu
       <type>ad</type>
       <index>3</index>
       <latin>Ad tertium dicendum quod ipse poterat facere omnia secundum virtutem divinam, secundum quam in eo admiratio non erat, sed solum secundum humanam scientiam experimentalem, ut dictum est.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>15</quaestio>
+      <articulus>9</articulus>
+      <reference>IIIa q. 15 a. 9 arg. 1</reference>
+      <type>arg</type>
+      <index>1</index>
+      <latin>Ad nonum sic proceditur. Videtur quod in Christo non fuerit ira. Dicitur enim Iac. I, ira enim viri iustitiam Dei non operatur. Sed quidquid fuit in Christo ad iustitiam Dei pertinuit, ipse enim factus est nobis iustitia a Deo, ut dicitur I Cor. I. Ergo videtur quod in Christo non fuerit ira.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>15</quaestio>
+      <articulus>9</articulus>
+      <reference>IIIa q. 15 a. 9 arg. 2</reference>
+      <type>arg</type>
+      <index>2</index>
+      <latin>Praeterea, ira mansuetudini opponitur, ut patet in IV Ethic. Sed Christus fuit maxime mansuetus. Ergo in Christo non fuit ira.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>15</quaestio>
+      <articulus>9</articulus>
+      <reference>IIIa q. 15 a. 9 arg. 3</reference>
+      <type>arg</type>
+      <index>3</index>
+      <latin>Praeterea, Gregorius dicit, in V Moral., quod ira per vitium excaecat oculum mentis; ira vero per zelum ipsum turbat. Sed in Christo mentis oculus non fuit neque excaecatus neque turbatus. Ergo in Christo non fuit ira per vitium, nec ira per zelum.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>15</quaestio>
+      <articulus>9</articulus>
+      <reference>IIIa q. 15 a. 9 s.c.</reference>
+      <type>sc</type>
+      <index>1</index>
+      <latin>Sed contra est quod Ioan. II dicitur de eo esse impletum quod in Psalmo legitur, zelus domus tuae comedit me.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>15</quaestio>
+      <articulus>9</articulus>
+      <reference>IIIa q. 15 a. 9 co.</reference>
+      <type>co</type>
+      <index>1</index>
+      <latin>Respondeo dicendum quod, sicut in secunda parte dictum est, ira est effectus tristitiae. Ex tristitia enim alicui illata consequitur in eo, circa sensitivam partem, appetitus repellendi illatam iniuriam vel sibi vel aliis. Et sic ira est passio composita ex tristitia et appetitu vindictae. Dictum est autem quod in Christo tristitia esse potuit. Appetitus etiam vindictae quandoque est cum peccato, quando scilicet aliquis vindictam quaerit sibi absque ordine rationis. Et sic ira in Christo esse non potuit, hoc enim dicitur ira per vitium. Quandoque vero talis appetitus est sine peccato, immo est laudabilis, puta cum aliquis appetit vindictam secundum ordinem iustitiae. Et hoc vocatur ira per zelum, dicit enim Augustinus, super Ioan., quod zelo domus Dei comeditur qui omnia perversa quae videt cupit emendare; et, si emendare non possit, tolerat et gemit. Et talis ira fuit in Christo.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>15</quaestio>
+      <articulus>9</articulus>
+      <reference>IIIa q. 15 a. 9 ad 1</reference>
+      <type>ad</type>
+      <index>1</index>
+      <latin>Ad primum ergo dicendum quod, sicut dicit Gregorius, in V Moral., ira dupliciter se habet in homine. Quandoque enim praevenit rationem, et trahit eam secum ad operandum. Et tunc proprie ira dicitur operari, nam operatio attribuitur principali agenti. Et secundum hoc intelligitur quod ira viri iustitiam Dei non operatur. Quandoque vero ira sequitur rationem, et est quasi instrumentum ipsius. Et tunc operatio, quae est iustitiae, non attribuitur irae, sed rationi.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>15</quaestio>
+      <articulus>9</articulus>
+      <reference>IIIa q. 15 a. 9 ad 2</reference>
+      <type>ad</type>
+      <index>2</index>
+      <latin>Ad secundum dicendum quod ira quae transgreditur ordinem rationis mansuetudini opponitur, non autem ira quae est moderata, ad medium reducta per rationem. Nam mansuetudo medium tenet in ira.</latin>
+   </lemma>
+   <lemma>
+      <liber>4</liber>
+      <quaestio>15</quaestio>
+      <articulus>9</articulus>
+      <reference>IIIa q. 15 a. 9 ad 3</reference>
+      <type>ad</type>
+      <index>3</index>
+      <latin>Ad tertium dicendum quod in nobis, secundum naturalem ordinem, potentiae animae mutuo se impediunt, ita scilicet quod, cum unius potentiae operatio fuerit intensa, alterius operatio debilitetur. Et ex hoc procedit quod motus irae etiam si sit secundum rationem moderatus, utcumque impedit oculum animae contemplantis. Sed in Christo, per moderationem divinae virtutis, unicuique potentiae permittebatur agere quod erat ei proprium, ita quod una potentia ex alia non impediebatur. Et ideo, sicut delectatio mentis contemplantis non impediebat tristitiam vel dolorem inferioris partis, ita etiam e converso passiones inferioris partis in nullo impediebant actum rationis.</latin>
    </lemma>
    <lemma>
       <liber>4</liber>

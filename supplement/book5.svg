@@ -27,8 +27,8 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="2.6369231"
-     inkscape:cx="1.7065344"
-     inkscape:cy="1.3273046"
+     inkscape:cx="-22.753792"
+     inkscape:cy="1.3273045"
      inkscape:window-width="1914"
      inkscape:window-height="1040"
      inkscape:window-x="0"
@@ -46,7 +46,10 @@
      width="325"
      height="325"
      x="-160.97491"
-     y="-161.10201" /><polygon
+     y="-161.10201"
+     inkscape:export-filename="./book5.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" /><polygon
      class="c"
      points="0,2 0,4 3,0 "
      id="polygon2684"
